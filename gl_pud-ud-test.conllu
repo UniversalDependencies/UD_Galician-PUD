@@ -4225,9 +4225,9 @@
 13	en	en	ADP	SP	AdpType=Prep	14	case	_	_
 14	Carolina	carolina	PROPN	NP00000	_	3	nmod	_	_
 15-16	do	_	_	_	_	_	_	_	_
-15	de	de	ADP	SP	AdpType=Prep	14	fixed	_	_
-16	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	fixed	_	_
-17	Norte	norte	PROPN	NP00000	_	14	fixed	_	_
+15	de	de	ADP	SP	AdpType=Prep	17	case	_	_
+16	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+17	Norte	norte	NOUN	NCMS000	Gender=Masc|Number=Sing	14	nmod	_	_
 18-19	no	_	_	_	_	_	_	_	_
 18	en	en	ADP	SP	AdpType=Prep	20	case	_	_
 19	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
