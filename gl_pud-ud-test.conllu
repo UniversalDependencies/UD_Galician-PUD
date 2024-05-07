@@ -174,7 +174,7 @@
 35-36	do	_	_	_	_	_	_	_	_
 35	de	de	ADP	NP00000	_	37	case	_	_
 36	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	37	det	_	_
-37	Norte	norte	PROPN	NP00000	_	34	nmod	_	SpaceAfter=No
+37	Norte	norte	NOUN	NCMS000	Gender=Masc|Number=Sing	34	nmod	_	SpaceAfter=No
 38	.	.	PUNCT	Fp	_	4	punct	_	_
 
 # sent_id = n01002042
@@ -2412,7 +2412,7 @@
 2	todo	todo	DET	DI0MS0	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	1	fixed	_	SpaceAfter=No
 3	,	,	PUNCT	Fc	_	1	punct	_	_
 4	un	un	DET	DI0MS0	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
-5	escáner	escáner	PROPN	NP00000	_	6	obl	_	_
+5	escáner	escáner	NOUN	NCMS000	_	6	obl	_	_
 6	mostrou	mostrar	VERB	VMIS3S0	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
 7	que	que	SCONJ	CS	_	19	mark	_	_
 8	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
@@ -4106,7 +4106,7 @@
 4	de	de	ADP	SP	AdpType=Prep	1	fixed	_	_
 5	contas	conta	NOUN	NCFP000	Gender=Fem|Number=Plur	1	fixed	_	SpaceAfter=No
 6	,	,	PUNCT	Fc	_	11	punct	_	_
-7	Internet	internet	PROPN	NP00000	_	11	nsubj	_	_
+7	Internet	internet	NOUN	NCFS000	Gender=Fem|Number=Sing	11	nsubj	_	_
 8	non	non	ADV	RN	Polarity=Neg	11	advmod	_	_
 9	é	ser	AUX	VSIP3S0	Mood=Ind|Number=Sing|Person=3|Tense=Pres	11	cop	_	_
 10	un	un	DET	DI0MS0	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
@@ -4603,10 +4603,10 @@
 14	versión	versión	NOUN	NCFS000	Gender=Fem|Number=Sing	11	obj	_	_
 15	de	de	ADP	SP	AdpType=Prep	17	case	_	_
 16	"	"	PUNCT	Fe	_	17	punct	_	SpaceAfter=No
-17	Knuck	knuck	PROPN	NP00000	_	14	nmod	_	_
-18	If	if	PROPN	NP00000	_	17	flat:foreign	_	_
-19	You	you	PROPN	NP00000	_	17	flat:foreign	_	_
-20	Buck	buck	PROPN	NP00000	_	17	flat:foreign	_	SpaceAfter=No
+17	Knuck	knuck	X	_	Foreign=Yes	14	nmod	_	_
+18	If	if	X	_	Foreign=Yes	17	flat:foreign	_	_
+19	You	you	X	_	Foreign=Yes	17	flat:foreign	_	_
+20	Buck	buck	X	_	Foreign=Yes	17	flat:foreign	_	SpaceAfter=No
 21	"	"	PUNCT	Fe	_	17	punct	_	_
 22-23	nun	_	_	_	_	_	_	_	_
 22	en	en	ADP	SP	AdpType=Prep	24	case	_	_
@@ -5678,10 +5678,12 @@
 11	decidiron	decidir	VERB	VMIS3P0	Mood=Ind|Number=Plur|Person=3|Tense=Past	2	conj	_	_
 12	que	que	SCONJ	CS	_	13	mark	_	_
 13	preferían	preferir	VERB	VMII3P0	Mood=Ind|Number=Plur|Person=3|Tense=Imp	11	ccomp	_	_
-14	velo	velar	VERB	VMIP1S0	Mood=Ind|Number=Sing|Person=1|Tense=Pres	13	xcomp	_	_
-15	sen	sen	ADP	SP	AdpType=Prep	16	case	_	_
-16	min	min	PROPN	NP00000	_	14	obl	_	SpaceAfter=No
-17	.	.	PUNCT	Fp	_	1	punct	_	_
+14-15	velo	_	_	_	_	_	_	_	_
+14	ver	ver	VERB	VMN0000	VerbForm=Inf	13	xcomp	_	_
+15	o	o	PRON	PP3MSA00	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	obj	_	_
+16	sen	sen	ADP	SP	AdpType=Prep	17	case	_	_
+17	min	min	PRON	PP1CS000	Gender=Com|Number=Sing|Person=1|PronType=Prs	14	obl	_	SpaceAfter=No
+18	.	.	PUNCT	Fp	_	1	punct	_	_
 
 # sent_id = n01081022
 # text = Non podemos deixar que alguén tan racista, sexista e tan pouco preparado para ser comandante en xefe como Donald Trump gañe as eleccións.
@@ -8978,17 +8980,17 @@
 18	presentados	presentar	VERB	VMP00PM	Gender=Masc|Number=Plur|VerbForm=Part	9	acl	_	_
 19	como	como	ADP	SP	AdpType=Prep	21	case	_	_
 20	"	"	PUNCT	Fe	_	21	punct	_	SpaceAfter=No
-21	The	the	PROPN	NP00000	_	18	obl	_	_
-22	Winds	winds	PROPN	NP00000	_	21	flat:foreign	_	_
-23	of	of	ADP	NP00000	_	21	flat:foreign	_	_
-24	Winter	winter	PROPN	NP00000	_	21	flat:foreign	_	SpaceAfter=No
+21	The	the	X	_	Foreign=Yes	18	obl	_	_
+22	Winds	winds	X	_	Foreign=Yes	21	flat:foreign	_	_
+23	of	of	X	_	Foreign=Yes	21	flat:foreign	_	_
+24	Winter	winter	X	_	Foreign=Yes	21	flat:foreign	_	SpaceAfter=No
 25	"	"	PUNCT	Fe	_	24	punct	_	_
 26	e	e	CCONJ	CC	_	28	cc	_	_
 27	"	"	PUNCT	Fe	_	28	punct	_	SpaceAfter=No
-28	A	a	PROPN	NP00000	_	21	conj	_	_
-29	Dream	dream	PROPN	NP00000	_	28	flat:foreign	_	_
-30	of	of	ADP	NP00000	_	28	flat:foreign	_	_
-31	Spring	spring	PROPN	NP00000	_	28	flat:foreign	_	SpaceAfter=No
+28	A	a	X	_	Foreign=Yes	21	conj	_	_
+29	Dream	dream	X	_	Foreign=Yes	28	flat:foreign	_	_
+30	of	of	X	_	Foreign=Yes	28	flat:foreign	_	_
+31	Spring	spring	X	_	Foreign=Yes	28	flat:foreign	_	SpaceAfter=No
 32	"	"	PUNCT	Fe	_	28	punct	_	SpaceAfter=No
 33	.	.	PUNCT	Fp	_	5	punct	_	_
 
@@ -9392,9 +9394,9 @@
 8	posterior	posterior	ADJ	AQ0CS	_	7	amod	_	SpaceAfter=No
 9	,	,	PUNCT	Fc	_	11	punct	_	_
 10	"	"	PUNCT	Fe	_	11	punct	_	SpaceAfter=No
-11	The	the	PROPN	NP00000	_	7	appos	_	_
-12	Talking	talking	PROPN	NP00000	_	11	flat:foreign	_	_
-13	Dead	dead	PROPN	NP00000	_	11	flat:foreign	_	SpaceAfter=No
+11	The	the	X	_	Foreign=Yes	7	appos	_	_
+12	Talking	talking	X	_	Foreign=Yes	11	flat:foreign	_	_
+13	Dead	dead	X	_	Foreign=Yes	11	flat:foreign	_	SpaceAfter=No
 14	"	"	PUNCT	Fe	_	11	punct	_	SpaceAfter=No
 15	.	.	PUNCT	Fp	_	5	punct	_	_
 
@@ -10475,7 +10477,7 @@
 34	como	como	ADP	SP	AdpType=Prep	36	case	_	_
 35	a	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	36	det	_	_
 36	colonia	colonia	NOUN	NCFS000	Gender=Fem|Number=Sing	28	nmod	_	_
-37	megarense	megarense	PROPN	NP00000	_	36	nmod	_	_
+37	megarense	megarense	ADJ	AQ0CS	_	36	amod	_	_
 38	de	de	ADP	SP	AdpType=Prep	39	case	_	_
 39	Bizancio	bizancio	PROPN	NP00000	_	36	nmod	_	SpaceAfter=No
 40	.	.	PUNCT	Fp	_	24	punct	_	_
@@ -11691,8 +11693,8 @@
 15	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
 16	Mediterráneo	mediterráneo	PROPN	NP00000	_	12	obl	_	_
 17	como	como	ADP	SP	AdpType=Prep	18	case	_	_
-18	Mare	mare	PROPN	NP00000	_	12	obl	_	_
-19	Nostrum	nostrum	PROPN	NP00000	_	18	flat:foreign	_	_
+18	Mare	mare	X	_	Foreign=Yes	12	obl	_	_
+19	Nostrum	nostrum	X	_	Foreign=Yes	18	flat:foreign	_	_
 20	(	(	PUNCT	Fpa	_	24	punct	_	SpaceAfter=No
 21	"	"	PUNCT	Fe	_	24	punct	_	SpaceAfter=No
 22	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	24	det	_	_
@@ -13354,7 +13356,7 @@
 2	producións	produción	NOUN	NCFP000	Gender=Fem|Number=Plur	8	nsubj	_	_
 3	industriais	industrial	ADJ	AQ0CP	_	2	amod	_	_
 4	de	de	ADP	SP	AdpType=Prep	5	case	_	_
-5	Nevada	_	PROPN	NP00000	_	2	nmod	_	_
+5	Nevada	nevada	PROPN	NP00000	_	2	nmod	_	_
 6	son	ser	AUX	VSIP1S0	Mood=Ind|Number=Sing|Person=1|Tense=Pres	8	cop	_	_
 7	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
 8	turismo	turismo	NOUN	NCMS000	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
@@ -13541,7 +13543,7 @@
 32	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	33	det	_	_
 33	istmo	istmo	NOUN	NCMS000	Gender=Masc|Number=Sing	30	nmod	_	_
 34	de	de	ADP	SP	AdpType=Prep	35	case	_	_
-35	Panamá	Panamá	PROPN	NP00000	_	33	nmod	_	SpaceAfter=No
+35	Panamá	panamá	PROPN	NP00000	_	33	nmod	_	SpaceAfter=No
 36	)	)	PUNCT	Fpt	_	25	punct	_	_
 37-38	do	_	_	_	_	_	_	_	_
 37	de	de	ADP	SP	AdpType=Prep	40	case	_	_
@@ -14639,7 +14641,7 @@
 22	.	.	PUNCT	Fp	_	7	punct	_	_
 
 # sent_id = w01060040
-# text = Acadou unha mellor reputación na corte cando visitou á dinastía kitán Liao como enviado no verán de 1075.
+# text = Acadou unha mellor reputación na corte cando visitou a dinastía Kitán Liao como enviado no verán de 1075.
 1	Acadou	acadar	VERB	VMIS3S0	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
 2	unha	un	DET	DI0FS0	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
 3	mellor	mellor	ADJ	AQ0CS	_	4	amod	_	_
@@ -14650,26 +14652,24 @@
 7	corte	corte	NOUN	NCCS000	Gender=Com|Number=Sing	1	obl	_	_
 8	cando	cando	ADV	RG	_	9	advmod	_	_
 9	visitou	visitar	VERB	VMIS3S0	Mood=Ind|Number=Sing|Person=3|Tense=Past	1	advcl	_	_
-10-11	á	_	_	_	_	_	_	_	_
-10	a	a	ADP	SP	AdpType=Prep	12	case	_	_
-11	a	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
-12	dinastía	dinastía	NOUN	NCFS000	Gender=Fem|Number=Sing	9	obj	_	_
-13	kitán	kitán	NOUN	NCMS000	Gender=Masc|Number=Sing	12	nmod	_	_
-14	Liao	liao	PROPN	NP00000	_	13	nmod	_	_
-15	como	como	ADP	SP	_	16	case	_	_
-16	enviado	enviado	NOUN	NCMS000	Gender=Masc|Number=Sing	9	obl	_	_
-17-18	no	_	_	_	_	_	_	_	_
-17	en	en	ADP	SP	AdpType=Prep	19	case	_	_
-18	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
-19	verán	verán	NOUN	NCMS000	Gender=Masc|Number=Sing	9	obl	_	_
-20	de	de	ADP	SP	AdpType=Prep	21	case	_	_
-21	1075	1075	NUM	Z	NumType=Card	19	nummod	_	SpaceAfter=No
-22	.	.	PUNCT	Fp	_	1	punct	_	_
+10	a	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	dinastía	dinastía	NOUN	NCFS000	Gender=Fem|Number=Sing	9	obj	_	_
+12	Kitán	kitán	PROPN	NP00000	_	11	nmod	_	_
+13	Liao	liao	PROPN	NP00000	_	12	nmod	_	_
+14	como	como	ADP	SP	_	15	case	_	_
+15	enviado	enviado	NOUN	NCMS000	Gender=Masc|Number=Sing	8	obl	_	_
+16-17	no	_	_	_	_	_	_	_	_
+16	en	en	ADP	SP	AdpType=Prep	18	case	_	_
+17	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+18	verán	verán	NOUN	NCMS000	Gender=Masc|Number=Sing	9	obl	_	_
+19	de	de	ADP	SP	AdpType=Prep	20	case	_	_
+20	1075	1075	NUM	Z	NumType=Card	18	nummod	_	SpaceAfter=No
+21	.	.	PUNCT	Fp	_	1	punct	_	_
 
 # sent_id = w01060041
-# text = Os kitáns mantiveran varias negociacións agresivas para desprazar as súas fronteiras máis ao sur, mentres manipulaban a varios embaixadores chineses incompetentes que cederon ás esixencias do reino Liao.
+# text = Os Kitán mantiveran varias negociacións agresivas para desprazar as súas fronteiras máis ao sur, mentres manipulaban a varios embaixadores chineses incompetentes que cederon ás esixencias do reino Liao.
 1	Os	o	DET	DA0MP0	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
-2	kitáns	kitán	NOUN	NCMP000	Gender=Masc|Number=Plur	3	nsubj	_	_
+2	Kitán	kitán	PROPN	NP00000	_	3	nsubj	_	_
 3	mantiveran	manter	VERB	VMIM3P0	Mood=Ind|Number=Plur|Person=3|Tense=Pqp	0	root	_	_
 4	varias	varios	DET	DI0FP0	Definite=Ind|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
 5	negociacións	negociación	NOUN	NCFP000	Gender=Fem|Number=Plur	3	obj	_	_
@@ -16515,17 +16515,18 @@
 13	exército	exército	NOUN	NCMS000	Gender=Masc|Number=Sing	10	obj	_	_
 14	macedonio	macedonio	ADJ	AQ0MS	_	13	amod	_	_
 15	e	e	CCONJ	CC	_	16	cc	_	_
-16	adentrouse	adentrouse	PROPN	NP00000	_	14	conj	_	_
-17	en	en	ADP	SP	AdpType=Prep	18	case	_	_
-18	Tracia	tracia	PROPN	NP00000	_	10	obl	_	_
-19-20	nunha	_	_	_	_	_	_	_	_
-19	en	en	ADP	SP	AdpType=Prep	22	case	_	_
-20	unha	un	DET	DI0FS0	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	22	det	_	_
-21	longa	longo	ADJ	AQ0FS	_	22	amod	_	_
-22	campaña	campaña	NOUN	NCFS000	Gender=Fem|Number=Sing	10	obl	_	_
-23	de	de	ADP	SP	AdpType=Prep	24	case	_	_
-24	conquista	conquista	NOUN	NCFS000	Gender=Fem|Number=Sing	22	nmod	_	SpaceAfter=No
-25	.	.	PUNCT	Fp	_	10	punct	_	_
+16	adentrou	adentrar	VERB	VMIS3S0	Mood=Ind|Number=Sing|Person=3|Tense=Past	10	conj	_	SpaceAfter=No
+17	se	se	PRON	PP3CN000	Gender=Com|Person=3|PronType=Prs	16	expl	_	_
+18	en	en	ADP	SP	AdpType=Prep	19	case	_	_
+19	Tracia	tracia	PROPN	NP00000	_	16	obl	_	_
+20-21	nunha	_	_	_	_	_	_	_	_
+20	en	en	ADP	SP	AdpType=Prep	23	case	_	_
+21	unha	un	DET	DI0FS0	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	23	det	_	_
+22	longa	longo	ADJ	AQ0FS	_	23	amod	_	_
+23	campaña	campaña	NOUN	NCFS000	Gender=Fem|Number=Sing	16	obl	_	_
+24	de	de	ADP	SP	AdpType=Prep	25	case	_	_
+25	conquista	conquista	NOUN	NCFS000	Gender=Fem|Number=Sing	23	nmod	_	SpaceAfter=No
+26	.	.	PUNCT	Fp	_	10	punct	_	_
 
 # sent_id = w01081030
 # text = Catalina de Rusia tamén estaba moi satisfeita.
@@ -18497,8 +18498,8 @@
 10	a	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
 11	rodaxe	rodaxe	NOUN	NCFS000	Gender=Fem|Number=Sing	2	obl	_	_
 12	de	de	ADP	SP	AdpType=Prep	13	case	_	_
-13	That	that	PROPN	NP00000	_	11	nmod	_	_
-14	Summer	summer	PROPN	NP00000	_	13	flat:foreign	_	_
+13	That	that	X	_	Foreign=Yes	11	nmod	_	_
+14	Summer	summer	X	_	Foreign=Yes	13	flat:foreign	_	_
 15	en	en	ADP	SP	AdpType=Prep	16	case	_	_
 16	1979	1979	NUM	Z	NumType=Card	2	obl	_	SpaceAfter=No
 17	.	.	PUNCT	Fp	_	2	punct	_	_
@@ -18837,16 +18838,16 @@
 9	Unidos	unido	ADJ	AQ0MP	_	8	amod	_	SpaceAfter=No
 10	,	,	PUNCT	Fc	_	8	punct	_	_
 11	"	"	PUNCT	Fe	_	12	punct	_	SpaceAfter=No
-12	The	the	PROPN	NP00000	_	23	nsubj	_	_
-13	Power	power	PROPN	NP00000	_	12	flat:foreign	_	_
-14	of	of	PROPN	NP00000	_	12	flat:foreign	_	_
-15	Now	now	PROPN	NP00000	_	12	flat:foreign	_	SpaceAfter=No
+12	The	the	X	_	Foreign=Yes	23	nsubj	_	_
+13	Power	power	X	_	Foreign=Yes	12	flat:foreign	_	_
+14	of	of	X	_	Foreign=Yes	12	flat:foreign	_	_
+15	Now	now	X	_	Foreign=Yes	12	flat:foreign	_	SpaceAfter=No
 16	"	"	PUNCT	Fe	_	12	punct	_	_
 17	e	e	CCONJ	CC	_	19	cc	_	_
 18	"	"	PUNCT	Fe	_	19	punct	_	SpaceAfter=No
-19	A	a	PROPN	NP00000	_	12	conj	_	_
-20	New	new	PROPN	NP00000	_	19	flat:foreign	_	_
-21	Earth	earth	PROPN	NP00000	_	19	flat:foreign	_	SpaceAfter=No
+19	A	a	X	_	Foreign=Yes	12	conj	_	_
+20	New	new	X	_	Foreign=Yes	19	flat:foreign	_	_
+21	Earth	earth	X	_	Foreign=Yes	19	flat:foreign	_	SpaceAfter=No
 22	"	"	PUNCT	Fe	_	19	punct	_	_
 23	venderan	vender	VERB	VMIM3P0	Mood=Ind|Number=Plur|Person=3|Tense=Pqp	3	ccomp	_	_
 24	tres	3	NUM	Z	_	27	nummod	_	_
@@ -19095,10 +19096,10 @@
 # sent_id = w01122031
 # text = "Really Really Love You" saíu en agosto e chegou ao top 50; "Shaky Ground", o single relacionado, lanzouse en setembro, pero daquela Geyer xa estaba nos Estados Unidos.
 1	"	"	PUNCT	Fe	_	2	punct	_	SpaceAfter=No
-2	Really	really	PROPN	NP00000	_	7	nsubj	_	_
-3	Really	really	PROPN	NP00000	_	2	flat:foreign	_	_
-4	Love	love	PROPN	NP00000	_	2	flat:foreign	_	_
-5	You	you	PROPN	NP00000	_	2	flat:foreign	_	SpaceAfter=No
+2	Really	really	X	_	Foreign=Yes	7	nsubj	_	_
+3	Really	really	X	_	Foreign=Yes	2	flat:foreign	_	_
+4	Love	love	X	_	Foreign=Yes	2	flat:foreign	_	_
+5	You	you	X	_	Foreign=Yes	2	flat:foreign	_	SpaceAfter=No
 6	"	"	PUNCT	Fe	_	2	punct	_	_
 7	saíu	saír	VERB	VMIS3S0	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
 8	en	en	ADP	SP	AdpType=Prep	9	case	_	_
@@ -19112,8 +19113,8 @@
 15	50	50	NUM	Z	NumType=Card	14	nummod	_	SpaceAfter=No
 16	;	;	PUNCT	Fx	_	26	punct	_	_
 17	"	"	PUNCT	Fe	_	18	punct	_	SpaceAfter=No
-18	Shaky	shaky	PROPN	NP00000	_	26	nsubj	_	_
-19	Ground	ground	PROPN	NP00000	_	18	flat:foreign	_	SpaceAfter=No
+18	Shaky	shaky	X	_	Foreign=Yes	26	nsubj	_	_
+19	Ground	ground	X	_	Foreign=Yes	18	flat:foreign	_	SpaceAfter=No
 20	"	"	PUNCT	Fe	_	18	punct	_	SpaceAfter=No
 21	,	,	PUNCT	Fc	_	23	punct	_	_
 22	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
@@ -19191,7 +19192,7 @@
 5	seus	seu	DET	DP3MP0	Definite=Def|Gender=Masc|Number=Plur|Person=3|Poss=Yes	6	det	_	_
 6	avances	avance	NOUN	NCMP000	Gender=Masc|Number=Plur	8	nsubj	_	_
 7	se	se	PRON	PP3CN000	Gender=Com|Person=3|PronType=Prs	8	expl	_	_
-8	detivesen	deter	VERB	VMIM3P0	Mood=Ind|Number=Plur|Person=3|Tense=Pqp	26	advcl	_	_
+8	detivesen	deter	VERB	VMIM3P0	Mood=Ind|Number=Plur|Person=3|Tense=Pqp	25	advcl	_	_
 9-10	na	_	_	_	_	_	_	_	_
 9	en	en	ADP	SP	AdpType=Prep	11	case	_	_
 10	a	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
@@ -19206,40 +19207,39 @@
 18	200	200	NUM	Z	NumType=Card	17	flat:name	_	SpaceAfter=No
 19	,	,	PUNCT	Fc	_	8	punct	_	_
 20	"	"	PUNCT	Fe	_	21	punct	_	SpaceAfter=No
-21	Thought	thought	PROPN	NP00000	_	26	nsubj	_	_
-22	'	'	PUNCT	Fe	_	21	punct	_	SpaceAfter=No
-23	Ya	ya	PROPN	NP00000	_	21	flat:foreign	_	_
-24	Knew	knew	PROPN	NP00000	_	21	flat:foreign	_	SpaceAfter=No
-25	"	"	PUNCT	Fe	_	21	punct	_	_
-26	escalou	escalar	VERB	VMIS3S0	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
-27	ata	ata	ADP	SP	AdpType=Prep	29	case	_	_
-28	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	29	det	_	_
-29	posto	posto	NOUN	NCMS000	Gender=Masc|Number=Sing	26	obl	_	_
-30	número	número	NOUN	NCMS000	Gender=Masc|Number=Sing	29	nmod	_	_
-31	31	31	NUM	Z	NumType=Card	30	nummod	_	_
-32-33	no	_	_	_	_	_	_	_	_
-32	en	en	ADP	SP	AdpType=Prep	34	case	_	_
-33	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	34	det	_	_
-34	Reino	reino	NOUN	NCMS000	Gender=Masc|Number=Sing	29	nmod	_	_
-35	Unido	unido	ADJ	AQ0MS	_	34	amod	_	SpaceAfter=No
-36	,	,	PUNCT	Fc	_	41	punct	_	_
-37	mais	mais	CCONJ	CC	_	41	cc	_	_
-38	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	39	det	_	_
-39	álbum	álbum	NOUN	NCMS000	Gender=Masc|Number=Sing	41	nsubj	_	_
-40	só	só	ADV	RG	_	41	advmod	_	_
-41	estivo	estar	VERB	VMIS3S0	Mood=Ind|Number=Sing|Person=3|Tense=Past	26	conj	_	_
-42-43	na	_	_	_	_	_	_	_	_
-42	en	en	ADP	SP	AdpType=Prep	44	case	_	_
-43	a	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	44	det	_	_
-44	lista	lista	NOUN	NCFS000	Gender=Fem|Number=Sing	41	obl	_	_
-45	dúas	2	NUM	Z	NumType=Card	46	nummod	_	_
-46	semanas	semana	NOUN	NCFP000	Gender=Fem|Number=Plur	41	obl	_	_
-47-48	no	_	_	_	_	_	_	_	_
-47	en	en	ADP	SP	AdpType=Prep	49	case	_	_
-48	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	49	det	_	_
-49	Reino	reino	NOUN	NCMS000	Gender=Masc|Number=Sing	41	obl	_	_
-50	Unido	unido	ADJ	AQ0MS	_	49	amod	_	SpaceAfter=No
-51	.	.	PUNCT	Fp	_	26	punct	_	_
+21	Thought	thought	X	_	Foreign=Yes	25	nsubj	_	_
+22	'Ya	'ya	X	_	Foreign=Yes	21	flat:foreign	_	_
+23	Knew	knew	X	_	Foreign=Yes	21	flat:foreign	_	SpaceAfter=No
+24	"	"	PUNCT	Fe	_	21	punct	_	_
+25	escalou	escalar	VERB	VMIS3S0	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
+26	ata	ata	ADP	SP	AdpType=Prep	28	case	_	_
+27	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	28	det	_	_
+28	posto	posto	NOUN	NCMS000	Gender=Masc|Number=Sing	25	obl	_	_
+29	número	número	NOUN	NCMS000	Gender=Masc|Number=Sing	28	nmod	_	_
+30	31	31	NUM	Z	NumType=Card	29	nummod	_	_
+31-32	no	_	_	_	_	_	_	_	_
+31	en	en	ADP	SP	AdpType=Prep	33	case	_	_
+32	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	33	det	_	_
+33	Reino	reino	NOUN	NCMS000	Gender=Masc|Number=Sing	28	nmod	_	_
+34	Unido	unido	ADJ	AQ0MS	_	33	amod	_	SpaceAfter=No
+35	,	,	PUNCT	Fc	_	40	punct	_	_
+36	mais	mais	CCONJ	CC	_	40	cc	_	_
+37	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	38	det	_	_
+38	álbum	álbum	NOUN	NCMS000	Gender=Masc|Number=Sing	40	nsubj	_	_
+39	só	só	ADV	RG	_	40	advmod	_	_
+40	estivo	estar	VERB	VMIS3S0	Mood=Ind|Number=Sing|Person=3|Tense=Past	25	conj	_	_
+41-42	na	_	_	_	_	_	_	_	_
+41	en	en	ADP	SP	AdpType=Prep	43	case	_	_
+42	a	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	43	det	_	_
+43	lista	lista	NOUN	NCFS000	Gender=Fem|Number=Sing	40	obl	_	_
+44	dúas	2	NUM	Z	NumType=Card	45	nummod	_	_
+45	semanas	semana	NOUN	NCFP000	Gender=Fem|Number=Plur	40	obl	_	_
+46-47	no	_	_	_	_	_	_	_	_
+46	en	en	ADP	SP	AdpType=Prep	48	case	_	_
+47	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	48	det	_	_
+48	Reino	reino	NOUN	NCMS000	Gender=Masc|Number=Sing	40	obl	_	_
+49	Unido	unido	ADJ	AQ0MS	_	48	amod	_	SpaceAfter=No
+50	.	.	PUNCT	Fp	_	25	punct	_	_
 
 # sent_id = w01124049
 # text = Tras ser despedida, Peniston aceptou o papel de Glinda, a Bruxa Boa, nunha produción teatral do musical The Wiz.
@@ -19642,12 +19642,12 @@
 # sent_id = w01130100
 # text = En On a Wing and a Prayer (1992) reuniuse co seu compañeiro dos Stealers Wheel, Egan, en diversas pistas.
 1	En	en	ADP	SP	AdpType=Prep	2	case	_	_
-2	On	on	PROPN	NP00000	_	11	obl	_	_
-3	a	a	PROPN	NP00000	_	2	flat:foreign	_	_
-4	Wing	wing	PROPN	NP00000	_	2	flat:foreign	_	_
-5	and	and	PROPN	NP00000	_	2	flat:foreign	_	_
-6	a	a	PROPN	NP00000	_	2	flat:foreign	_	_
-7	Prayer	prayer	PROPN	NP00000	_	2	flat:foreign	_	_
+2	On	on	X	_	Foreign=Yes	11	obl	_	_
+3	a	a	X	_	Foreign=Yes	2	flat:foreign	_	_
+4	Wing	wing	X	_	Foreign=Yes	2	flat:foreign	_	_
+5	and	and	X	_	Foreign=Yes	2	flat:foreign	_	_
+6	a	a	X	_	Foreign=Yes	2	flat:foreign	_	_
+7	Prayer	prayer	X	_	Foreign=Yes	2	flat:foreign	_	_
 8	(	(	PUNCT	Fpa	_	9	punct	_	SpaceAfter=No
 9	1992	1992	NUM	Z	NumType=Card	2	appos	_	SpaceAfter=No
 10	)	)	PUNCT	Fpt	_	9	punct	_	_
@@ -19710,14 +19710,14 @@
 5	versión	versión	NOUN	NCFS000	Gender=Fem|Number=Sing	2	obj	_	_
 6	de	de	ADP	SP	AdpType=Prep	8	case	_	_
 7	"	"	PUNCT	Fe	_	8	punct	_	SpaceAfter=No
-8	Her	her	PROPN	NP00000	_	5	nmod	_	_
-9	Father	father	PROPN	NP00000	_	8	flat:foreign	_	_
+8	Her	her	X	_	Foreign=Yes	5	nmod	_	_
+9	Father	father	X	_	Foreign=Yes	8	flat:foreign	_	_
 10-11	Didn't	_	_	_	_	_	_	_	_
-10	Did	did	PROPN	NP00000	_	8	flat:foreign	_	_
-11	not	not	PROPN	NP00000	_	8	flat:foreign	_	_
-12	Like	like	PROPN	NP00000	_	8	flat:foreign	_	_
-13	Me	me	PROPN	NP00000	_	8	flat:foreign	_	_
-14	Anyway	anyway	PROPN	NP00000	_	8	flat:foreign	_	SpaceAfter=No
+10	Did	did	X	_	Foreign=Yes	8	flat:foreign	_	_
+11	not	not	X	_	Foreign=Yes	8	flat:foreign	_	_
+12	Like	like	X	_	Foreign=Yes	8	flat:foreign	_	_
+13	Me	me	X	_	Foreign=Yes	8	flat:foreign	_	_
+14	Anyway	anyway	X	_	Foreign=Yes	8	flat:foreign	_	SpaceAfter=No
 15	"	"	PUNCT	Fe	_	8	punct	_	SpaceAfter=No
 16	,	,	PUNCT	Fc	_	17	punct	_	_
 17	unha	un	PRON	PI0FS000	Gender=Fem|Number=Sing|PronType=Ind	5	appos	_	_
@@ -20116,11 +20116,11 @@
 6	comedia	comedia	NOUN	NCFS000	Gender=Fem|Number=Sing	4	nmod	_	_
 7	británico	británico	ADJ	AQ0MS	_	4	amod	_	_
 8	"	"	PUNCT	Fe	_	9	punct	_	SpaceAfter=No
-9	Salmon	salmon	PROPN	NP00000	_	4	appos	_	_
-10	Fishing	fishing	PROPN	NP00000	_	9	flat:foreign	_	_
-11	in	in	PROPN	NP00000	_	9	flat:foreign	_	_
-12	the	the	PROPN	NP00000	_	9	flat:foreign	_	_
-13	Yemen	yemen	PROPN	NP00000	_	9	flat:foreign	_	SpaceAfter=No
+9	Salmon	salmon	X	_	Foreign=Yes	4	appos	_	_
+10	Fishing	fishing	X	_	Foreign=Yes	9	flat:foreign	_	_
+11	in	in	X	_	Foreign=Yes	9	flat:foreign	_	_
+12	the	the	X	_	Foreign=Yes	9	flat:foreign	_	_
+13	Yemen	yemen	X	_	Foreign=Yes	9	flat:foreign	_	SpaceAfter=No
 14	"	"	PUNCT	Fe	_	9	punct	_	SpaceAfter=No
 15	,	,	PUNCT	Fc	_	16	punct	_	_
 16	dirixido	dirixir	VERB	VMP00SM	Gender=Fem|Number=Sing|VerbForm=Part	4	acl	_	_
@@ -20148,8 +20148,8 @@
 6	breve	breve	ADJ	AQ0CS	_	7	amod	_	_
 7	aparición	aparición	NOUN	NCFS000	Gender=Fem|Number=Sing	3	obj	_	_
 8	en	en	ADP	SP	AdpType=Prep	9	case	_	_
-9	The	the	PROPN	NP00000	_	7	nmod	_	_
-10	Muppets	muppets	PROPN	NP00000	_	9	flat:foreign	_	SpaceAfter=No
+9	The	the	X	_	Foreign=Yes	7	nmod	_	_
+10	Muppets	muppets	X	_	Foreign=Yes	9	flat:foreign	_	SpaceAfter=No
 11	,	,	PUNCT	Fc	_	13	punct	_	_
 12	de	de	ADP	SP	AdpType=Prep	13	case	_	_
 13	Disney	disney	PROPN	NP00000	_	9	nmod	_	SpaceAfter=No
@@ -20168,11 +20168,11 @@
 2	a	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
 3	película	película	NOUN	NCFS000	Gender=Fem|Number=Sing	1	obj	_	_
 4	"	"	PUNCT	Fe	_	5	punct	_	SpaceAfter=No
-5	The	the	PROPN	NP00000	_	3	appos	_	_
-6	Five	five	PROPN	NP00000	_	5	flat:foreign	_	SpaceAfter=No
+5	The	the	X	_	Foreign=Yes	3	appos	_	_
+6	Five	five	X	_	Foreign=Yes	5	flat:foreign	_	SpaceAfter=No
 7	-	-	PUNCT	Fg	_	8	punct	_	SpaceAfter=No
-8	Year	year	PROPN	NP00000	_	5	flat:foreign	_	_
-9	Engagement	engagement	PROPN	NP00000	_	5	flat:foreign	_	SpaceAfter=No
+8	Year	year	X	_	Foreign=Yes	5	flat:foreign	_	_
+9	Engagement	engagement	X	_	Foreign=Yes	5	flat:foreign	_	SpaceAfter=No
 10	"	"	PUNCT	Fe	_	5	punct	_	SpaceAfter=No
 11	,	,	PUNCT	Fc	_	13	punct	_	_
 12	de	de	ADP	SP	AdpType=Prep	13	case	_	_
@@ -21183,17 +21183,17 @@
 15	súas	seu	DET	DP3FP0	Definite=Def|Gender=Fem|Number=Plur|Person=3|Poss=Yes	16	det	_	_
 16	películas	película	NOUN	NCFP000	Gender=Fem|Number=Plur	11	obl	_	_
 17	"	"	PUNCT	Fe	_	18	punct	_	SpaceAfter=No
-18	Hitchhiker's	Hitchhiker's	PROPN	NP00000	_	16	appos	_	_
-19	Guide	guide	PROPN	NP00000	_	18	flat:foreign	_	_
-20	to	to	PROPN	NP00000	_	18	flat:foreign	_	_
-21	the	the	PROPN	NP00000	_	18	flat:foreign	_	_
-22	Galaxy	galaxy	PROPN	NP00000	_	18	flat:foreign	_	SpaceAfter=No
+18	Hitchhiker's	Hitchhiker's	X	_	Foreign=Yes	16	appos	_	_
+19	Guide	guide	X	_	Foreign=Yes	18	flat:foreign	_	_
+20	to	to	X	_	Foreign=Yes	18	flat:foreign	_	_
+21	the	the	X	_	Foreign=Yes	18	flat:foreign	_	_
+22	Galaxy	galaxy	X	_	Foreign=Yes	18	flat:foreign	_	SpaceAfter=No
 23	"	"	PUNCT	Fe	_	18	punct	_	_
 24	e	e	CCONJ	CC	_	26	cc	_	_
 25	"	"	PUNCT	Fe	_	26	punct	_	SpaceAfter=No
-26	Son	son	PROPN	NP00000	_	18	conj	_	_
-27	of	of	PROPN	NP00000	_	26	flat:foreign	_	_
-28	Rambow	rambow	PROPN	NP00000	_	26	flat:foreign	_	SpaceAfter=No
+26	Son	son	X	_	Foreign=Yes	18	conj	_	_
+27	of	of	X	_	Foreign=Yes	26	flat:foreign	_	_
+28	Rambow	rambow	X	_	Foreign=Yes	26	flat:foreign	_	SpaceAfter=No
 29	"	"	PUNCT	Fe	_	26	punct	_	SpaceAfter=No
 30	.	.	PUNCT	Fp	_	3	punct	_	_
 
@@ -26021,8 +26021,8 @@
 18	Roma	roma	PROPN	NP00000	_	16	nmod	_	_
 19	e	e	CCONJ	CC	_	21	cc	_	_
 20	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
-21	mos	mos	PROPN	NP00000	_	9	conj	_	_
-22	maiorum	maiorum	PROPN	NP00000	_	21	flat:foreign	_	SpaceAfter=No
+21	mos	mos	X	_	Foreign=Yes	9	conj	_	_
+22	maiorum	maiorum	X	_	Foreign=Yes	21	flat:foreign	_	SpaceAfter=No
 23	.	.	PUNCT	Fp	_	5	punct	_	_
 
 # sent_id = w03004107
@@ -27250,22 +27250,21 @@
 10	,	,	PUNCT	Fc	_	13	punct	_	_
 11	como	como	ADP	SP	_	13	case	_	_
 12	"	"	PUNCT	Fe	_	13	punct	_	SpaceAfter=No
-13	Metti	metti	PROPN	NP00000	_	5	nmod	_	SpaceAfter=No
-14	,	,	PUNCT	Fc	_	13	punct	_	_
-15	una	una	PROPN	NP00000	_	13	flat:foreign	_	_
-16	Sera	sera	PROPN	NP00000	_	13	flat:foreign	_	_
-17	a	a	PROPN	NP00000	_	13	flat:foreign	_	_
-18	Cena	cena	PROPN	NP00000	_	13	flat:foreign	_	SpaceAfter=No
-19	"	"	PUNCT	Fe	_	13	punct	_	SpaceAfter=No
-20	;	;	PUNCT	Fx	_	21	punct	_	_
-21	algunhas	algún	PRON	PI0FP00	Gender=Fem|Number=Plur|PronType=Ind	5	parataxis	_	_
-22-23	delas	_	_	_	_	_	_	_	_
-22	de	de	ADP	SP	AdpType=Prep	23	case	_	_
-23	elas	el	PRON	PP3FP000	Gender=Fem|Number=Plur|Person=3|PronType=Prs	21	nmod	_	_
-24	escritas	escribir	VERB	VMP00PF	Gender=Fem|Number=Plur|VerbForm=Part	21	acl	_	_
-25	por	por	ADP	SP	AdpType=Prep	26	case	_	_
-26	ambos	ambos	PRON	PI0MP0	Gender=Masc|Number=Plur|PronType=Art	24	obl	_	SpaceAfter=No
-27	.	.	PUNCT	Fp	_	2	punct	_	_
+13	Metti,	metti,	X	_	Foreign=Yes	5	nmod	_	_
+14	una	una	X	_	Foreign=Yes	13	flat:foreign	_	_
+15	Sera	sera	X	_	Foreign=Yes	13	flat:foreign	_	_
+16	a	a	X	_	Foreign=Yes	13	flat:foreign	_	_
+17	Cena	cena	X	_	Foreign=Yes	13	flat:foreign	_	SpaceAfter=No
+18	"	"	PUNCT	Fe	_	13	punct	_	SpaceAfter=No
+19	;	;	PUNCT	Fx	_	20	punct	_	_
+20	algunhas	algún	PRON	PI0FP00	Gender=Fem|Number=Plur|PronType=Ind	5	parataxis	_	_
+21-22	delas	_	_	_	_	_	_	_	_
+21	de	de	ADP	SP	AdpType=Prep	22	case	_	_
+22	elas	el	PRON	PP3FP000	Gender=Fem|Number=Plur|Person=3|PronType=Prs	20	nmod	_	_
+23	escritas	escribir	VERB	VMP00PF	Gender=Fem|Number=Plur|VerbForm=Part	20	acl	_	_
+24	por	por	ADP	SP	AdpType=Prep	25	case	_	_
+25	ambos	ambos	PRON	PI0MP0	Gender=Masc|Number=Plur|PronType=Art	23	obl	_	SpaceAfter=No
+26	.	.	PUNCT	Fp	_	2	punct	_	_
 
 # sent_id = w04010030
 # text = Porén, a amizade fíxose anacos debido a colaboracións non oficiais entre os dous, o que causou conflitos legais.
@@ -27978,11 +27977,11 @@
 33	británico	británico	NOUN	NCMS000	Gender=Masc|Number=Sing	30	nmod	_	SpaceAfter=No
 34	:	:	PUNCT	Fd	_	36	punct	_	_
 35	"	"	PUNCT	Fe	_	36	punct	_	SpaceAfter=No
-36	Don't	Don't	PROPN	NP00000	_	30	appos	_	_
-37	Go	go	PROPN	NP00000	_	36	flat:foreign	_	_
-38	Breaking	breaking	PROPN	NP00000	_	36	flat:foreign	_	_
-39	My	my	PROPN	NP00000	_	36	flat:foreign	_	_
-40	Heart	heart	PROPN	NP00000	_	36	flat:foreign	_	SpaceAfter=No
+36	Don't	Don't	X	_	Foreign=Yes	30	appos	_	_
+37	Go	go	X	_	Foreign=Yes	36	flat:foreign	_	_
+38	Breaking	breaking	X	_	Foreign=Yes	36	flat:foreign	_	_
+39	My	my	X	_	Foreign=Yes	36	flat:foreign	_	_
+40	Heart	heart	X	_	Foreign=Yes	36	flat:foreign	_	SpaceAfter=No
 41	"	"	PUNCT	Fe	_	36	punct	_	SpaceAfter=No
 42	.	.	PUNCT	Fp	_	3	punct	_	_
 
