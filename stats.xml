@@ -5,71 +5,73 @@
        fused is the number of tokens that are split to two or more syntactic words
        The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
   <size>
-    <total><sentences>1000</sentences><tokens>21836</tokens><words>23510</words><fused>1668</fused></total>
+    <total><sentences>1000</sentences><tokens>21835</tokens><words>23509</words><fused>1668</fused></total>
     <train><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></train>
     <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
-    <test><sentences>1000</sentences><tokens>21836</tokens><words>23510</words><fused>1668</fused></test>
+    <test><sentences>1000</sentences><tokens>21835</tokens><words>23509</words><fused>1668</fused></test>
   </size>
-  <lemmas unique="4460" /><!-- o, de, ,, ., en, que, un, a, e, se, ser, seu, ", por, con -->
-  <forms unique="5972" /><!-- de, a, o, ,, ., en, que, e, os, se, as, un, unha, ", por -->
+  <lemmas unique="4459" /><!-- o, de, ,, ., en, que, un, a, e, se, ser, seu, ", por, con -->
+  <forms unique="5969" /><!-- de, a, o, ,, ., en, que, e, os, se, as, un, unha, ", por -->
   <fusions unique="184" /><!-- do, da, no, na, ao, dos, á, das, nos, polo, co, nun, dunha, nas, ás -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
-  <tags unique="14">
-    <tag name="ADJ">1432</tag><!-- novo, último, gran, grande, maior, unido, británico, nacional, longo, antigo -->
-    <tag name="ADP">3822</tag><!-- de, en, a, por, con, para, como, sobre, entre, durante -->
+  <tags unique="15">
+    <tag name="ADJ">1433</tag><!-- novo, último, gran, grande, maior, unido, británico, nacional, longo, antigo -->
+    <tag name="ADP">3819</tag><!-- de, en, a, por, con, para, como, sobre, entre, durante -->
     <tag name="ADV">850</tag><!-- non, máis, tamén, xa, antes, despois, aínda, moi, só, así -->
     <tag name="AUX">458</tag><!-- ser, estar, poder, ter, deber, parecer, ir, deixar, querer, vir -->
     <tag name="CCONJ">576</tag><!-- e, ou, pero, mais, como, senón, así, nin, que, tanto -->
     <tag name="DET">3818</tag><!-- o, un, seu, este, todo, outro, moito, cada, ese, varios -->
-    <tag name="NOUN">4574</tag><!-- ano, persoa, estado, lugar, parte, cidade, vez, guerra, día, goberno -->
+    <tag name="NOUN">4575</tag><!-- ano, persoa, estado, lugar, parte, cidade, vez, guerra, día, goberno -->
     <tag name="NUM">502</tag><!-- 2, primeiro, 3, 10, segundo, 1, 4, 6, iii, 20 -->
-    <tag name="PRON">938</tag><!-- se, que, o, lle, el, un, isto, este, iso, cal -->
-    <tag name="PROPN">1448</tag><!-- china, cristo, the, trump, mediterráneo, europa, francia, hong, italia, kong -->
-    <tag name="PUNCT">2456</tag><!-- ,, ., ", (, ), :, ;, ?, -, % -->
+    <tag name="PRON">941</tag><!-- se, que, o, lle, el, un, isto, este, iso, cal -->
+    <tag name="PROPN">1367</tag><!-- china, cristo, trump, mediterráneo, europa, francia, hong, italia, kong, albania -->
+    <tag name="PUNCT">2454</tag><!-- ,, ., ", (, ), :, ;, ?, -, % -->
     <tag name="SCONJ">362</tag><!-- que, como, se, cando, porque, mentres, onde, aínda, despois, pois -->
     <tag name="SYM">18</tag><!-- % -->
-    <tag name="VERB">2256</tag><!-- ter, facer, haber, dicir, ser, comezar, ver, estar, afirmar, incluír -->
+    <tag name="VERB">2257</tag><!-- ter, facer, haber, dicir, ser, comezar, ver, estar, afirmar, incluír -->
+    <tag name="X">79</tag><!-- the, a, of, really, you, 'ya, Don't, Hitchhiker's, and, anyway -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
-  <feats unique="39">
-    <feat name="AdpType" value="Prep" upos="ADP">3642</feat><!-- de, en, a, por, con, para, como, sobre, entre, durante -->
-    <feat name="Case" value="Acc" upos="PRON">45</feat><!-- o, a, os, as, si, te -->
+  <feats unique="40">
+    <feat name="AdpType" value="Prep" upos="ADP">3641</feat><!-- de, en, a, por, con, para, como, sobre, entre, durante -->
+    <feat name="Case" value="Acc" upos="PRON">46</feat><!-- o, a, os, as, si, te -->
     <feat name="Case" value="Dat" upos="PRON">46</feat><!-- lle, lles -->
     <feat name="Case" value="Nom" upos="PRON">8</feat><!-- eu -->
     <feat name="Definite" value="Def" upos="DET,PRON">3118</feat><!-- o, a, os, as, súa, seu, este, súas, esta, seus -->
     <feat name="Definite" value="Ind" upos="DET">677</feat><!-- un, unha, todo, cada, moitos, outros, varias, algúns, mesmo, outra -->
-    <feat name="Gender" value="Com" upos="ADJ,NOUN,PRON">506</feat><!-- se, lle, parte, me, nos, eu, final, lles, partes, axentes -->
-    <feat name="Gender" value="Fem" upos="ADJ,DET,NOUN,PRON,PROPN,VERB">3862</feat><!-- a, as, unha, súa, persoas, súas, esta, guerra, cidade, vez -->
+    <feat name="Foreign" value="Yes" upos="X">79</feat><!-- the, a, of, Really, You, 'Ya, Anyway, Breaking, Buck, Cena -->
+    <feat name="Gender" value="Com" upos="ADJ,NOUN,PRON">508</feat><!-- se, lle, parte, me, nos, eu, final, lles, partes, axentes -->
+    <feat name="Gender" value="Fem" upos="ADJ,DET,NOUN,PRON,PROPN,VERB">3863</feat><!-- a, as, unha, súa, persoas, súas, esta, guerra, cidade, vez -->
     <feat name="Gender" value="Masc" upos="ADJ,DET,NOUN,NUM,PRON,PROPN,VERB">4887</feat><!-- o, os, un, seu, anos, este, todo, lugar, ano, seus -->
     <feat name="Gender" value="Neut" upos="PRON">330</feat><!-- que, isto, iso, cal, alguén, cales, algo, nada, ninguén, aquilo -->
     <feat name="Mood" value="Cnd,Ind" upos="AUX,VERB">61</feat><!-- podería, sería, poderían, debería, crearían, resultaría, serían, terían, Sorprendería, afectaría -->
     <feat name="Mood" value="Ind" upos="AUX,VERB">1754</feat><!-- é, foi, está, hai, ten, pode, era, dixo, son, estaba -->
     <feat name="Mood" value="Sub" upos="AUX,VERB">104</feat><!-- sexa, fose, fosen, fixese, introducise, poidan, produzan, puidesen, teñan, tivese -->
-    <feat name="Number" value="Plur" upos="ADJ,AUX,DET,NOUN,NUM,PRON,VERB">2888</feat><!-- os, as, anos, persoas, súas, seus, millóns, outros, moitos, están -->
-    <feat name="Number" value="Sing" upos="ADJ,AUX,DET,NOUN,PRON,PROPN,VERB">7943</feat><!-- o, a, un, unha, é, súa, seu, foi, lle, este -->
+    <feat name="Number" value="Plur" upos="ADJ,AUX,DET,NOUN,NUM,PRON,VERB">2887</feat><!-- os, as, anos, persoas, súas, seus, millóns, outros, moitos, están -->
+    <feat name="Number" value="Sing" upos="ADJ,AUX,DET,NOUN,PRON,PROPN,VERB">7946</feat><!-- o, a, un, unha, é, súa, seu, foi, lle, este -->
     <feat name="Number[psor]" value="Plur" upos="DET">9</feat><!-- noso, nosa, nosas -->
     <feat name="Number[psor]" value="Sing" upos="DET">6</feat><!-- meu, miña, meus, teu -->
     <feat name="NumType" value="Card" upos="NUM">422</feat><!-- dous, tres, dúas, 1, catro, seis, 10, 3, dez, mil -->
     <feat name="NumType" value="Ord" upos="NUM">65</feat><!-- primeira, primeiro, segunda, primeiros, I, segundo, terceiro, III, IV, primeiras -->
     <feat name="Person" value="1" upos="AUX,DET,PRON,VERB">236</feat><!-- era, son, me, nos, eu, tiña, fora, noso, sexa, estamos -->
     <feat name="Person" value="2" upos="AUX,PRON,VERB">11</feat><!-- Acabas, Debedes, Tes, aforas, decatastes, dominaches, oes, podes, te, ti -->
-    <feat name="Person" value="3" upos="AUX,DET,PRON,VERB">2407</feat><!-- se, é, súa, seu, foi, lle, está, súas, o, hai -->
+    <feat name="Person" value="3" upos="AUX,DET,PRON,VERB">2410</feat><!-- se, é, súa, seu, foi, lle, está, o, súas, hai -->
     <feat name="Polarity" value="Neg" upos="ADV">118</feat><!-- non -->
     <feat name="Poss" value="Yes" upos="DET">242</feat><!-- súa, seu, súas, seus, noso, nosa, meu, miña, meus, nosas -->
     <feat name="PronType" value="Art" upos="DET,PRON">3474</feat><!-- o, a, os, as, un, unha, todo, cada, moitos, outros -->
     <feat name="PronType" value="Dem" upos="DET,PRON">162</feat><!-- este, esta, isto, iso, estes, estas, ese, eses, aquela, esa -->
     <feat name="PronType" value="Ind" upos="DET,PRON">55</feat><!-- todo, un, alguén, algo, ambos, mesmo, unha, moitas, moitos, nada -->
     <feat name="PronType" value="Int" upos="DET,PRON">4</feat><!-- que, cal -->
-    <feat name="PronType" value="Prs" upos="DET,PRON">509</feat><!-- se, lle, o, el, ela, eles, me, a, nos, eu -->
+    <feat name="PronType" value="Prs" upos="DET,PRON">512</feat><!-- se, lle, o, el, ela, eles, me, a, nos, eu -->
     <feat name="PronType" value="Rel" upos="ADV,DET,PRON">310</feat><!-- que, quen, cal, onde, cales, cuxa -->
     <feat name="Tense" value="Fut" upos="AUX,VERB">39</feat><!-- haberá, será, terá, reducirá, Avaliaremos, Botará, Xogarán, activarán, asistirán, axudará -->
     <feat name="Tense" value="Imp" upos="AUX,VERB">267</feat><!-- era, estaba, tiña, estaban, tiñan, eran, había, fose, fosen, parecía -->
-    <feat name="Tense" value="Past" upos="AUX,VERB">722</feat><!-- foi, dixo, tivo, comezou, fixo, foron, declarou, afirmou, converteu, lanzou -->
+    <feat name="Tense" value="Past" upos="AUX,VERB">723</feat><!-- foi, dixo, tivo, comezou, fixo, foron, declarou, afirmou, converteu, lanzou -->
     <feat name="Tense" value="Pqp" upos="AUX,VERB">59</feat><!-- fora, deixaran, foran, perdera, salvara, Conmovera, adestraran, afastara, anticiparan, aparecera -->
-    <feat name="Tense" value="Pres" upos="AUX,VERB">773</feat><!-- é, está, hai, ten, pode, son, están, poden, teñen, di -->
+    <feat name="Tense" value="Pres" upos="AUX,VERB">772</feat><!-- é, está, hai, ten, pode, son, están, poden, teñen, di -->
     <feat name="VerbForm" value="Fin" upos="AUX,VERB">10</feat><!-- está, Están, Son, observan, parece, permite, pilota, pode, poidan -->
     <feat name="VerbForm" value="Ger" upos="AUX,VERB">76</feat><!-- incluíndo, sendo, axudando, convertendo, crecendo, dicindo, iniciando, preparando, tendo, traballando -->
-    <feat name="VerbForm" value="Inf" upos="AUX,VERB">474</feat><!-- ser, facer, ver, ter, estar, manter, axudar, deixar, enviar, establecer -->
+    <feat name="VerbForm" value="Inf" upos="AUX,VERB">475</feat><!-- ser, facer, ver, ter, estar, manter, axudar, deixar, enviar, establecer -->
     <feat name="VerbForm" value="Part" upos="VERB">242</feat><!-- debido, baseadas, dirixida, incluídos, localizadas, mediados, publicado, acusado, anticipado, coprotagonizado -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
@@ -77,11 +79,11 @@
     <dep name="acl">429</dep>
     <dep name="advcl">211</dep>
     <dep name="advmod">808</dep>
-    <dep name="amod">1285</dep>
+    <dep name="amod">1286</dep>
     <dep name="appos">256</dep>
     <dep name="aux">126</dep>
     <dep name="aux:pass">50</dep>
-    <dep name="case">3647</dep>
+    <dep name="case">3646</dep>
     <dep name="cc">568</dep>
     <dep name="ccomp">184</dep>
     <dep name="compound">23</dep>
@@ -90,22 +92,22 @@
     <dep name="csubj">32</dep>
     <dep name="det">3748</dep>
     <dep name="discourse">61</dep>
-    <dep name="expl">328</dep>
+    <dep name="expl">329</dep>
     <dep name="fixed">401</dep>
     <dep name="flat">1</dep>
     <dep name="flat:foreign">58</dep>
     <dep name="flat:name">262</dep>
     <dep name="iobj">70</dep>
     <dep name="mark">342</dep>
-    <dep name="nmod">1835</dep>
+    <dep name="nmod">1834</dep>
     <dep name="nsubj">1304</dep>
     <dep name="nsubj:pass">38</dep>
     <dep name="nummod">310</dep>
-    <dep name="obj">933</dep>
+    <dep name="obj">934</dep>
     <dep name="obl">1457</dep>
     <dep name="orphan">4</dep>
     <dep name="parataxis">90</dep>
-    <dep name="punct">2456</dep>
+    <dep name="punct">2454</dep>
     <dep name="root">1000</dep>
     <dep name="vocative">1</dep>
     <dep name="xcomp">263</dep>
