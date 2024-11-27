@@ -8630,7 +8630,8 @@
 
 # sent_id = n01128017
 # text = Ao final, o noso rendemento como organización raramente se mide en termos de como de seguros somos ou cantas regras seguimos.
-1	A	a	ADP	SP	AdpType=Prep	3	case	_	SpaceAfter=No
+1-2	Ao	_	_	_	_	_	_	_	_
+1	A	a	ADP	SP	AdpType=Prep	3	case	_	_
 2	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
 3	final	final	NOUN	NCCS000	Gender=Com|Number=Sing	12	discourse	_	SpaceAfter=No
 4	,	,	PUNCT	Fc	_	3	punct	_	_
@@ -24724,7 +24725,8 @@
 19	de	de	ADP	SP	AdpType=Prep	21	case	_	_
 20	ser	ser	AUX	VSN0000	VerbForm=Inf	21	aux:pass	_	_
 21	destruído	destruír	VERB	VMP00SM	Gender=Masc|Number=Sing|VerbForm=Part	18	xcomp	_	_
-22	a	a	ADP	SP	AdpType=Prep	24	case	_	SpaceAfter=No
+22-23	ao	_	_	_	_	_	_	_	_
+22	a	a	ADP	SP	AdpType=Prep	24	case	_	_
 23	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	24	det	_	_
 24	final	final	NOUN	NCCS000	Gender=Com|Number=Sing	21	obl	_	_
 25-26	da	_	_	_	_	_	_	_	_
