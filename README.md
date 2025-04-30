@@ -14,6 +14,10 @@ The linguistic annotation was first carried out using state-of-the-art NLP tools
 
 # Changelog
 
+* 2025-04-20 v2.15
+  * Added [ExtPos](https://universaldependencies.org/u/feat/all.html#extpos-external-part-of-speech) features for fixed expressions.
+  * Minor corrections.
+
 * 2024-05-15 v2.14
   * Initial release in Universal Dependencies.
 
