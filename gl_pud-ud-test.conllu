@@ -5370,7 +5370,7 @@
 19	que	que	PRON	PR0CN000	Gender=Neut|PronType=Rel	21	nsubj:pass	_	_
 20	estaban	estar	AUX	VMII3P0	Mood=Ind|Number=Plur|Person=3|Tense=Imp	21	aux:pass	_	_
 21	virados	virar	VERB	VMP00PM	Gender=Masc|Number=Plur|VerbForm=Part	18	acl	_	_
-22	cara	cara	NOUN	NCFS000	Gender=Fem|Number=Sing|ExtPos=ADV	21	advmod	_	_
+22	cara	cara	NOUN	NCFS000	ExtPos=ADV|Gender=Fem|Number=Sing	21	advmod	_	_
 23	abaixo	abaixo	ADV	RG	_	22	fixed	_	SpaceAfter=No
 24	.	.	PUNCT	Fp	_	1	punct	_	_
 
@@ -6668,7 +6668,7 @@
 23	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	25	det	_	_
 24	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes	25	det	_	_
 25	rexeitamento	rexeitamento	NOUN	NCMS000	Gender=Masc|Number=Sing	16	obj	_	_
-26	cara	cara	NOUN	NCFS000	Gender=Fem|Number=Sing|ExtPos=ADP		28	case	_	_
+26	cara	cara	NOUN	NCFS000	ExtPos=ADP|Gender=Fem|Number=Sing	28	case	_	_
 27	a	a	ADP	SP	AdpType=Prep	26	fixed	_	_
 28	paternidade	paternidade	NOUN	NCFS000	Gender=Fem|Number=Sing	16	obl	_	_
 29	moderna	moderno	ADJ	AQ0FS	_	28	amod	_	SpaceAfter=No
@@ -6855,7 +6855,7 @@
 5	tren	tren	NOUN	NCMS000	Gender=Masc|Number=Sing	2	nmod	_	SpaceAfter=No
 6	,	,	PUNCT	Fc	_	2	punct	_	_
 7	continuamos	continuar	VERB	VMIP1P0	Mood=Ind|Number=Plur|Person=1|Tense=Pres	0	root	_	_
-8	cara	cara	NOUN	NCFS000	Gender=Fem|Number=Sing|ExtPos=ADP	11	case	_	_
+8	cara	cara	NOUN	NCFS000	ExtPos=ADP|Gender=Fem|Number=Sing	11	case	_	_
 9-10	ao	_	_	_	_	_	_	_	_
 9	a	a	ADP	SP	AdpType=Prep	8	fixed	_	_
 10	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
@@ -7482,7 +7482,7 @@
 6-7	expandíronse	_	_	_	_	_	_	_	_
 6	expandiron	expandir	VERB	VMIS3P0	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	_
 7	se	se	PRON	PP3CN000	Gender=Com|Person=3|PronType=Prs	6	expl	_	_
-8	grazas	graza	NOUN	NCFP000	Gender=Fem|Number=Plur|ExtPos=ADP	12	case	_	_
+8	grazas	graza	NOUN	NCFP000	ExtPos=ADP|Gender=Fem|Number=Plur	12	case	_	_
 9-10	ao	_	_	_	_	_	_	_	_
 9	a	a	ADP	SP	AdpType=Prep	8	fixed	_	_
 10	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
@@ -8067,7 +8067,7 @@
 4-5	diríxese	_	_	_	_	_	_	_	_
 4	dirixe	dirixir	VERB	VMIP3S0	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
 5	se	se	PRON	PP3CN000	Gender=Com|Person=3|PronType=Prs	4	expl	_	_
-6	cara	cara	NOUN	NCFS000	Gender=Fem|Number=Sing|ExtPos=ADP	9	case	_	_
+6	cara	cara	NOUN	NCFS000	ExtPos=ADP|Gender=Fem|Number=Sing	9	case	_	_
 7-8	á	_	_	_	_	_	_	_	_
 7	a	a	ADP	SP	AdpType=Prep	6	fixed	_	_
 8	a	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
@@ -9634,7 +9634,7 @@
 2	,	,	PUNCT	Fc	_	1	punct	_	_
 3	que	que	PRON	PR0CN000	Gender=Neut|PronType=Rel	4	nsubj	_	_
 4	mostrou	mostrar	VERB	VMIS3S0	Mood=Ind|Number=Sing|Person=3|Tense=Past	1	acl	_	_
-5	un	un	DET	DI0MS0	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art|ExtPos=ADV	11	advmod	_	_
+5	un	un	DET	DI0MS0	Definite=Ind|ExtPos=ADV|Gender=Masc|Number=Sing|PronType=Art	11	advmod	_	_
 6	pouco	pouco	ADV	RG	_	5	fixed	_	_
 7-8	do	_	_	_	_	_	_	_	_
 7	de	de	ADP	SP	AdpType=Prep	11	case	_	_
@@ -9672,7 +9672,7 @@
 8	chegar	chegar	VERB	VMN0000	VerbForm=Inf	18	csubj	_	_
 9	a	a	ADP	SP	AdpType=Prep	11	case	_	_
 10	ser	ser	AUX	VSN0000	VerbForm=Inf	11	cop	_	_
-11	número	número	NOUN	NCMS000	Gender=Masc|Number=Sing|ExtPos=ADJ	8	xcomp	_	_
+11	número	número	NOUN	NCMS000	ExtPos=ADJ|Gender=Masc|Number=Sing	8	xcomp	_	_
 12	un	1	NUM	Z	NumType=Card	11	fixed	_	_
 13-14	do	_	_	_	_	_	_	_	_
 13	de	de	ADP	SP	AdpType=Prep	15	case	_	_
@@ -10425,7 +10425,7 @@
 7	as	o	DET	DA0FP0	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	9	det	_	_
 8	pequenas	pequeno	ADJ	AQ0FP	_	9	amod	_	_
 9	illas	illa	NOUN	NCFP000	Gender=Fem|Number=Plur	2	nsubj	_	_
-10	fronte	fronte	NOUN	NCFS000	Gender=Fem|Number=Sing|ExtPos=ADP	13	case	_	_
+10	fronte	fronte	NOUN	NCFS000	ExtPos=ADP|Gender=Fem|Number=Sing	13	case	_	_
 11-12	á	_	_	_	_	_	_	_	_
 11	a	a	ADP	SP	AdpType=Prep	10	fixed	_	_
 12	a	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
@@ -11592,7 +11592,7 @@
 
 # sent_id = w01020018
 # text = Debido ao clima, á xeoloxía e ao acceso ao mar comúns, as sociedades localizadas preto do Mediterráneo tendían a estar de certa forma entrelazadas cultural e historicamente.
-1	Debido	deber	VERB	VMP00SM	Gender=Masc|Number=Sing|VerbForm=Part|ExtPos=ADP	4	case	_	_
+1	Debido	deber	VERB	VMP00SM	ExtPos=ADP|Gender=Masc|Number=Sing|VerbForm=Part	4	case	_	_
 2-3	ao	_	_	_	_	_	_	_	_
 2	a	a	ADP	SP	AdpType=Prep	1	fixed	_	_
 3	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
@@ -12500,7 +12500,7 @@
 5	ser	ser	AUX	VSN0000	VerbForm=Inf	7	cop	_	_
 6	moi	moi	ADV	RG	_	7	advmod	_	_
 7	viscoso	viscoso	ADJ	AQ0MS	_	3	xcomp	_	_
-8	debido	deber	VERB	VMP00SM	Gender=Masc|Number=Sing|VerbForm=Part|ExtPos=ADP	13	case	_	_
+8	debido	deber	VERB	VMP00SM	ExtPos=ADP|Gender=Masc|Number=Sing|VerbForm=Part	13	case	_	_
 9-10	ao	_	_	_	_	_	_	_	_
 9	a	a	ADP	SP	AdpType=Prep	8	fixed	_	_
 10	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
@@ -12909,7 +12909,7 @@
 3	son	ser	AUX	VSIP1S0	Mood=Ind|Number=Sing|Person=1|Tense=Pres	5	cop	_	_
 4	moi	moi	ADV	RG	_	5	advmod	_	_
 5	populares	popular	ADJ	AQ0CP	_	0	root	_	_
-6	debido	deber	VERB	VMP00SM	Gender=Masc|Number=Sing|VerbForm=Part|ExtPos=ADP	9	mark	_	_
+6	debido	deber	VERB	VMP00SM	ExtPos=ADP|Gender=Masc|Number=Sing|VerbForm=Part	9	mark	_	_
 7	a	a	ADP	SP	AdpType=Prep	6	fixed	_	_
 8	que	que	PRON	PR0CN000	Gender=Neut|PronType=Rel	6	fixed	_	_
 9	adoitan	adoitar	VERB	VMIP3P0	Mood=Ind|Number=Plur|Person=3|Tense=Pres	5	advcl	_	_
@@ -13607,7 +13607,7 @@
 28	unha	un	DET	DI0FS0	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	29	det	_	_
 29	ruta	ruta	NOUN	NCFS000	Gender=Fem|Number=Sing	26	nmod	_	_
 30	marítima	marítimo	ADJ	AQ0FS	_	29	amod	_	_
-31	cara	cara	NOUN	NCFS000	Gender=Fem|Number=Sing|ExtPos=ADP	33	case	_	_
+31	cara	cara	NOUN	NCFS000	ExtPos=ADP|Gender=Fem|Number=Sing	33	case	_	_
 32	a	a	ADP	SP	AdpType=Prep|ExtPos=ADP	31	fixed	_	_
 33	Asia	asia	PROPN	NP00000	_	29	nmod	_	SpaceAfter=No
 34	.	.	PUNCT	Fp	_	5	punct	_	_
@@ -15951,7 +15951,7 @@
 13	,	,	PUNCT	Fc	_	15	punct	_	_
 14	a	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
 15	renda	renda	NOUN	NCFS000	Gender=Fem|Number=Sing	2	conj	_	_
-16	per	per	ADJ	AQ0CS0	Gender=Com|Number=Sing|ExtPos=ADJ	15	nmod	_	_
+16	per	per	ADJ	AQ0CS0	ExtPos=ADJ|Gender=Com|Number=Sing	15	nmod	_	_
 17	cápita	cápita	NOUN	NCCN000	Gender=Com	16	fixed	_	_
 18	e	e	CCONJ	CC	_	20	cc	_	_
 19	a	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_
@@ -16035,7 +16035,7 @@
 46	un	un	DET	DI0MS0	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	48	det	_	_
 47	1	1	NUM	Z	NumType=Card	48	nummod	_	SpaceAfter=No
 48	%	%	SYM	Ft	_	39	advmod	_	_
-49	respecto	respecto	NOUN	NCMS000	Gender=Masc|Number=Sing|ExtPos=ADP	52	case	_	_
+49	respecto	respecto	NOUN	NCMS000	ExtPos=ADP|Gender=Masc|Number=Sing	52	case	_	_
 50-51	á	_	_	_	_	_	_	_	_
 50	a	a	ADP	SP	AdpType=Prep	49	fixed	_	_
 51	a	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	52	det	_	_
@@ -16174,7 +16174,7 @@
 3	que	que	SCONJ	CS	_	10	mark	_	_
 4	unha	un	DET	DI0FS0	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
 5	renda	renda	NOUN	NCFS000	Gender=Fem|Number=Sing	10	nsubj	_	_
-6	per	per	ADJ	AQ0CS0	Gender=Com|Number=Sing|ExtPos=ADJ	5	nmod	_	_
+6	per	per	ADJ	AQ0CS0	ExtPos=ADJ|Gender=Com|Number=Sing	5	nmod	_	_
 7	cápita	cápita	NOUN	NCCN000	Gender=Com	6	fixed	_	_
 8	baixa	baixo	ADJ	AQ0FS	_	5	amod	_	_
 9	pode	poder	AUX	VMIP3S0	Mood=Ind|Number=Sing|Person=3|Tense=Pres	10	aux	_	_
@@ -18702,7 +18702,7 @@
 
 # sent_id = w01115022
 # text = Grazas ao consello de Alexander, conseguiu chegar a un acordo: iría á universidade, pero estudaría literatura.
-1	Grazas	graza	NOUN	NCFP000	Gender=Fem|Number=Plur|ExtPos=ADP	4	case	_	_
+1	Grazas	graza	NOUN	NCFP000	ExtPos=ADP|Gender=Fem|Number=Plur	4	case	_	_
 2-3	ao	_	_	_	_	_	_	_	_
 2	a	a	ADP	SP	AdpType=Prep	1	fixed	_	_
 3	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
@@ -18772,7 +18772,7 @@
 
 # sent_id = w01115025
 # text = Grazas a un anuncio de emprego que encontrara a súa irmá no xornal The Scotsman, traballou un ano e medio como xornalista contratado en Nottingham Journal.
-1	Grazas	graza	NOUN	NCFP000	Gender=Fem|Number=Plur|ExtPos=ADP	4	case	_	_
+1	Grazas	graza	NOUN	NCFP000	ExtPos=ADP|Gender=Fem|Number=Plur	4	case	_	_
 2	a	a	ADP	SP	AdpType=Prep	1	fixed	_	_
 3	un	un	DET	DI0MS0	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
 4	anuncio	anuncio	NOUN	NCMS000	Gender=Masc|Number=Sing	18	obl	_	_
@@ -18981,9 +18981,10 @@
 23	único	único	ADJ	AQ0MS	_	24	amod	_	_
 24	estudo	estudo	NOUN	NCMS000	Gender=Masc|Number=Sing	21	nsubj	_	SpaceAfter=No
 25	.	.	PUNCT	Fp	_	14	punct	_	_
+
 # sent_id = w01119076
 # text = Unha vez completada a súa aparencia, Jasmine converteuse na primeira princesa non branca de Disney, en lugar de ser unha máis de orixe europea.
-1	Unha	un	DET	DI0FS0	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art|ExtPos=ADV	3	advmod	_	_
+1	Unha	un	DET	DI0FS0	Definite=Ind|ExtPos=ADV|Gender=Fem|Number=Sing|PronType=Art	3	advmod	_	_
 2	vez	vez	NOUN	NCFS000	Gender=Fem|Number=Sing	1	fixed	_	_
 3	completada	completar	VERB	VMP00SF	Gender=Fem|Number=Sing|VerbForm=Part	9	advcl	_	_
 4	a	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
@@ -18991,7 +18992,8 @@
 6	aparencia	aparencia	NOUN	NCFS000	Gender=Fem|Number=Sing	3	nsubj	_	SpaceAfter=No
 7	,	,	PUNCT	Fc	_	3	punct	_	_
 8	Jasmine	jasmine	PROPN	NP00000	_	9	nsubj	_	_
-9	converteu	converter	VERB	VMIS3S0	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	SpaceAfter=No
+9-10	converteuse	_	_	_	_	_	_	_	_
+9	converteu	converter	VERB	VMIS3S0	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
 10	se	se	PRON	PP3CN000	Gender=Com|Person=3|PronType=Prs	9	expl	_	_
 11-12	na	_	_	_	_	_	_	_	_
 11	en	en	ADP	SP	AdpType=Prep	14	case	_	_
@@ -20368,7 +20370,7 @@
 16	atravesar	atravesar	VERB	VMN0000	VerbForm=Inf	15	xcomp	_	_
 17	a	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
 18	fronteira	fronteira	NOUN	NCFS000	Gender=Fem|Number=Sing	16	obj	_	_
-19	cara	cara	NOUN	NCFS000	Gender=Fem|Number=Sing|ExtPos=ADP	21	case	_	_
+19	cara	cara	NOUN	NCFS000	ExtPos=ADP|Gender=Fem|Number=Sing	21	case	_	_
 20	a	a	ADP	SP	AdpType=Prep	19	fixed	_	_
 21	Checoslovaquia	checoslovaquia	PROPN	NP00000	_	18	nmod	_	_
 22	sen	sen	ADP	SP	AdpType=Prep	23	case	_	_
@@ -22264,7 +22266,7 @@
 5	a	a	ADP	SP	AdpType=Prep	7	case	_	_
 6	novas	novo	ADJ	AQ0FP	_	7	amod	_	_
 7	conclusións	conclusión	NOUN	NCFP000	Gender=Fem|Number=Plur	4	obl	_	_
-8	a	a	ADP	SP	AdpType=PrepExtPos=ADP	12	case	_	_
+8	a	a	ADP	SP	AdpType=Prep|ExtPos=ADP	12	case	_	_
 9	partir	partir	VERB	VMN0000	VerbForm=Inf	8	fixed	_	_
 10-11	da	_	_	_	_	_	_	_	_
 10	de	de	ADP	SP	AdpType=Prep	8	fixed	_	_
@@ -22727,7 +22729,7 @@
 2	alguén	alguén	PRON	PI0CN000	Gender=Neut|PronType=Ind	5	nsubj	_	_
 3	non	non	ADV	RN	Polarity=Neg	5	advmod	_	_
 4	pode	poder	AUX	VMIP3S0	Mood=Ind|Number=Sing|Person=3|Tense=Pres	5	aux	_	_
-5	facer	facer	VERB	VMN0000	VerbForm=Inf|ExtPos=VERB	16	advcl	_	SpaceAfter=No
+5	facer	facer	VERB	VMN0000	ExtPos=VERB|VerbForm=Inf	16	advcl	_	SpaceAfter=No
 6	se	se	PRON	PP3CN000	Gender=Com|Person=3|PronType=Prs	5	fixed	_	_
 7	cargo	cargo	NOUN	NCMS000	Gender=Masc|Number=Sing	5	fixed	_	_
 8-9	dunha	_	_	_	_	_	_	_	_
@@ -22739,7 +22741,7 @@
 13	,	,	PUNCT	Fc	_	5	punct	_	_
 14	tampouco	tampouco	ADV	RG	_	16	advmod	_	_
 15	pode	poder	AUX	VMIP3S0	Mood=Ind|Number=Sing|Person=3|Tense=Pres	16	aux	_	_
-16	facer	facer	VERB	VMN0000	VerbForm=Inf|ExtPos=VERB	0	root	_	SpaceAfter=No
+16	facer	facer	VERB	VMN0000	ExtPos=VERB|VerbForm=Inf	0	root	_	SpaceAfter=No
 17	se	se	PRON	PP3CN000	Gender=Com|Person=3|PronType=Prs	16	fixed	_	_
 18	cargo	cargo	NOUN	NCMS000	Gender=Masc|Number=Sing	16	fixed	_	_
 19	de	de	ADP	SP	AdpType=Prep	20	case	_	_
@@ -23157,7 +23159,7 @@
 1	Ten	ter	VERB	VMIP3S0	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
 2	como	como	ADP	SP	_	3	case	_	_
 3	obxectivo	obxectivo	NOUN	NCMS000	Gender=Masc|Number=Sing	1	obl	_	_
-4	ter	ter	VERB	VMN0000	VerbForm=Inf|ExtPos=VERB	3	xcomp	_	_
+4	ter	ter	VERB	VMN0000	ExtPos=VERB|VerbForm=Inf	3	xcomp	_	_
 5	en	en	ADP	SP	AdpType=Prep	4	fixed	_	_
 6	conta	conta	NOUN	NCFS000	Gender=Fem|Number=Sing	4	fixed	_	_
 7	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
@@ -23673,7 +23675,7 @@
 7	a	a	ADP	SP	AdpType=Prep	9	case	_	_
 8	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
 9	MPS	mps	PROPN	NP00000	_	6	obl	_	_
-10	debido	deber	VERB	VMP00SM	Gender=Masc|Number=Sing|VerbForm=Part|ExtPos=ADP	14	case	_	_
+10	debido	deber	VERB	VMP00SM	ExtPos=ADP|Gender=Masc|Number=Sing|VerbForm=Part	14	case	_	_
 11-12	á	_	_	_	_	_	_	_	_
 11	a	a	ADP	SP	AdpType=Prep	10	fixed	_	_
 12	a	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
@@ -24298,7 +24300,7 @@
 1	Acha	achar	VERB	VMIP3S0	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
 2	se	se	PRON	PP3CN000	Gender=Com|Person=3|PronType=Prs	1	expl	_	_
 3	só	só	ADV	RG	_	1	advmod	_	_
-4	fronte	fronte	NOUN	NCFS000	Gender=Fem|Number=Sing|ExtPos=ADP	7	case	_	_
+4	fronte	fronte	NOUN	NCFS000	ExtPos=ADP|Gender=Fem|Number=Sing	7	case	_	_
 5-6	ao	_	_	_	_	_	_	_	_
 5	a	a	ADP	SP	AdpType=Prep	4	fixed	_	_
 6	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
@@ -27066,7 +27068,7 @@
 30	melloras	mellora	NOUN	NCFP000	Gender=Fem|Number=Plur	26	obl	_	_
 31	que	que	PRON	PR0CN000	Gender=Neut|PronType=Rel	33	nsubj	_	_
 32	estaban	estar	AUX	VMII3P0	Mood=Ind|Number=Plur|Person=3|Tense=Imp	33	aux	_	_
-33	tendo	ter	VERB	VMG0000	VerbForm=Ger|ExtPos=VERB	30	acl	_	_
+33	tendo	ter	VERB	VMG0000	ExtPos=VERB|VerbForm=Ger	30	acl	_	_
 34	lugar	lugar	NOUN	NCMS000	Gender=Masc|Number=Sing	33	fixed	_	_
 35-36	no	_	_	_	_	_	_	_	_
 35	en	en	ADP	SP	AdpType=Prep	37	case	_	_
@@ -27277,7 +27279,7 @@
 5	fixo	facer	VERB	VMIS3S0	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
 6	se	se	PRON	PP3CN000	Gender=Com|Person=3|PronType=Prs	5	expl	_	_
 7	anacos	anaco	NOUN	NCMP000	Gender=Masc|Number=Plur	5	obl	_	_
-8	debido	deber	VERB	VMP00SM	Gender=Masc|Number=Sing|VerbForm=Part|ExtPos=ADP	10	case	_	_
+8	debido	deber	VERB	VMP00SM	ExtPos=ADP|Gender=Masc|Number=Sing|VerbForm=Part	10	case	_	_
 9	a	a	ADP	SP	_	8	fixed	_	_
 10	colaboracións	colaboración	NOUN	NCFP000	Gender=Fem|Number=Plur	5	obl	_	_
 11	non	non	ADV	RN	Polarity=Neg	12	advmod	_	_
@@ -27830,7 +27832,7 @@
 
 # sent_id = w05007004
 # text = Non obstante, se se recoñecera o dereito inglés, as fillas de Luís X, Filipe V e Carlos IV terían un maior dereito a reivindicar a coroa, antes que a súa tía Isabel de Francia.
-1	Non	non	ADV	RN	Polarity=Neg|ExtPos=ADV	22	advmod	_	_
+1	Non	non	ADV	RN	ExtPos=ADV|Polarity=Neg	22	advmod	_	_
 2	obstante	obstante	ADJ	AQ0CS	_	1	fixed	_	SpaceAfter=No
 3	,	,	PUNCT	Fc	_	1	punct	_	_
 4	se	se	SCONJ	CS	_	6	mark	_	_
