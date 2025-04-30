@@ -12,6 +12,8 @@ The entire treebank is labeled as test set (and was used for testing in the shar
 
 The linguistic annotation was first carried out using state-of-the-art NLP tools for Galician, and then reviewed by two experts, achieving a high inter-annotator agreement.
 
+Note: The [fixed](https://universaldependencies.org/u/dep/fixed.html) dependency relation is used not only for fixed expressions but also for other conventional multiword expressions. This will be corrected in further versions.
+
 # Changelog
 
 * 2025-04-20 v2.15
