@@ -372,7 +372,7 @@
 9	de	de	ADP	SP	AdpType=Prep	10	case	_	_
 10	primaria	primario	ADJ	AQ0FS	_	8	nmod	_	_
 11	e	e	CCONJ	CC	_	16	cc	_	_
-12	por	por	ADP	SP	AdpType=Prep|ExtPos=ADP	16	advmod	_	_
+12	por	por	ADP	SP	AdpType=Prep|ExtPos=ADV	16	advmod	_	_
 13	riba	riba	ADV	RG	_	12	fixed	_	_
 14-15	da	_	_	_	_	_	_	_	_
 14	de	de	ADP	SP	AdpType=Prep	12	fixed	_	_
@@ -571,8 +571,8 @@
 41	que	que	SCONJ	CS	_	42	mark	_	_
 42	vai	ir	VERB	VMIP3S0	Mood=Ind|Number=Sing|Person=3|Tense=Pres	40	ccomp	_	_
 43	aumentar	aumentar	VERB	VMN0000	VerbForm=Inf	42	xcomp	_	_
-44	de	de	ADP	SP	AdpType=Prep	43	advmod	_	_
-45	novo	novo	ADJ	AQ0MS	ExtPos=ADV	44	fixed	_	_
+44	de	de	ADP	SP	AdpType=Prep|ExtPos=ADV	43	advmod	_	_
+45	novo	novo	ADJ	AQ0MS	_	44	fixed	_	_
 46	este	este	DET	DD0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	47	det	_	_
 47	ano	ano	NOUN	NCMS000	Gender=Masc|Number=Sing	43	obl	_	SpaceAfter=No
 48	.	.	PUNCT	Fp	_	4	punct	_	_
@@ -1006,7 +1006,7 @@
 
 # sent_id = n01017005
 # text = Con todo, un especialista en viaxes advertiu que a internet durante os voos non adoita ser fiábel e que é pouco probable que influencie aos pasaxeiros na escolla da compañía aérea.
-1	Con	con	ADP	SP	AdpType=Prep|ExtPos=ADP	8	advmod	_	_
+1	Con	con	ADP	SP	AdpType=Prep|ExtPos=ADV	8	advmod	_	_
 2	todo	todo	DET	DI0MS0	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	1	fixed	_	SpaceAfter=No
 3	,	,	PUNCT	Fc	_	1	punct	_	_
 4	un	un	DET	DI0MS0	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
@@ -4126,7 +4126,7 @@
 4	un	un	DET	DI0MS0	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
 5	anel	anel	NOUN	NCMS000	Gender=Masc|Number=Sing	3	obj	_	_
 6-7	ao	_	_	_	_	_	_	_	_
-6	a	a	ADP	SP	AdpType=Prep|ExtPos=ADP	3	advmod	_	_
+6	a	a	ADP	SP	AdpType=Prep|ExtPos=ADV	3	advmod	_	_
 7	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	fixed	_	_
 8	redor	redor	NOUN	NCMS000	Gender=Masc|Number=Sing	6	fixed	_	_
 9-10	do	_	_	_	_	_	_	_	_
@@ -5325,8 +5325,8 @@
 
 # sent_id = n01074030
 # text = Tes que facerlle fronte, eu prefiría que a xente fose directa e que non andivese con voltas.
-1	Tes	ter	AUX	VMIP2S0	ExtPos=VERB|Mood=Ind|Number=Sing|Person=2|Tense=Pres	3	aux	_	_
-2	que	que	ADP	SP	AdpType=Prep	1	fixed	_	_
+1	Tes	ter	AUX	VMIP2S0	Mood=Ind|Number=Sing|Person=2|Tense=Pres	3	aux	_	_
+2	que	que	SCONJ	CS	_	3	mark	_	_
 3	facer	facer	VERB	VMN0000	VerbForm=Inf	0	root	_	SpaceAfter=No
 4	lle	lle	PRON	PP3CSD00	Case=Dat|Gender=Com|Number=Sing|Person=3|PronType=Prs	3	iobj	_	_
 5	fronte	fronte	NOUN	NCFS000	Gender=Fem|Number=Sing	3	obj	_	SpaceAfter=No
@@ -7422,7 +7422,7 @@
 9	,	,	PUNCT	Fc	_	12	punct	_	_
 10	un	un	DET	DI0MS0	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
 11	mes	mes	NOUN	NCMS000	Gender=Masc|Number=Sing	12	obl	_	_
-12	despois	despois	ADV	RG	ExtPos=ADP	6	advmod	_	_
+12	despois	despois	ADV	RG	ExtPos=ADV	6	advmod	_	_
 13	de	de	ADP	SP	AdpType=Prep	12	fixed	_	_
 14	que	que	SCONJ	CS	_	17	mark	_	_
 15	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
@@ -7449,7 +7449,7 @@
 11	xullo	xullo	NOUN	NCMS000	Gender=Masc|Number=Sing	6	obl	_	SpaceAfter=No
 12	,	,	PUNCT	Fc	_	14	punct	_	_
 13	inmediatamente	inmediatamente	ADV	RG	_	14	advmod	_	_
-14	despois	despois	ADV	RG	ExtPos=ADP	6	advmod	_	_
+14	despois	despois	ADV	RG	ExtPos=ADV	6	advmod	_	_
 15-16	da	_	_	_	_	_	_	_	_
 15	de	de	ADP	SP	AdpType=Prep	14	fixed	_	_
 16	a	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
@@ -8705,7 +8705,7 @@
 12	protexer	protexer	VERB	VMN0000	VerbForm=Inf	6	xcomp	_	_
 13	se	se	PRON	PP3CN000	Gender=Com|Person=3|PronType=Prs	12	expl	_	_
 14	mellor	mellor	ADV	RG	_	12	advmod	_	_
-15	en	en	ADP	SP	AdpType=Prep|ExtPos=PRON	12	advmod	_	_
+15	en	en	ADP	SP	AdpType=Prep|ExtPos=ADV	12	advmod	_	_
 16	liña	liña	NOUN	NCFS000	Gender=Fem|Number=Sing	15	fixed	_	SpaceAfter=No
 17	.	.	PUNCT	Fp	_	6	punct	_	_
 
@@ -13925,7 +13925,7 @@
 15	as	o	DET	DA0FP0	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	16	det	_	_
 16	persoas	persoa	NOUN	NCFP000	Gender=Fem|Number=Plur	13	conj	_	_
 17	residentes	residente	NOUN	NCFP000	Gender=Masc|Number=Plur	16	nmod	_	_
-18	dentro	dentro	ADV	RG	ExtPos=ADP	5	advmod	_	_
+18	dentro	dentro	ADV	RG	ExtPos=ADV	5	advmod	_	_
 19-20	dunha	_	_	_	_	_	_	_	_
 19	de	de	ADP	SP	AdpType=Prep	18	fixed	_	_
 20	unha	un	DET	DI0FS0	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	21	det	_	_
@@ -17049,7 +17049,7 @@
 1	Algúns	algún	DET	DI0MP0	Definite=Ind|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
 2	animais	animal	NOUN	NCMP000	Gender=Masc|Number=Plur	14	nsubj	_	SpaceAfter=No
 3	,	,	PUNCT	Fc	_	8	punct	_	_
-4	alén	alén	ADV	RG	ExtPos=ADP	8	advmod	_	_
+4	alén	alén	ADV	RG	ExtPos=ADP	8	mark	_	_
 5	de	de	ADP	SP	AdpType=Prep	4	fixed	_	_
 6	ser	ser	AUX	VSN0000	VerbForm=Inf	8	cop	_	_
 7	unha	un	DET	DI0FS0	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
@@ -17535,7 +17535,7 @@
 
 # sent_id = w01098043
 # text = De acordo cun estudo xenético sobre datos autosómicos dos xitanos, a fonte de ascendencia surasiática deste pobo é o noroeste da India.
-1	De	de	ADP	SP	AdpType=Prep|ExtPos=ADP	5	advmod	_	_
+1	De	de	ADP	SP	AdpType=Prep|ExtPos=ADP	5	case	_	_
 2	acordo	acordo	NOUN	NCMS000	Gender=Masc|Number=Sing	1	fixed	_	_
 3-4	cun	_	_	_	_	_	_	_	_
 3	con	con	ADP	SP	AdpType=Prep	1	fixed	_	_
@@ -18872,7 +18872,7 @@
 7	de	de	ADP	SP	AdpType=Prep	8	case	_	_
 8	Tolle	tolle	PROPN	NP00000	_	6	nmod	_	SpaceAfter=No
 9	,	,	PUNCT	Fc	_	14	punct	_	_
-10	mentres	mentres	ADV	RG	ExtPos=SCONJ	14	advmod	_	_
+10	mentres	mentres	ADV	RG	ExtPos=SCONJ	14	case	_	_
 11	que	que	SCONJ	CS	_	10	fixed	_	_
 12	outros	outro	PRON	PI0MP0	Gender=Masc|Number=Plur|PronType=Art	14	nsubj	_	_
 13	as	o	PRON	PA0FP0	Gender=Fem|Number=Plur|PronType=Art	14	obj	_	_
@@ -20331,7 +20331,7 @@
 7	,	,	PUNCT	Fc	_	3	punct	_	_
 8	pouco	pouco	ADV	RG	_	9	advmod	_	_
 9	despois	despois	ADV	RG	ExtPos=SCONJ	15	advmod	_	_
-10	de	de	ADP	SP	AdpType=Prep	9	fixed	_	_
+10	de	de	ADP	SP	AdpType=Prep	15	case	_	_
 11	que	que	SCONJ	CS	_	15	mark	_	_
 12	as	o	DET	DA0FP0	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	13	det	_	_
 13	forzas	forza	NOUN	NCFP000	Gender=Fem|Number=Plur	15	nsubj	_	_
@@ -27405,7 +27405,7 @@
 
 # sent_id = w05002014
 # text = Antes de formárense os Andes, a marxe occidental de América do Sur xa fora un lugar de varias oroxéneses.
-1	Antes	antes	ADV	RG	ExtPos=SCONJ	3	advmod	_	_
+1	Antes	antes	ADV	RG	ExtPos=ADV	3	advmod	_	_
 2	de	de	ADP	SP	AdpType=Prep	1	fixed	_	_
 3-4	formárense	_	_	_	_	_	_	_	_
 3	formaren	formar	VERB	V0f30p	Number=Plur|Person=3|VerbForm=Inf	19	advcl	_	_
