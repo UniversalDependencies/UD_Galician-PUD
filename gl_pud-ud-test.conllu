@@ -20330,7 +20330,7 @@
 6	Consello	consello	NOUN	NCMS000	Gender=Masc|Number=Sing	3	obj	_	SpaceAfter=No
 7	,	,	PUNCT	Fc	_	3	punct	_	_
 8	pouco	pouco	ADV	RG	_	9	advmod	_	_
-9	despois	despois	ADV	RG	ExtPos=SCONJ	15	advmod	_	_
+9	despois	despois	ADV	RG	ExtPos=ADV	15	advmod	_	_
 10	de	de	ADP	SP	AdpType=Prep	15	case	_	_
 11	que	que	SCONJ	CS	_	15	mark	_	_
 12	as	o	DET	DA0FP0	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	13	det	_	_
