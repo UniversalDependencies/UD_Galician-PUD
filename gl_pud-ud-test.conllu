@@ -729,7 +729,7 @@
 10	,	,	PUNCT	Fc	_	11	punct	_	_
 11	espero	esperar	VERB	VMIP1S0	Mood=Ind|Number=Sing|Person=1|Tense=Pres	2	parataxis	_	_
 12	que	que	SCONJ	CS	_	13	mark	_	_
-13	pague	pagar	VERB	VMSP1S0	Mood=Sub|Number=Sing|Person=1|Tense=Pres|ExtPos=VERB	11	ccomp	_	_
+13	pague	pagar	VERB	VMSP1S0	ExtPos=VERB|Mood=Sub|Number=Sing|Person=1|Tense=Pres	11	ccomp	_	_
 14	a	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	fixed	_	_
 15	pena	pena	NOUN	NCFS000	Gender=Fem|Number=Sing	13	fixed	_	SpaceAfter=No
 16	.	.	PUNCT	Fp	_	2	punct	_	_
@@ -834,7 +834,7 @@
 18	naval	naval	ADJ	AQ0CS	_	17	amod	_	_
 19	de	de	ADP	SP	AdpType=Prep	20	case	_	_
 20	Clyde	clyde	PROPN	NP00000	_	17	nmod	_	_
-21	tivo	ter	VERB	VMIS3S0	Mood=Ind|Number=Sing|Person=3|Tense=Past|ExtPos=VERB	0	root	_	_
+21	tivo	ter	VERB	VMIS3S0	ExtPos=VERB|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
 22	lugar	lugar	NOUN	NCMS000	Gender=Masc|Number=Sing	21	fixed	_	_
 23	antes	antes	ADV	RG	ExtPos=ADP	26	case	_	_
 24-25	do	_	_	_	_	_	_	_	_
@@ -1567,7 +1567,7 @@
 # sent_id = n01023020
 # text = Levouse a cabo a pouca distancia da costa mexicana de abril a xuño.
 1-2	Levouse	_	_	_	_	_	_	_	_
-1	Levou	levar	VERB	VMIS3S0	Mood=Ind|Number=Sing|Person=3|Tense=Past|ExtPos=VERB	0	root	_	_
+1	Levou	levar	VERB	VMIS3S0	ExtPos=VERB|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
 2	se	se	PRON	PP3CN000	Gender=Com|Person=3|PronType=Prs	1	fixed	_	_
 3	a	a	ADP	SP	AdpType=Prep	1	fixed	_	_
 4	cabo	cabo	NOUN	NCMS000	Gender=Masc|Number=Sing	1	fixed	_	_
@@ -1860,7 +1860,7 @@
 # text = Esta noite levaremos a cabo castigos utilizando as luces longas, pódese ler na entrada.
 1	Esta	este	DET	DD0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	2	det	_	_
 2	noite	noite	NOUN	NCFS000	Gender=Fem|Number=Sing	3	obl	_	_
-3	levaremos	levar	VERB	VMIF1P0	Mood=Ind|Number=Plur|Person=1|Tense=Fut|ExtPos=VERB	0	root	_	_
+3	levaremos	levar	VERB	VMIF1P0	ExtPos=VERB|Mood=Ind|Number=Plur|Person=1|Tense=Fut	0	root	_	_
 4	a	a	ADP	SP	AdpType=Prep	3	fixed	_	_
 5	cabo	cabo	NOUN	NCMS000	Gender=Masc|Number=Sing	3	fixed	_	_
 6	castigos	castigo	NOUN	NCMP000	Gender=Masc|Number=Plur	3	obj	_	_
@@ -2542,7 +2542,7 @@
 30	teito	teito	NOUN	NCMS000	Gender=Masc|Number=Sing	23	nmod	_	_
 31	que	que	PRON	PR0CN000	Gender=Neut|PronType=Rel	33	nsubj:pass	_	_
 32	foi	ser	AUX	VSIS3S0	Mood=Ind|Number=Sing|Person=3|Tense=Past	33	aux:pass	_	_
-33	acusado	acusar	VERB	VMP00SM	Gender=Masc|Number=Sing|VerbForm=Part	29	acl	_	_
+33	acusado	acusar	VERB	VMP00SM	Gender=Masc|Number=Sing|VerbForm=Part	30	acl	_	_
 34-35	do	_	_	_	_	_	_	_	_
 34	de	de	ADP	SP	AdpType=Prep	36	case	_	_
 35	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	36	det	_	_
@@ -3919,7 +3919,7 @@
 13	,	,	PUNCT	Fc	_	14	punct	_	_
 14	dixo	dicir	VERB	VMIS3S0	Mood=Ind|Number=Sing|Person=3|Tense=Past	4	parataxis	_	_
 15	Leive	leive	PROPN	NP00000	_	14	nsubj	_	_
-16	hai	haber	VERB	VMIP3S0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|ExtPos=ADV	14	advmod	_	_
+16	hai	haber	VERB	VMIP3S0	ExtPos=ADV|Mood=Ind|Number=Sing|Person=3|Tense=Pres	14	advmod	_	_
 17	pouco	pouco	ADV	RG	_	16	fixed	_	_
 18-19	nunha	_	_	_	_	_	_	_	_
 18	en	en	ADP	SP	AdpType=Prep	20	case	_	_
@@ -5325,7 +5325,7 @@
 
 # sent_id = n01074030
 # text = Tes que facerlle fronte, eu prefiría que a xente fose directa e que non andivese con voltas.
-1	Tes	ter	AUX	VMIP2S0	Mood=Ind|Number=Sing|Person=2|Tense=Pres|ExtPos=VERB	3	aux	_	_
+1	Tes	ter	AUX	VMIP2S0	ExtPos=VERB|Mood=Ind|Number=Sing|Person=2|Tense=Pres	3	aux	_	_
 2	que	que	ADP	SP	AdpType=Prep	1	fixed	_	_
 3	facer	facer	VERB	VMN0000	VerbForm=Inf	0	root	_	SpaceAfter=No
 4	lle	lle	PRON	PP3CSD00	Case=Dat|Gender=Com|Number=Sing|Person=3|PronType=Prs	3	iobj	_	_
@@ -5597,7 +5597,7 @@
 26	mesmo	mesmo	DET	DI0MS0	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	27	det	_	_
 27	lugar	lugar	NOUN	NCMS000	Gender=Masc|Number=Sing	23	obl	_	_
 28	e	e	CCONJ	CC	_	29	cc	_	_
-29	deixamos	deixar	VERB	VMIP1P0	Mood=Ind|Number=Plur|Person=1|Tense=Pres|ExtPos=VERB	23	conj	_	_
+29	deixamos	deixar	VERB	VMIP1P0	ExtPos=VERB|Mood=Ind|Number=Plur|Person=1|Tense=Pres	23	conj	_	_
 30	de	de	ADP	SP	AdpType=Prep	29	fixed	_	_
 31	lado	lado	NOUN	NCMS000	Gender=Masc|Number=Sing	29	fixed	_	_
 32	as	o	DET	DA0FP0	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	34	det	_	_
@@ -6450,7 +6450,7 @@
 9	axenda	axenda	NOUN	NCFS000	Gender=Fem|Number=Sing	6	nmod	_	_
 10	en	en	ADP	SP	AdpType=Prep	11	case	_	_
 11	Marrocos	marrocos	PROPN	NP00000	_	12	obl	_	_
-12	terá	ter	VERB	VMIF3S0	Mood=Ind|Number=Sing|Person=3|Tense=Fut|ExtPos=VERB	0	root	_	_
+12	terá	ter	VERB	VMIF3S0	ExtPos=VERB|Mood=Ind|Number=Sing|Person=3|Tense=Fut	0	root	_	_
 13	lugar	lugar	NOUN	NCMS000	Gender=Masc|Number=Sing	12	fixed	_	_
 14	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
 15	segundo	segundo	NUM	Z	NumType=Ord	16	nummod	_	_
@@ -8353,7 +8353,7 @@
 2	morreu	morrer	VERB	VMIS3S0	Mood=Ind|Number=Sing|Person=3|Tense=Past	5	advcl	_	_
 3	Millican	millican	PROPN	NP00000	_	2	nsubj	_	SpaceAfter=No
 4	,	,	PUNCT	Fc	_	2	punct	_	_
-5	demos	dar	VERB	VMIS1P0	Mood=Ind|Number=Plur|Person=1|Tense=Past|ExtPos=VERB	0	root	_	_
+5	demos	dar	VERB	VMIS1P0	ExtPos=VERB|Mood=Ind|Number=Plur|Person=1|Tense=Past	0	root	_	_
 6	por	por	ADP	SP	AdpType=Prep	5	fixed	_	_
 7	feito	feito	NOUN	NCMS000	Gender=Masc|Number=Sing	5	fixed	_	_
 8	que	que	SCONJ	CS	_	10	mark	_	_
@@ -8862,7 +8862,7 @@
 13	se	se	PRON	PP3CN000	Gender=Com|Person=3|PronType=Prs	14	expl	_	_
 14	preocupa	preocupar	VERB	VMIP3S0	Mood=Ind|Number=Sing|Person=3|Tense=Pres	5	acl	_	_
 15	por	por	ADP	SP	AdpType=Prep	16	case	_	_
-16	si	si	PRON	PR0FS0	Gender=Com|Person=3|PronType=Prs|ExtPos=PRON	14	obl	_	_
+16	si	si	PRON	PR0FS0	ExtPos=PRON|Gender=Com|Person=3|PronType=Prs	14	obl	_	_
 17	mesma	mesmo	DET	PI0FS0	Gender=Fem|Number=Sing|PronType=Ind	16	fixed	_	SpaceAfter=No
 18	,	,	PUNCT	Fc	_	24	punct	_	_
 19	e	e	CCONJ	CC	_	24	cc	_	_
@@ -9880,7 +9880,7 @@
 5	México	méxico	PROPN	NP00000	_	6	nsubj	_	_
 6	espera	esperar	VERB	VMIP3S0	Mood=Ind|Number=Sing|Person=3|Tense=Pres	3	acl	_	_
 7	que	que	SCONJ	CS	_	8	mark	_	_
-8	chegue	chegar	VERB	VMSP1S0	Mood=Sub|Number=Sing|Person=1|Tense=Pres|ExtPos=VERB	6	ccomp	_	_
+8	chegue	chegar	VERB	VMSP1S0	ExtPos=VERB|Mood=Sub|Number=Sing|Person=1|Tense=Pres	6	ccomp	_	_
 9	a	a	ADP	SP	AdpType=Prep	8	fixed	_	_
 10	competir	competir	VERB	VMN0000	VerbForm=Inf	8	xcomp	_	_
 11-12	co	_	_	_	_	_	_	_	_
@@ -14544,7 +14544,7 @@
 5	últimos	último	ADJ	AQ0MP	_	6	amod	_	_
 6	xogos	xogo	NOUN	NCMP000	Gender=Masc|Number=Plur	8	nsubj	_	_
 7	olímpicos	olímpico	ADJ	AQ0MP	_	6	amod	_	_
-8	tiveron	ter	VERB	VMIS3P0	Mood=Ind|Number=Plur|Person=3|Tense=Past|ExtPos=VERB	1	ccomp	_	_
+8	tiveron	ter	VERB	VMIS3P0	ExtPos=VERB|Mood=Ind|Number=Plur|Person=3|Tense=Past	1	ccomp	_	_
 9	lugar	lugar	NOUN	NCMS000	Gender=Masc|Number=Sing	8	fixed	_	_
 10	en	en	ADP	SP	AdpType=Prep	11	case	_	_
 11	393	393	NUM	Z	NumType=Card	8	obl	_	SpaceAfter=No
@@ -19860,7 +19860,7 @@
 2	artigo	artigo	NOUN	NCMS000	Gender=Masc|Number=Sing	5	nsubj	_	_
 3	de	de	ADP	SP	AdpType=Prep	4	case	_	_
 4	Thompson	thompson	PROPN	NP00000	_	2	nmod	_	_
-5	dá	dar	VERB	VMIP3S0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|ExtPos=VERB	0	root	_	_
+5	dá	dar	VERB	VMIP3S0	ExtPos=VERB|Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
 6	por	por	ADP	SP	AdpType=Prep	5	fixed	_	_
 7	feito	feito	NOUN	NCMS000	Gender=Masc|Number=Sing	5	fixed	_	_
 8	que	que	SCONJ	CS	_	17	mark	_	_
@@ -21300,7 +21300,7 @@
 22	grandes	grande	ADJ	AQ0CP	_	23	amod	_	_
 23	potencias	potencia	NOUN	NCFP000	Gender=Fem|Number=Plur	24	nsubj	_	_
 24-25	déronse	_	_	_	_	_	_	_	_
-24	deron	dar	VERB	VMIS3P0	Mood=Ind|Number=Plur|Person=3|Tense=Past|ExtPos=VERB	0	root	_	_
+24	deron	dar	VERB	VMIS3P0	ExtPos=VERB|Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	_
 25	se	se	PRON	PP3CN000	Gender=Com|Person=3|PronType=Prs	24	fixed	_	_
 26	conta	conta	NOUN	NCFS000	Gender=Fem|Number=Sing	24	fixed	_	_
 27	de	de	ADP	SP	AdpType=Prep	31	case	_	_
@@ -22294,7 +22294,7 @@
 
 # sent_id = n02068010
 # text = Pode que a cuestión non acabase para Barroso.
-1	Pode	poder	VERB	VMIP3S0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|ExtPos=ADV	6	advmod	_	_
+1	Pode	poder	VERB	VMIP3S0	ExtPos=ADV|Mood=Ind|Number=Sing|Person=3|Tense=Pres	6	advmod	_	_
 2	que	que	SCONJ	CS	_	1	fixed	_	_
 3	a	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
 4	cuestión	cuestión	NOUN	NCFS000	Gender=Fem|Number=Sing	6	nsubj	_	_
@@ -23776,7 +23776,7 @@
 11	unha	un	DET	DI0FS0	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
 12	reunión	reunión	NOUN	NCFS000	Gender=Fem|Number=Sing	1	obl	_	_
 13	que	que	PRON	PR0CN000	Gender=Neut|PronType=Rel	14	nsubj	_	_
-14	tivo	ter	VERB	VMIS3S0	Mood=Ind|Number=Sing|Person=3|Tense=Past|ExtPos=VERB	12	acl	_	_
+14	tivo	ter	VERB	VMIS3S0	ExtPos=VERB|Mood=Ind|Number=Sing|Person=3|Tense=Past	12	acl	_	_
 15	lugar	lugar	NOUN	NCMS000	Gender=Masc|Number=Sing	14	fixed	_	_
 16	en	en	ADP	SP	AdpType=Prep	17	case	_	_
 17	Roma	roma	PROPN	NP00000	_	14	obl	_	SpaceAfter=No
@@ -24636,7 +24636,7 @@
 1	A	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
 2	alegre	alegre	ADJ	AQ0CS	_	3	amod	_	_
 3	dedicatoria	dedicatoria	NOUN	NCFS000	Gender=Fem|Number=Sing	4	nsubj	_	_
-4	tivo	ter	VERB	VMIS3S0	Mood=Ind|Number=Sing|Person=3|Tense=Past|ExtPos=VERB	0	root	_	_
+4	tivo	ter	VERB	VMIS3S0	ExtPos=VERB|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
 5	lugar	lugar	NOUN	NCMS000	Gender=Masc|Number=Sing	4	fixed	_	_
 6	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
 7	30	30	NUM	Z	NumType=Card	4	obl	_	_
@@ -25376,7 +25376,7 @@
 1	A	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
 2	Revolución	revolución	NOUN	NCFS000	Gender=Fem|Number=Sing	4	nsubj	_	_
 3	Industrial	industrial	ADJ	AQ0CS	_	2	amod	_	_
-4	tivo	ter	VERB	VMIS3S0	Mood=Ind|Number=Sing|Person=3|Tense=Past|ExtPos=VERB	0	root	_	_
+4	tivo	ter	VERB	VMIS3S0	ExtPos=VERB|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
 5	lugar	lugar	NOUN	NCMS000	Gender=Masc|Number=Sing	4	fixed	_	_
 6	en	en	ADP	SP	AdpType=Prep	8	case	_	_
 7	Gran	gran	ADJ	AQ0CS	_	8	amod	_	_
@@ -26666,7 +26666,7 @@
 12	de	de	ADP	SP	AdpType=Prep	13	case	_	_
 13	cabalos	cabalo	NOUN	NCMP000	Gender=Masc|Number=Plur	10	nmod	_	_
 14	que	que	PRON	PR0CN000	Gender=Neut|PronType=Rel	15	nsubj	_	_
-15	tivo	ter	VERB	VMIS3S0	Mood=Ind|Number=Sing|Person=3|Tense=Past|ExtPos=VERB	10	acl	_	_
+15	tivo	ter	VERB	VMIS3S0	ExtPos=VERB|Mood=Ind|Number=Sing|Person=3|Tense=Past	10	acl	_	_
 16	lugar	lugar	NOUN	NCMS000	Gender=Masc|Number=Sing	15	fixed	_	_
 17	en	en	ADP	SP	AdpType=Prep	18	case	_	_
 18	Villa	villa	PROPN	NP00000	_	15	obl	_	_
