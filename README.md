@@ -1,6 +1,6 @@
 # Summary
 
-The Galician PUD is a treebank for Galician developed at CiTIUS (Universidade de Santiago de Compostela).
+The Galician PUD is a treebank for Galician developed at CiTIUS (Universidade de Santiago de Compostela). It follows the annotation guidelines of [Galician-TreeGal](https://github.com/UniversalDependencies/UD_Galician-TreeGal). 
 
 # Introduction
 
@@ -12,7 +12,7 @@ The entire treebank is labeled as test set (and was used for testing in the shar
 
 The linguistic annotation was first carried out using state-of-the-art NLP tools for Galician, and then reviewed by two experts, achieving a high inter-annotator agreement.
 
-Note: The [fixed](https://universaldependencies.org/u/dep/fixed.html) dependency relation is used not only for fixed expressions but also for other conventional multiword expressions. This will be corrected in further versions.
+Note: As in the [Galician-TreeGal treebank](https://github.com/UniversalDependencies/UD_Galician-TreeGal), the [fixed](https://universaldependencies.org/u/dep/fixed.html) dependency relation is used not only for fixed expressions but also for other conventional multiword expressions. This will be corrected in further versions.
 
 # Changelog
 
