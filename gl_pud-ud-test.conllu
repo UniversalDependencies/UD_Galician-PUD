@@ -3737,7 +3737,8 @@
 47	legalmente	legal	ADV	RG	_	46	advmod	_	SpaceAfter=No
 48	.	.	PUNCT	Fp	_	4	punct	_	_
 
-# sent_id = n01049033v
+# sent_id = n01049033
+# parallel_id = pud/n01049033
 # text = Pero sen un marco lexislativo, e coas orixes populares da herba como un remedio caseiro que altera o estado de ánimo, as empresas teñen máis dúbidas que respostas.
 1	Pero	pero	CCONJ	CC	_	28	discourse	_	_
 2	sen	sen	ADP	SP	AdpType=Prep	4	case	_	_
@@ -6264,7 +6265,8 @@
 15	oes	oír	VERB	VMIP2S0	Mood=Ind|Number=Sing|Person=2|Tense=Pres	12	advcl	_	SpaceAfter=No
 16	.	.	PUNCT	Fp	_	1	punct	_	_
 
-# sent_id = 141
+# sent_id = n01086031
+# parallel_id = pud/n01086031
 # text = Iso é simplemente horroroso.
 1	Iso	iso	PRON	PD0CN000	Gender=Neut|PronType=Dem	4	nsubj	_	_
 2	é	ser	AUX	VSIP3S0	Mood=Ind|Number=Sing|Person=3|Tense=Pres	4	cop	_	_
@@ -6272,8 +6274,8 @@
 4	horroroso	horroroso	ADJ	AQ0MS	_	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	Fp	_	4	punct	_	_
 
-# sent_id = n01086031
-# parallel_id = pud/n01086031
+# sent_id = n01087005
+# parallel_id = pud/n01087005
 # text = É xusto dicir que Rocco Catalano traballa, vive e respira ao estilo retro.
 1	É	ser	AUX	VSIP3S0	Mood=Ind|Number=Sing|Person=3|Tense=Pres	2	cop	_	_
 2	xusto	xusto	ADJ	AQ0MS	_	0	root	_	_
@@ -8256,7 +8258,8 @@
 6	xuño	xuño	NOUN	NCMS000	Gender=Masc|Number=Sing	4	nmod	_	SpaceAfter=No
 7	.	.	PUNCT	Fp	_	1	punct	_	_
 
-# sent_id = 214
+# sent_id = n01115013
+# parallel_id = pud/n01115013
 # text = O ano pasado foi un ano incrible e espero que volvamos aínda mellor en 2017.
 1	O	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	ano	ano	NOUN	NCMS000	Gender=Masc|Number=Sing	6	nsubj	_	_
@@ -12737,7 +12740,8 @@
 27	Ramos	ramos	NOUN	NCMP000	Gender=Masc|Number=Plur	25	nmod	_	SpaceAfter=No
 28	.	.	PUNCT	Fp	_	12	punct	_	_
 
-# sent_id = 385
+# sent_id = w01030092
+# parallel_id = pud/w01030092
 # text = Os Alpes proporcionan auga potable, rega e enerxía hidroeléctrica ás terras baixas de Europa.
 1	Os	o	DET	DA0MP0	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
 2	Alpes	Alpes	NOUN	NCMP000	Gender=Masc|Number=Plur	3	nsubj	_	_
