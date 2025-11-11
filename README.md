@@ -65,6 +65,7 @@ Data available since: UD v2.14
 License: CC BY-SA 4.0
 Genre: news wiki
 Includes text: yes
+Parallel: pud
 Lemmas: manual native
 UPOS: manual native
 XPOS: manual native
