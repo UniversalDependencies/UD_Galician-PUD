@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit 26e6c87a2f518322d15901a351199b6be6569062
+commit b39dc4111bb13658bc0c204b48bb78b492e45d2b
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Fri Nov 7 15:39:58 2025 +0100
+Date:   Tue May 5 17:01:41 2026 +0200
 Evaluating the following revision of UD_Galician-PUD:
-commit 5f00f0d26e936a8badd7551ddb8698eff716b1c0
-Merge: ddaa59b c356fa0
+commit 5b99cb8a739997c5b82b369bd5d7059cc8da1abf
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Tue Nov 11 19:28:12 2025 +0100
 CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
 Language-treebank code (from CoNLL-U file name) = 'gl_pud'
 Language code (from CoNLL-U file name) = 'gl'
@@ -25,30 +25,42 @@ Universal relations: 31 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 1.
 Genres: found 2 out of 18 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang gl --max-err=10 UD_Galician-PUD/gl_pud-ud-test.conllu
-[Line 94 Sent n01002017]: [L3 Warning pron-det-without-prontype] The word 'súa' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 535 Sent n01007012]: [L3 Warning pron-det-without-prontype] The word 'nosa' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 685 Sent n01011004]: [L3 Warning pron-det-without-prontype] The word 'súa' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 718 Sent n01011011]: [L3 Warning pron-det-without-prontype] The word 'súa' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 732 Sent n01011011]: [L3 Warning pron-det-without-prontype] The word 'súa' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 756 Sent n01011017]: [L3 Warning fixed-without-extpos] Fixed expression 'pague a pena' does not have the 'ExtPos' feature
-[Line 782 Sent n01012003]: [L3 Warning pron-det-without-prontype] The word 'súas' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 865 Sent n01014012]: [L3 Warning fixed-without-extpos] Fixed expression 'tivo lugar' does not have the 'ExtPos' feature
-[Line 915 Sent n01015036]: [L3 Warning pron-det-without-prontype] The word 'súa' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 1031 Sent n01016032]: [L3 Warning pron-det-without-prontype] The word 'o' is tagged 'DET' but it lacks the 'PronType' feature
-...suppressing further errors regarding Warning
-[Line 3203 Sent n01042008]: [L3 Syntax too-many-objects] Multiple direct objects [8, 22] ('entradas', 'axentes') under the predicate 'investigar'.
-[Line 3449 Sent n01044009]: [L3 Syntax too-many-objects] Multiple direct objects [16, 25] ('operacións', 'xornalistas') under the predicate 'centrou'.
-[Line 3656 Sent n01048008]: [L3 Syntax too-many-objects] Multiple direct objects [22, 26] ('que', 'papel') under the predicate 'sinala'.
-[Line 3661 Sent n01048008]: [L3 Syntax too-many-objects] Multiple direct objects [27, 30] ('que', 'investidores') under the predicate 'xogan'.
-[Line 5164 Sent n01069004]: [L3 Syntax too-many-objects] Multiple direct objects [4, 7] ('que', 'libros') under the predicate 'escribiu'.
-[Line 8631 Sent n01120010]: [L3 Syntax too-many-objects] Multiple direct objects [11, 13] ('a', 'todavía') under the predicate 'fai'.
-[Line 12971 Sent w01031015]: [L3 Syntax too-many-objects] Multiple direct objects [21, 25] ('veces', 'superficie') under the predicate 'alcanza'.
-[Line 15806 Sent w01067059]: [L3 Syntax too-many-objects] Multiple direct objects [7, 9] ('que', 'evidente') under the predicate 'resulta'.
-[Line 18742 Sent w01105055]: [L3 Syntax too-many-objects] Multiple direct objects [37, 40] ('aeroplano', 'pista') under the predicate 'guiar'.
-[Line 28569 Sent w05004031]: [L3 Syntax too-many-objects] Multiple direct objects [21, 34] ('punto', 'punto') under the predicate 'conecta'.
-Syntax errors: 10
-Warnings: 276
-*** FAILED *** with 10 errors
+[Line 94 Sent n01002017]: [L3 WARNING pron-det-without-prontype] The word 'súa' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 535 Sent n01007012]: [L3 WARNING pron-det-without-prontype] The word 'nosa' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 685 Sent n01011004]: [L3 WARNING pron-det-without-prontype] The word 'súa' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 718 Sent n01011011]: [L3 WARNING pron-det-without-prontype] The word 'súa' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 732 Sent n01011011]: [L3 WARNING pron-det-without-prontype] The word 'súa' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 756 Sent n01011017]: [L3 WARNING fixed-without-extpos] Fixed expression 'pague a pena' does not have the 'ExtPos' feature
+[Line 782 Sent n01012003]: [L3 WARNING pron-det-without-prontype] The word 'súas' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 865 Sent n01014012]: [L3 WARNING fixed-without-extpos] Fixed expression 'tivo lugar' does not have the 'ExtPos' feature
+[Line 915 Sent n01015036]: [L3 WARNING pron-det-without-prontype] The word 'súa' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 1031 Sent n01016032]: [L3 WARNING pron-det-without-prontype] The word 'o' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 1329 Sent n01020021]: [L3 WARNING pron-det-without-prontype] The word 'súas' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 1602 Sent n01022027]: [L3 WARNING pron-det-without-prontype] The word 'súas' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 1623 Sent n01023020]: [L3 WARNING fixed-without-extpos] Fixed expression 'Levou se a cabo' does not have the 'ExtPos' feature
+...suppressing further messages regarding WARNING/MORPHO
+[Line 1925 Sent n01026004]: [L3 WARNING fixed-without-extpos] Fixed expression 'levaremos a cabo' does not have the 'ExtPos' feature
+[Line 3203 Sent n01042008]: [L3 SYNTAX too-many-objects] Multiple direct objects [8, 22] ('entradas', 'axentes') under the predicate 'investigar'.
+[Line 3449 Sent n01044009]: [L3 SYNTAX too-many-objects] Multiple direct objects [16, 25] ('operacións', 'xornalistas') under the predicate 'centrou'.
+[Line 3656 Sent n01048008]: [L3 SYNTAX too-many-objects] Multiple direct objects [22, 26] ('que', 'papel') under the predicate 'sinala'.
+[Line 3661 Sent n01048008]: [L3 SYNTAX too-many-objects] Multiple direct objects [27, 30] ('que', 'investidores') under the predicate 'xogan'.
+[Line 4373 Sent n01058052]: [L3 SYNTAX obl-should-be-nmod] The parent (node [3] 'aprobación') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 4769 Sent n01063043]: [L3 SYNTAX obl-should-be-nmod] The parent (node [24] 'ordenador') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 5164 Sent n01069004]: [L3 SYNTAX too-many-objects] Multiple direct objects [4, 7] ('que', 'libros') under the predicate 'escribiu'.
+[Line 5793 Sent n01079065]: [L3 WARNING fixed-without-extpos] Fixed expression 'deixamos de lado' does not have the 'ExtPos' feature
+[Line 6679 Sent n01092025]: [L3 WARNING fixed-without-extpos] Fixed expression 'terá lugar' does not have the 'ExtPos' feature
+[Line 6695 Sent n01092025]: [L3 SYNTAX obl-should-be-nmod] The parent (node [24] 'uns') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 7425 Sent n01104011]: [L3 SYNTAX obl-should-be-nmod] The parent (node [15] 'o') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 8631 Sent n01120010]: [L3 SYNTAX too-many-objects] Multiple direct objects [11, 13] ('a', 'todavía') under the predicate 'fai'.
+[Line 8657 Sent n01121032]: [L3 WARNING fixed-without-extpos] Fixed expression 'demos por feito' does not have the 'ExtPos' feature
+[Line 10242 Sent n01145012]: [L3 WARNING fixed-without-extpos] Fixed expression 'chegue a' does not have the 'ExtPos' feature
+...suppressing further messages regarding ERROR/SYNTAX
+[Line 15069 Sent w01058013]: [L3 WARNING fixed-without-extpos] Fixed expression 'tiveron lugar' does not have the 'ExtPos' feature
+[Line 20562 Sent w01132056]: [L3 WARNING fixed-without-extpos] Fixed expression 'dá por feito' does not have the 'ExtPos' feature
+...suppressing further messages regarding WARNING/SYNTAX
+Warnings: 267
+SYNTAX errors: 19
+*** FAILED *** with 19 errors
 Exit code: 1
 Validity: 0.01
 (weight=0.111111111111111) * (score{features}=0.5) = 0.0555555555555556
