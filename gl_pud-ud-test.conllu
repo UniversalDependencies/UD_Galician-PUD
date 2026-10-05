@@ -4370,7 +4370,7 @@
 18-19	no	_	_	_	_	_	_	_	_
 18	en	en	ADP	SP	AdpType=Prep	20	case	_	_
 19	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
-20	ano	ano	NOUN	NCMS000	Gender=Masc|Number=Sing	3	obl	_	_
+20	ano	ano	NOUN	NCMS000	Gender=Masc|Number=Sing	3	nmod	_	_
 21	2013	2013	NUM	Z	NumType=Card	20	nummod	_	SpaceAfter=No
 22	,	,	PUNCT	Fc	_	3	punct	_	_
 23	Campbell	campbell	PROPN	NP00000	_	24	nsubj	_	_
@@ -4766,7 +4766,7 @@
 24	ordenador	ordenador	NOUN	NCMS000	Gender=Masc|Number=Sing	11	obl	_	_
 25	portátil	portátil	ADJ	AQ0CS	_	24	amod	_	_
 26	de	de	ADP	SP	AdpType=Prep	27	case	_	_
-27	uso	uso	NOUN	NCMS000	Gender=Masc|Number=Sing	24	obl	_	_
+27	uso	uso	NOUN	NCMS000	Gender=Masc|Number=Sing	24	nmod	_	_
 28	persoal	persoal	ADJ	AQ0CS	_	27	amod	_	SpaceAfter=No
 29	.	.	PUNCT	Fp	_	9	punct	_	_
 
@@ -6692,7 +6692,7 @@
 25-26	aos	_	_	_	_	_	_	_	_
 25	a	a	ADP	SP	AdpType=Prep	27	case	_	_
 26	os	o	DET	DA0MP0	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	27	det	_	_
-27	outros	outro	PRON	PI0MP0	Gender=Masc|Number=Plur|PronType=Prs	24	obl	_	_
+27	outros	outro	PRON	PI0MP0	Gender=Masc|Number=Plur|PronType=Prs	24	nmod	_	_
 28	acerca	acercar	ADP	SP	ExtPos=ADP	32	case	_	_
 29-30	dos	_	_	_	_	_	_	_	_
 29	de	de	ADP	SP	AdpType=Prep	28	fixed	_	_
@@ -7422,7 +7422,7 @@
 14	facer	facer	VERB	VMN0000	VerbForm=Inf	19	csubj	_	_
 15	o	o	PRON	PP3MSA00	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	obj	_	_
 16	tres	3	NUM	Z	NumType=Card	17	nummod	_	_
-17	veces	vez	NOUN	NCFP000	Gender=Fem|Number=Plur	15	obl	_	_
+17	veces	vez	NOUN	NCFP000	Gender=Fem|Number=Plur	15	nmod	_	_
 18	seguidas	seguir	VERB	VMP00PF	Gender=Fem|Number=Plur|VerbForm=Part	17	acl	_	_
 19	indica	indicar	VERB	VMIP3S0	Mood=Ind|Number=Sing|Person=3|Tense=Pres	2	conj	_	_
 20	unha	un	DET	DI0FS0	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	21	det	_	_
@@ -16804,7 +16804,7 @@
 14-15	dos	_	_	_	_	_	_	_	_
 14	de	de	ADP	SP	AdpType=Prep	16	case	_	_
 15	os	o	DET	DA0MP0	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	16	det	_	_
-16	otománs	otomán	NOUN	NCMP000	Gender=Masc|Number=Plur	11	obl	_	_
+16	otománs	otomán	NOUN	NCMP000	Gender=Masc|Number=Plur	11	nmod	_	_
 17-18	na	_	_	_	_	_	_	_	_
 17	en	en	ADP	SP	AdpType=Prep	19	case	_	_
 18	a	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
@@ -17728,7 +17728,7 @@
 9	se	se	PRON	PP3CN000	Gender=Com|Person=3|PronType=Prs	8	expl	_	_
 10	como	como	ADP	SP	_	12	case	_	_
 11	un	un	DET	DI0MS0	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
-12	poder	poder	NOUN	NCMS000	Gender=Masc|Number=Sing	9	obl	_	_
+12	poder	poder	NOUN	NCMS000	Gender=Masc|Number=Sing	9	nmod	_	_
 13	local	local	ADJ	AQ0MS	Gender=Masc|Number=Sing	12	amod	_	_
 14-15	no	_	_	_	_	_	_	_	_
 14	en	en	ADP	SP	AdpType=Prep	16	case	_	_
@@ -17947,7 +17947,7 @@
 25-26	doutra	_	_	_	_	_	_	_	_
 25	de	de	ADP	SP	AdpType=Prep	27	case	_	_
 26	outra	outro	DET	DI0FS0	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	27	det	_	_
-27	maneira	maneira	NOUN	NCFS000	Gender=Fem|Number=Sing	24	obl	_	SpaceAfter=No
+27	maneira	maneira	NOUN	NCFS000	Gender=Fem|Number=Sing	24	nmod	_	SpaceAfter=No
 28	.	.	PUNCT	Fp	_	12	punct	_	_
 
 # sent_id = w01095093
@@ -18504,7 +18504,7 @@
 14-15	da	_	_	_	_	_	_	_	_
 14	de	de	ADP	SP	AdpType=Prep	16	case	_	_
 15	a	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
-16	Milice	milice	NOUN	NCFS000	Gender=Fem|Number=Sing	13	obl	_	_
+16	Milice	milice	NOUN	NCFS000	Gender=Fem|Number=Sing	13	nmod	_	_
 17	francesa	francés	ADJ	AQ0FS	_	16	amod	_	_
 18	que	que	PRON	PR0CN000	Gender=Neut|PronType=Rel	19	nsubj	_	_
 19	perseguiron	perseguir	VERB	VMIS3P0	Mood=Ind|Number=Plur|Person=3|Tense=Past	13	acl	_	_
@@ -29152,7 +29152,7 @@
 # parallel_id = pud/w05010027
 # text = O 1 de xaneiro de 49 a. C., Marco Antonio leu unha carta de César en que o procónsul se declaraba amigo da paz.
 1	O	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
-2	1	1	NUM	Z	NumType=Card	14	obl	_	_
+2	1	1	NUM	Z	NumType=Card	14	nmod	_	_
 3	de	de	ADP	SP	AdpType=Prep	4	case	_	_
 4	xaneiro	xaneiro	NOUN	NCMS000	Gender=Masc|Number=Sing	2	nmod	_	_
 5	de	de	ADP	SP	AdpType=Prep	6	case	_	_
