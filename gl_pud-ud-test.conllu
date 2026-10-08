@@ -3216,7 +3216,7 @@
 19	presuntamente	presuntamente	ADV	RG	_	6	advmod	_	SpaceAfter=No
 20	,	,	PUNCT	Fc	_	19	punct	_	_
 21	a	a	ADP	SP	AdpType=Prep	22	case	_	_
-22	axentes	axente	NOUN	NCCP000	Gender=Com|Number=Plur	6	obj	_	_
+22	axentes	axente	NOUN	NCCP000	Gender=Com|Number=Plur	17	obl	_	_
 23	de	de	ADP	SP	AdpType=Prep	24	case	_	_
 24	policía	policía	NOUN	NCFS000	Gender=Fem|Number=Sing	22	nmod	_	_
 25-26	da	_	_	_	_	_	_	_	_
@@ -3458,7 +3458,7 @@
 22	menos	menos	ADV	RG	_	20	fixed	_	_
 23	outros	outro	DET	DI0MP0	Definite=Ind|Gender=Masc|Number=Plur|PronType=Art	25	det	_	_
 24	seis	6	NUM	Z	NumType=Card	25	nummod	_	_
-25	xornalistas	xornalista	NOUN	NCMP000	Gender=Masc|Number=Plur	14	obj	_	_
+25	xornalistas	xornalista	NOUN	NCMP000	Gender=Masc|Number=Plur	14	obl	_	_
 26-27	do	_	_	_	_	_	_	_	_
 26	de	de	ADP	SP	AdpType=Prep	28	case	_	_
 27	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	28	det	_	_
@@ -3652,7 +3652,7 @@
 19	terminados	terminar	VERB	VMP00PM	Gender=Masc|Number=Plur|VerbForm=Part	18	acl	_	SpaceAfter=No
 20	,	,	PUNCT	Fc	_	23	punct	_	_
 21	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
-22	que	que	PRON	PR0CN000	Gender=Neut|PronType=Rel	23	obj	_	_
+22	que	que	PRON	PR0CN000	Gender=Neut|PronType=Rel	23	nsubj	_	_
 23	sinala	sinalar	VERB	VMIP3S0	Mood=Ind|Number=Sing|Person=3|Tense=Pres	3	ccomp	_	_
 24	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	26	det	_	_
 25	importante	importante	ADJ	AQ0CS	_	26	amod	_	_
@@ -3660,7 +3660,7 @@
 27	que	que	PRON	PR0CN000	Gender=Neut|PronType=Rel	28	obj	_	_
 28	xogan	xogar	VERB	VMIP3P0	Mood=Ind|Number=Plur|Person=3|Tense=Pres	26	acl	_	_
 29	os	o	DET	DA0MP0	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	30	det	_	_
-30	investidores	investidor	NOUN	NCMP000	Gender=Masc|Number=Plur	28	obj	_	_
+30	investidores	investidor	NOUN	NCMP000	Gender=Masc|Number=Plur	28	nsubj	_	_
 31	(	(	PUNCT	Fpa	_	32	punct	_	SpaceAfter=No
 32	nacionais	nacional	ADJ	AQ0CP	_	30	amod	_	SpaceAfter=No
 33	)	)	PUNCT	Fpt	_	32	punct	_	_
@@ -4370,7 +4370,7 @@
 18-19	no	_	_	_	_	_	_	_	_
 18	en	en	ADP	SP	AdpType=Prep	20	case	_	_
 19	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
-20	ano	ano	NOUN	NCMS000	Gender=Masc|Number=Sing	3	nmod	_	_
+20	ano	ano	NOUN	NCMS000	Gender=Masc|Number=Sing	3	obl	_	_
 21	2013	2013	NUM	Z	NumType=Card	20	nummod	_	SpaceAfter=No
 22	,	,	PUNCT	Fc	_	3	punct	_	_
 23	Campbell	campbell	PROPN	NP00000	_	24	nsubj	_	_
@@ -4766,7 +4766,7 @@
 24	ordenador	ordenador	NOUN	NCMS000	Gender=Masc|Number=Sing	11	obl	_	_
 25	portátil	portátil	ADJ	AQ0CS	_	24	amod	_	_
 26	de	de	ADP	SP	AdpType=Prep	27	case	_	_
-27	uso	uso	NOUN	NCMS000	Gender=Masc|Number=Sing	24	nmod	_	_
+27	uso	uso	NOUN	NCMS000	Gender=Masc|Number=Sing	24	obl	_	_
 28	persoal	persoal	ADJ	AQ0CS	_	27	amod	_	SpaceAfter=No
 29	.	.	PUNCT	Fp	_	9	punct	_	_
 
@@ -5160,7 +5160,7 @@
 1	Christian	christian	PROPN	NP00000	_	12	nsubj	_	_
 2	Wolmar	wolmar	PROPN	NP00000	_	1	flat:name	_	SpaceAfter=No
 3	,	,	PUNCT	Fc	_	5	punct	_	_
-4	que	que	PRON	PR0CN000	Gender=Neut|PronType=Rel	5	obj	_	_
+4	que	que	PRON	PR0CN000	Gender=Neut|PronType=Rel	5	nsubj	_	_
 5	escribiu	escribir	VERB	VMIS3S0	Mood=Ind|Number=Sing|Person=3|Tense=Past	1	acl	_	_
 6	varios	varios	DET	DI0MP0	Definite=Ind|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
 7	libros	libro	NOUN	NCMP000	Gender=Masc|Number=Plur	5	obj	_	_
@@ -6692,7 +6692,7 @@
 25-26	aos	_	_	_	_	_	_	_	_
 25	a	a	ADP	SP	AdpType=Prep	27	case	_	_
 26	os	o	DET	DA0MP0	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	27	det	_	_
-27	outros	outro	PRON	PI0MP0	Gender=Masc|Number=Plur|PronType=Prs	24	nmod	_	_
+27	outros	outro	PRON	PI0MP0	Gender=Masc|Number=Plur|PronType=Prs	24	obl	_	_
 28	acerca	acercar	ADP	SP	ExtPos=ADP	32	case	_	_
 29-30	dos	_	_	_	_	_	_	_	_
 29	de	de	ADP	SP	AdpType=Prep	28	fixed	_	_
@@ -7422,7 +7422,7 @@
 14	facer	facer	VERB	VMN0000	VerbForm=Inf	19	csubj	_	_
 15	o	o	PRON	PP3MSA00	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	obj	_	_
 16	tres	3	NUM	Z	NumType=Card	17	nummod	_	_
-17	veces	vez	NOUN	NCFP000	Gender=Fem|Number=Plur	15	nmod	_	_
+17	veces	vez	NOUN	NCFP000	Gender=Fem|Number=Plur	15	obl	_	_
 18	seguidas	seguir	VERB	VMP00PF	Gender=Fem|Number=Plur|VerbForm=Part	17	acl	_	_
 19	indica	indicar	VERB	VMIP3S0	Mood=Ind|Number=Sing|Person=3|Tense=Pres	2	conj	_	_
 20	unha	un	DET	DI0FS0	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	21	det	_	_
@@ -8616,7 +8616,7 @@
 
 # sent_id = n01120010
 # parallel_id = pud/n01120010
-# text = A historia de Doss tamén ten unha natureza improbable que a fai todavía máis atraente.
+# text = A historia de Doss tamén ten unha natureza improbable que a fai aínda máis atraente.
 1	A	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
 2	historia	historia	NOUN	NCFS000	Gender=Fem|Number=Sing	6	nsubj	_	_
 3	de	de	ADP	SP	AdpType=Prep	4	case	_	_
@@ -8629,9 +8629,9 @@
 10	que	que	PRON	PR0CN000	Gender=Neut|PronType=Rel	12	nsubj	_	_
 11	a	o	PRON	PP3FSA00	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	12	obj	_	_
 12	fai	facer	VERB	VMIP3S0	Mood=Ind|Number=Sing|Person=3|Tense=Pres	8	acl	_	_
-13	todavía	todavía	NOUN	NCFS000	Gender=Fem|Number=Sing	12	obj	_	_
+13	aínda	aínda	ADV	RG	_	14	advmod	_	_
 14	máis	máis	ADV	RG	_	15	advmod	_	_
-15	atraente	atraente	ADJ	AQ0CS	_	13	amod	_	SpaceAfter=No
+15	atraente	atraente	ADJ	AQ0CS	_	12	xcomp	_	SpaceAfter=No
 16	.	.	PUNCT	Fp	_	6	punct	_	_
 
 # sent_id = n01120020
@@ -12966,7 +12966,7 @@
 18	o	o	PRON	PA0MS0	Gender=Masc|Number=Sing|PronType=Prs	17	fixed	_	_
 19	que	que	SCONJ	CS	_	17	fixed	_	_
 20	moitas	moito	DET	DI0FP0	Definite=Ind|Gender=Fem|Number=Plur|PronType=Art	21	det	_	_
-21	veces	vez	NOUN	NCFP000	Gender=Fem|Number=Plur	23	obj	_	_
+21	veces	vez	NOUN	NCFP000	Gender=Fem|Number=Plur	23	obl	_	_
 22	non	non	ADV	RN	Polarity=Neg	23	advmod	_	_
 23	alcanza	alcanzar	VERB	VMIP3S0	Mood=Ind|Number=Sing|Person=3|Tense=Pres	3	advcl	_	_
 24	a	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	25	det	_	_
@@ -15802,9 +15802,9 @@
 4	anos	ano	NOUN	NCMP000	Gender=Masc|Number=Plur	2	obj	_	SpaceAfter=No
 5	,	,	PUNCT	Fc	_	8	punct	_	_
 6	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
-7	que	que	PRON	PR0CN000	Gender=Neut|PronType=Rel	8	obj	_	_
+7	que	que	PRON	PR0CN000	Gender=Neut|PronType=Rel	8	nsubj	_	_
 8	resulta	resultar	VERB	VMIP3S0	Mood=Ind|Number=Sing|Person=3|Tense=Pres	2	advcl	_	_
-9	evidente	evidente	ADJ	AQ0CS	_	8	obj	_	_
+9	evidente	evidente	ADJ	AQ0CS	_	8	xcomp	_	_
 10	dado	dar	VERB	VMP00SM	Gender=Masc|Number=Sing|VerbForm=Part	8	advcl	_	_
 11	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
 12	estado	estado	NOUN	NCMS000	Gender=Masc|Number=Sing	10	obl	_	_
@@ -16804,7 +16804,7 @@
 14-15	dos	_	_	_	_	_	_	_	_
 14	de	de	ADP	SP	AdpType=Prep	16	case	_	_
 15	os	o	DET	DA0MP0	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	16	det	_	_
-16	otománs	otomán	NOUN	NCMP000	Gender=Masc|Number=Plur	11	nmod	_	_
+16	otománs	otomán	NOUN	NCMP000	Gender=Masc|Number=Plur	11	obl	_	_
 17-18	na	_	_	_	_	_	_	_	_
 17	en	en	ADP	SP	AdpType=Prep	19	case	_	_
 18	a	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
@@ -17728,7 +17728,7 @@
 9	se	se	PRON	PP3CN000	Gender=Com|Person=3|PronType=Prs	8	expl	_	_
 10	como	como	ADP	SP	_	12	case	_	_
 11	un	un	DET	DI0MS0	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
-12	poder	poder	NOUN	NCMS000	Gender=Masc|Number=Sing	9	nmod	_	_
+12	poder	poder	NOUN	NCMS000	Gender=Masc|Number=Sing	9	obl	_	_
 13	local	local	ADJ	AQ0MS	Gender=Masc|Number=Sing	12	amod	_	_
 14-15	no	_	_	_	_	_	_	_	_
 14	en	en	ADP	SP	AdpType=Prep	16	case	_	_
@@ -17947,7 +17947,7 @@
 25-26	doutra	_	_	_	_	_	_	_	_
 25	de	de	ADP	SP	AdpType=Prep	27	case	_	_
 26	outra	outro	DET	DI0FS0	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	27	det	_	_
-27	maneira	maneira	NOUN	NCFS000	Gender=Fem|Number=Sing	24	nmod	_	SpaceAfter=No
+27	maneira	maneira	NOUN	NCFS000	Gender=Fem|Number=Sing	24	obl	_	SpaceAfter=No
 28	.	.	PUNCT	Fp	_	12	punct	_	_
 
 # sent_id = w01095093
@@ -18504,7 +18504,7 @@
 14-15	da	_	_	_	_	_	_	_	_
 14	de	de	ADP	SP	AdpType=Prep	16	case	_	_
 15	a	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
-16	Milice	milice	NOUN	NCFS000	Gender=Fem|Number=Sing	13	nmod	_	_
+16	Milice	milice	NOUN	NCFS000	Gender=Fem|Number=Sing	13	obl	_	_
 17	francesa	francés	ADJ	AQ0FS	_	16	amod	_	_
 18	que	que	PRON	PR0CN000	Gender=Neut|PronType=Rel	19	nsubj	_	_
 19	perseguiron	perseguir	VERB	VMIS3P0	Mood=Ind|Number=Plur|Person=3|Tense=Past	13	acl	_	_
@@ -18744,7 +18744,7 @@
 37	aeroplano	aeroplano	NOUN	NCMS000	Gender=Masc|Number=Sing	35	obj	_	_
 38	cara	cara	ADP	SP	ExtPos=ADP	40	case	_	_
 39	a	a	ADP	SP	_	38	fixed	_	_
-40	pista	pista	NOUN	NCFS000	Gender=Fem|Number=Sing	35	obj	_	_
+40	pista	pista	NOUN	NCFS000	Gender=Fem|Number=Sing	35	obl	_	_
 41	durante	durante	ADP	SP	_	43	case	_	_
 42	unha	un	DET	DI0FS0	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	43	det	_	_
 43	aterraxe	aterraxe	NOUN	NCFS000	Gender=Fem|Number=Sing	35	obl	_	_
@@ -28583,7 +28583,7 @@
 31	Este	este	NOUN	NCMS000	Gender=Masc|Number=Sing	28	nmod	_	_
 32	até	até	ADP	SP	_	34	case	_	_
 33	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	34	det	_	_
-34	punto	punto	NOUN	NCMS000	Gender=Masc|Number=Sing	19	obj	_	_
+34	punto	punto	NOUN	NCMS000	Gender=Masc|Number=Sing	19	obl	_	_
 35	de	de	ADP	SP	AdpType=Prep	36	case	_	_
 36	referencia	referencia	NOUN	NCFS000	Gender=Fem|Number=Sing	34	nmod	_	_
 37-38	do	_	_	_	_	_	_	_	_
@@ -29152,7 +29152,7 @@
 # parallel_id = pud/w05010027
 # text = O 1 de xaneiro de 49 a. C., Marco Antonio leu unha carta de César en que o procónsul se declaraba amigo da paz.
 1	O	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
-2	1	1	NUM	Z	NumType=Card	14	nmod	_	_
+2	1	1	NUM	Z	NumType=Card	14	obl	_	_
 3	de	de	ADP	SP	AdpType=Prep	4	case	_	_
 4	xaneiro	xaneiro	NOUN	NCMS000	Gender=Masc|Number=Sing	2	nmod	_	_
 5	de	de	ADP	SP	AdpType=Prep	6	case	_	_
