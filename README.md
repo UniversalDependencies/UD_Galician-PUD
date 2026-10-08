@@ -71,7 +71,7 @@ UPOS: manual native
 XPOS: manual native
 Features: automatic with corrections
 Relations: manual native
-Contributors: Sarymsakova, Albina; Sánchez-Rodríguez, Xulia; Garcia, Marcos
+Contributors: Sarymsakova, Albina; Sánchez-Rodríguez, Xulia; Pérez Puente, Helena; Garcia, Marcos
 Contributing: elsewhere
 Contact: marcos.garcia.gonzalez@usc.gal
 ===============================================================================
