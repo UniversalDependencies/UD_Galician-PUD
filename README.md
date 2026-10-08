@@ -15,6 +15,9 @@ The linguistic annotation was first carried out using state-of-the-art NLP tools
 Note: As in the [Galician-TreeGal treebank](https://github.com/UniversalDependencies/UD_Galician-TreeGal), the [fixed](https://universaldependencies.org/u/dep/fixed.html) dependency relation is used not only for fixed expressions but also for other conventional multiword expressions. This will be corrected in further versions.
 
 # Changelog
+* 2026-10-08 v2.16
+  * Double 'obj' corrections.
+  * Minor corrections.
 
 * 2025-04-20 v2.15
   * Added [ExtPos](https://universaldependencies.org/u/feat/all.html#extpos-external-part-of-speech) features for fixed expressions.
