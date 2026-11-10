@@ -91,7 +91,7 @@
 5-6	da	_	_	_	_	_	_	_	_
 5	de	de	ADP	SP	AdpType=Prep	8	case	_	_
 6	a	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
-7	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes	8	det	_	_
+7	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	8	det	_	_
 8	retórica	retórica	NOUN	NCFS000	Gender=Fem|Number=Sing	4	nmod	_	_
 9	anterior	anterior	ADJ	AQ0CS	Gender=Com|Number=Sing	8	amod	_	_
 10	sobre	sobre	ADP	SP	AdpType=Prep	12	case	_	_
@@ -532,7 +532,7 @@
 7	xogos	xogo	NOUN	NCMP000	Gender=Masc|Number=Plur	3	obl	_	_
 8	e	e	CCONJ	CC	_	11	cc	_	_
 9	a	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
-10	nosa	noso	DET	DP1FSP	Gender=Fem|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes	11	det	_	_
+10	nosa	noso	DET	DP1FSP	Gender=Fem|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	11	det	_	_
 11	vida	vida	NOUN	NCFS000	Gender=Fem|Number=Sing	7	conj	_	_
 12	cotiá	cotián	ADJ	AQ0FS	_	11	amod	_	SpaceAfter=No
 13	.	.	PUNCT	Fp	_	3	punct	_	_
@@ -682,7 +682,7 @@
 8-9	á	_	_	_	_	_	_	_	_
 8	a	a	ADP	SP	AdpType=Prep	11	case	_	_
 9	a	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
-10	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes	11	det	_	_
+10	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	11	det	_	_
 11	filla	fillo	NOUN	NCFS000	Gender=Fem|Number=Sing	7	obj	_	_
 12	de	de	ADP	SP	AdpType=Prep	14	case	_	_
 13	dous	2	NUM	Z	NumType=Card	14	nummod	_	_
@@ -715,7 +715,7 @@
 18-19	na	_	_	_	_	_	_	_	_
 18	en	en	ADP	SP	AdpType=Prep	21	case	_	_
 19	a	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	_	_
-20	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes	21	det	_	_
+20	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	21	det	_	_
 21	sala	sala	NOUN	NCFS000	Gender=Fem|Number=Sing	10	obl	_	_
 22	de	de	ADP	SP	AdpType=Prep	21	compound	_	_
 23	estar	estar	VERB	VMN0000	VerbForm=Inf	22	compound	_	SpaceAfter=No
@@ -729,7 +729,7 @@
 31-32	coa	_	_	_	_	_	_	_	_
 31	con	con	ADP	SP	AdpType=Prep	34	case	_	_
 32	a	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	34	det	_	_
-33	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes	34	det	_	_
+33	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	34	det	_	_
 34	filla	fillo	NOUN	NCFS000	Gender=Fem|Number=Sing	28	obl	_	_
 35	Angel	angel	PROPN	NP00000	_	34	appos	_	SpaceAfter=No
 36	,	,	PUNCT	Fc	_	37	punct	_	_
@@ -779,7 +779,7 @@
 15-16	das	_	_	_	_	_	_	_	_
 15	de	de	ADP	SP	AdpType=Prep	18	case	_	_
 16	as	o	DET	DA0FP0	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	18	det	_	_
-17	súas	seu	DET	DP3FP0	Definite=Def|Gender=Fem|Number=Plur|Person=3|Poss=Yes	18	det	_	_
+17	súas	seu	DET	DP3FP0	Definite=Def|Gender=Fem|Number=Plur|Person=3|Poss=Yes|PronType=Prs	18	det	_	_
 18	amigas	amigo	NOUN	NCFP000	Gender=Fem|Number=Plur	14	nmod	_	SpaceAfter=No
 19	.	.	PUNCT	Fp	_	8	punct	_	_
 
@@ -912,7 +912,7 @@
 8-9	da	_	_	_	_	_	_	_	_
 8	de	de	ADP	SP	AdpType=Prep	11	case	_	_
 9	a	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
-10	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes	11	det	_	_
+10	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	11	det	_	_
 11	popularidade	popularidade	NOUN	NCFS000	Gender=Fem|Number=Sing	7	nmod	_	_
 12	(	(	PUNCT	Fpa	_	18	punct	_	SpaceAfter=No
 13	e	e	CCONJ	CC	_	18	cc	_	SpaceAfter=No
@@ -1028,7 +1028,7 @@
 15	Asistente	asistente	PROPN	NP00000	_	5	obl	_	_
 16-17	do	_	_	_	_	_	_	_	_
 16	de	de	ADP	NP00000	_	18	case	_	_
-17	o	o	DET	NP00000	_	18	det	_	_
+17	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
 18	Google	google	PROPN	NP00000	_	15	nmod	_	_
 19	ou	ou	CCONJ	CC	_	21	cc	_	_
 20	a	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	_	_
@@ -1326,7 +1326,7 @@
 31	para	para	ADP	SP	AdpType=Prep	32	case	_	_
 32	mostrar	mostrar	VERB	VMN0000	VerbForm=Inf	28	acl	_	_
 33	as	o	DET	DA0FP0	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	35	det	_	_
-34	súas	seu	DET	DP3FP0	Definite=Def|Gender=Fem|Number=Plur|Person=3|Poss=Yes	35	det	_	_
+34	súas	seu	DET	DP3FP0	Definite=Def|Gender=Fem|Number=Plur|Person=3|Poss=Yes|PronType=Prs	35	det	_	_
 35	ambicións	ambición	NOUN	NCFP000	Gender=Fem|Number=Plur	32	obj	_	_
 36	tanto	tanto	ADV	RG	_	44	cc	_	_
 37-38	na	_	_	_	_	_	_	_	_
@@ -1599,7 +1599,7 @@
 9	,	,	PUNCT	Fc	_	17	punct	_	_
 10	mais	mais	CCONJ	CC	_	17	cc	_	_
 11	as	o	DET	DA0FP0	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	13	det	_	_
-12	súas	seu	DET	DP3FP0	Definite=Def|Gender=Fem|Number=Plur|Person=3|Poss=Yes	13	det	_	_
+12	súas	seu	DET	DP3FP0	Definite=Def|Gender=Fem|Number=Plur|Person=3|Poss=Yes|PronType=Prs	13	det	_	_
 13	contribucións	contribución	NOUN	NCFP000	Gender=Fem|Number=Plur	17	nsubj	_	_
 14-15	neste	_	_	_	_	_	_	_	_
 14	en	en	ADP	SP	AdpType=Prep	16	case	_	_
@@ -1797,7 +1797,7 @@
 34-35	na	_	_	_	_	_	_	_	_
 34	en	en	ADP	SP	AdpType=Prep	37	case	_	_
 35	a	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	37	det	_	_
-36	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes	37	det	_	_
+36	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	37	det	_	_
 37	habilidade	habilidade	NOUN	NCFS000	Gender=Fem|Number=Sing	31	obl	_	_
 38	para	para	ADP	SP	AdpType=Prep	39	case	_	_
 39	xerminar	xerminar	VERB	VMN0000	VerbForm=Inf	37	acl	_	_
@@ -2641,7 +2641,7 @@
 41-42	no	_	_	_	_	_	_	_	_
 41	en	en	ADP	SP	AdpType=Prep	44	case	_	_
 42	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	44	det	_	_
-43	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes	44	det	_	_
+43	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	44	det	_	_
 44	instituto	instituto	NOUN	NCMS000	Gender=Masc|Number=Sing	40	nmod	_	_
 45	en	en	ADP	SP	AdpType=Prep	46	case	_	_
 46	Abbotsford	abbotsford	PROPN	NP00000	_	44	nmod	_	SpaceAfter=No
@@ -2674,7 +2674,7 @@
 21	precisos	preciso	ADJ	AQ0MP	_	18	amod	_	_
 22	sobre	sobre	ADP	SP	AdpType=Prep	25	case	_	_
 23	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	25	det	_	_
-24	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes	25	det	_	_
+24	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	25	det	_	_
 25	paradoiro	paradoiro	NOUN	NCMS000	Gender=Masc|Number=Sing	21	obl	_	_
 26	actual	actual	ADJ	AQ0CS	_	25	amod	_	SpaceAfter=No
 27	.	.	PUNCT	Fp	_	7	punct	_	_
@@ -2855,7 +2855,7 @@
 6	chinesa	chinés	ADJ	AQ0FS	_	4	amod	_	_
 7	manifestou	manifestar	VERB	VMIS3S0	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
 8	as	o	DET	DA0FP0	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	10	det	_	_
-9	súas	seu	DET	DP3FP0	Definite=Def|Gender=Fem|Number=Plur|Person=3|Poss=Yes	10	det	_	_
+9	súas	seu	DET	DP3FP0	Definite=Def|Gender=Fem|Number=Plur|Person=3|Poss=Yes|PronType=Prs	10	det	_	_
 10	queixas	queixa	NOUN	NCFP000	Gender=Fem|Number=Plur	7	obj	_	SpaceAfter=No
 11	,	,	PUNCT	Fc	_	15	punct	_	_
 12	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
@@ -2939,7 +2939,7 @@
 7-8	do	_	_	_	_	_	_	_	_
 7	de	de	ADP	SP	AdpType=Prep	11	case	_	_
 8	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
-9	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes	11	det	_	_
+9	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	11	det	_	_
 10	primeiro	primeiro	NUM	Z	NumType=Ord	11	nummod	_	_
 11	mandato	mandato	NOUN	NCMS000	Gender=Masc|Number=Sing	6	nmod	_	_
 12	para	para	ADP	SP	AdpType=Prep	13	case	_	_
@@ -2969,7 +2969,7 @@
 4	Clinton	clinton	PROPN	NP00000	_	10	nsubj	_	_
 5	e	e	CCONJ	CC	_	8	cc	_	_
 6	os	o	DET	DA0MP0	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
-7	seus	seu	DET	DP3MP0	Definite=Def|Gender=Masc|Number=Plur|Person=3|Poss=Yes	8	det	_	_
+7	seus	seu	DET	DP3MP0	Definite=Def|Gender=Masc|Number=Plur|Person=3|Poss=Yes|PronType=Prs	8	det	_	_
 8	aliados	aliado	NOUN	NCMP000	Gender=Masc|Number=Plur	4	conj	_	_
 9	están	estar	AUX	VMIP3P0	Mood=Ind|Number=Plur|Person=3|Tense=Pres	10	aux	_	_
 10	procurando	procurar	VERB	VMG0000	VerbForm=Ger	0	root	_	_
@@ -2981,7 +2981,7 @@
 16	,	,	PUNCT	Fc	_	17	punct	_	_
 17	denunciando	denunciar	VERB	VMG0000	VerbForm=Ger	10	advcl	_	_
 18	que	que	SCONJ	CS	_	32	mark	_	_
-19	seus	seu	DET	DP3MP0	Definite=Def|Gender=Masc|Number=Plur|Person=3|Poss=Yes	20	det	_	_
+19	seus	seu	DET	DP3MP0	Definite=Def|Gender=Masc|Number=Plur|Person=3|Poss=Yes|PronType=Prs	20	det	_	_
 20	comentarios	comentario	NOUN	NCMP000	Gender=Masc|Number=Plur	32	nsubj	_	_
 21	denigrantes	denigrante	ADJ	AQ0CP	_	20	amod	_	_
 22	sobre	sobre	ADP	SP	AdpType=Prep	23	case	_	_
@@ -2991,7 +2991,7 @@
 26	,	,	PUNCT	Fc	_	30	punct	_	_
 27	e	e	CCONJ	CC	_	30	cc	_	_
 28	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	30	det	_	_
-29	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes	30	det	_	_
+29	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	30	det	_	_
 30	temperamento	temperamento	NOUN	NCMS000	Gender=Masc|Number=Sing	20	conj	_	SpaceAfter=No
 31	,	,	PUNCT	Fc	_	30	punct	_	_
 32	fan	facer	VERB	VMIP3P0	Mood=Ind|Number=Plur|Person=3|Tense=Pres	17	ccomp	_	_
@@ -3016,7 +3016,7 @@
 7-8	no	_	_	_	_	_	_	_	_
 7	en	en	ADP	SP	AdpType=Prep	10	case	_	_
 8	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
-9	noso	noso	DET	DP1MSP	Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes	10	det	_	_
+9	noso	noso	DET	DP1MSP	Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	10	det	_	_
 10	país	país	NOUN	NCMS000	Gender=Masc|Number=Sing	6	obl	_	SpaceAfter=No
 11	,	,	PUNCT	Fc	_	12	punct	_	_
 12	amigos	amigo	NOUN	NCMP000	Gender=Masc|Number=Plur	10	vocative	_	SpaceAfter=No
@@ -3035,7 +3035,7 @@
 8	,	,	PUNCT	Fc	_	6	punct	_	_
 9	fixo	facer	VERB	VMIS3S0	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
 10	a	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
-11	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes	13	det	_	_
+11	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	13	det	_	_
 12	primeira	primeiro	NUM	AO0FS	NumType=Ord	13	nummod	_	_
 13	aparición	aparición	NOUN	NCFS000	Gender=Fem|Number=Sing	9	obj	_	_
 14	pública	público	ADJ	AQ0FS	_	13	amod	_	_
@@ -3075,7 +3075,7 @@
 21	di	dicir	VERB	VMIP3S0	Mood=Ind|Number=Sing|Person=3|Tense=Pres	17	conj	_	_
 22	que	que	SCONJ	CS	_	28	mark	_	_
 23	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	26	det	_	_
-24	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes	26	det	_	_
+24	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	26	det	_	_
 25	maior	maior	ADJ	AQ0CS	_	26	amod	_	_
 26	consolo	consolo	NOUN	NCMS000	Gender=Masc|Number=Sing	28	nsubj	_	_
 27	é	ser	AUX	VSIP3S0	Mood=Ind|Number=Sing|Person=3|Tense=Pres	28	cop	_	_
@@ -3083,7 +3083,7 @@
 29-30	aos	_	_	_	_	_	_	_	_
 29	a	a	ADP	SP	AdpType=Prep	32	case	_	_
 30	os	o	DET	DA0MP0	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	32	det	_	_
-31	seus	seu	DET	DP3MP0	Definite=Def|Gender=Masc|Number=Plur|Person=3|Poss=Yes	32	det	_	_
+31	seus	seu	DET	DP3MP0	Definite=Def|Gender=Masc|Number=Plur|Person=3|Poss=Yes|PronType=Prs	32	det	_	_
 32	amigos	amigo	NOUN	NCMP000	Gender=Masc|Number=Plur	28	obl	_	SpaceAfter=No
 33	.	.	PUNCT	Fp	_	5	punct	_	_
 
@@ -3165,7 +3165,7 @@
 17	termos	termo	NOUN	NCMP000	Gender=Masc|Number=Plur	15	obj	_	_
 18	para	para	ADP	SP	AdpType=Prep	21	case	_	_
 19	a	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	_	_
-20	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes	21	det	_	_
+20	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	21	det	_	_
 21	análise	análise	NOUN	NCFS000	Gender=Fem|Number=Sing	17	nmod	_	_
 22-23	desta	_	_	_	_	_	_	_	_
 22	de	de	ADP	SP	AdpType=Prep	24	case	_	_
@@ -3216,7 +3216,7 @@
 19	presuntamente	presuntamente	ADV	RG	_	6	advmod	_	SpaceAfter=No
 20	,	,	PUNCT	Fc	_	19	punct	_	_
 21	a	a	ADP	SP	AdpType=Prep	22	case	_	_
-22	axentes	axente	NOUN	NCCP000	Gender=Com|Number=Plur	6	obj	_	_
+22	axentes	axente	NOUN	NCCP000	Gender=Com|Number=Plur	17	iobj	_	_
 23	de	de	ADP	SP	AdpType=Prep	24	case	_	_
 24	policía	policía	NOUN	NCFS000	Gender=Fem|Number=Sing	22	nmod	_	_
 25-26	da	_	_	_	_	_	_	_	_
@@ -3276,7 +3276,7 @@
 # parallel_id = pud/n01043014
 # text = O seu orzamento anual supera os 1,4 mil millóns de dólares e emprega a máis de 6.000 persoas.
 1	O	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
-2	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes	3	det	_	_
+2	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	det	_	_
 3	orzamento	orzamento	NOUN	NCMS000	Gender=Masc|Number=Sing	5	nsubj	_	_
 4	anual	anual	ADJ	AQ0CS	_	3	amod	_	_
 5	supera	superar	VERB	VMIP3S0	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
@@ -3447,7 +3447,7 @@
 12	policía	policía	NOUN	NCFS000	Gender=Fem|Number=Sing	14	nsubj	_	_
 13	provincial	provincial	ADJ	AQ0CS	_	12	amod	_	_
 14	centrou	centrar	VERB	VMIS3S0	Mood=Ind|Number=Sing|Person=3|Tense=Past	2	ccomp	_	_
-15	súas	seu	DET	DP3FP0	Definite=Def|Gender=Fem|Number=Plur|Person=3|Poss=Yes	16	det	_	_
+15	súas	seu	DET	DP3FP0	Definite=Def|Gender=Fem|Number=Plur|Person=3|Poss=Yes|PronType=Prs	16	det	_	_
 16	operacións	operación	NOUN	NCFP000	Gender=Fem|Number=Plur	14	obj	_	_
 17	de	de	ADP	SP	AdpType=Prep	18	case	_	_
 18	vixilancia	vixilancia	NOUN	NCFS000	Gender=Fem|Number=Sing	16	nmod	_	_
@@ -3458,7 +3458,7 @@
 22	menos	menos	ADV	RG	_	20	fixed	_	_
 23	outros	outro	DET	DI0MP0	Definite=Ind|Gender=Masc|Number=Plur|PronType=Art	25	det	_	_
 24	seis	6	NUM	Z	NumType=Card	25	nummod	_	_
-25	xornalistas	xornalista	NOUN	NCMP000	Gender=Masc|Number=Plur	14	obj	_	_
+25	xornalistas	xornalista	NOUN	NCMP000	Gender=Masc|Number=Plur	14	obl	_	_
 26-27	do	_	_	_	_	_	_	_	_
 26	de	de	ADP	SP	AdpType=Prep	28	case	_	_
 27	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	28	det	_	_
@@ -3605,7 +3605,7 @@
 15	a	a	ADP	SP	AdpType=Prep	16	case	_	_
 16	monitorizar	monitorizar	VERB	VMN0000	VerbForm=Inf	12	advcl	_	_
 17	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
-18	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes	19	det	_	_
+18	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	19	det	_	_
 19	uso	uso	NOUN	NCMS000	Gender=Masc|Number=Sing	16	obj	_	_
 20	de	de	ADP	SP	AdpType=Prep	21	case	_	_
 21	datos	dato	NOUN	NCMP000	Gender=Masc|Number=Plur	19	nmod	_	SpaceAfter=No
@@ -3652,7 +3652,7 @@
 19	terminados	terminar	VERB	VMP00PM	Gender=Masc|Number=Plur|VerbForm=Part	18	acl	_	SpaceAfter=No
 20	,	,	PUNCT	Fc	_	23	punct	_	_
 21	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
-22	que	que	PRON	PR0CN000	Gender=Neut|PronType=Rel	23	obj	_	_
+22	que	que	PRON	PR0CN000	Gender=Neut|PronType=Rel	23	nsubj	_	_
 23	sinala	sinalar	VERB	VMIP3S0	Mood=Ind|Number=Sing|Person=3|Tense=Pres	3	ccomp	_	_
 24	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	26	det	_	_
 25	importante	importante	ADJ	AQ0CS	_	26	amod	_	_
@@ -3660,7 +3660,7 @@
 27	que	que	PRON	PR0CN000	Gender=Neut|PronType=Rel	28	obj	_	_
 28	xogan	xogar	VERB	VMIP3P0	Mood=Ind|Number=Plur|Person=3|Tense=Pres	26	acl	_	_
 29	os	o	DET	DA0MP0	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	30	det	_	_
-30	investidores	investidor	NOUN	NCMP000	Gender=Masc|Number=Plur	28	obj	_	_
+30	investidores	investidor	NOUN	NCMP000	Gender=Masc|Number=Plur	28	nsubj	_	_
 31	(	(	PUNCT	Fpa	_	32	punct	_	SpaceAfter=No
 32	nacionais	nacional	ADJ	AQ0CP	_	30	amod	_	SpaceAfter=No
 33	)	)	PUNCT	Fpt	_	32	punct	_	_
@@ -4023,7 +4023,7 @@
 21-22	coas	_	_	_	_	_	_	_	_
 21	con	con	ADP	SP	AdpType=Prep	24	case	_	_
 22	as	o	DET	DA0FP0	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	24	det	_	_
-23	súas	seu	DET	DP3FP0	Definite=Def|Gender=Fem|Number=Plur|Person=3|Poss=Yes	24	det	_	_
+23	súas	seu	DET	DP3FP0	Definite=Def|Gender=Fem|Number=Plur|Person=3|Poss=Yes|PronType=Prs	24	det	_	_
 24	historias	historia	NOUN	NCFP000	Gender=Fem|Number=Plur	14	obl	_	SpaceAfter=No
 25	.	.	PUNCT	Fp	_	1	punct	_	_
 
@@ -4080,7 +4080,7 @@
 19	a	a	ADP	SP	AdpType=Prep	20	case	_	_
 20	aceptar	aceptar	VERB	VMN0000	VerbForm=Inf	16	xcomp	_	_
 21	os	o	DET	DA0MP0	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	24	det	_	_
-22	seus	seu	DET	DP3MP0	Definite=Def|Gender=Masc|Number=Plur|Person=3|Poss=Yes	24	det	_	_
+22	seus	seu	DET	DP3MP0	Definite=Def|Gender=Masc|Number=Plur|Person=3|Poss=Yes|PronType=Prs	24	det	_	_
 23	propios	propio	ADJ	AQ0MP	_	24	amod	_	_
 24	ideais	ideal	NOUN	NCMP000	Gender=Masc|Number=Plur	20	obj	_	_
 25	de	de	ADP	SP	AdpType=Prep	26	case	_	_
@@ -4092,7 +4092,7 @@
 # text = "A súa voz deu a volta ao mundo", dixo Leive.
 1	"	"	PUNCT	Fe	_	5	punct	_	SpaceAfter=No
 2	A	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
-3	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes	4	det	_	_
+3	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	4	det	_	_
 4	voz	voz	NOUN	NCFS000	Gender=Fem|Number=Sing	5	nsubj	_	_
 5	deu	dar	VERB	VMIS3S0	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
 6	a	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
@@ -4370,7 +4370,7 @@
 18-19	no	_	_	_	_	_	_	_	_
 18	en	en	ADP	SP	AdpType=Prep	20	case	_	_
 19	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
-20	ano	ano	NOUN	NCMS000	Gender=Masc|Number=Sing	3	obl	_	_
+20	ano	ano	NOUN	NCMS000	Gender=Masc|Number=Sing	3	nmod	_	_
 21	2013	2013	NUM	Z	NumType=Card	20	nummod	_	SpaceAfter=No
 22	,	,	PUNCT	Fc	_	3	punct	_	_
 23	Campbell	campbell	PROPN	NP00000	_	24	nsubj	_	_
@@ -4407,7 +4407,7 @@
 7-8	ao	_	_	_	_	_	_	_	_
 7	a	a	ADP	SP	AdpType=Prep	10	case	_	_
 8	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
-9	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes	10	det	_	_
+9	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	10	det	_	_
 10	redor	redor	NOUN	NCMS000	Gender=Masc|Number=Sing	1	obl	_	_
 11	cando	cando	SCONJ	CC	_	12	mark	_	_
 12	xurdían	xurdir	VERB	VMII3P0	Mood=Ind|Number=Plur|Person=3|Tense=Imp	1	advcl	_	_
@@ -4468,7 +4468,7 @@
 15	de	de	ADP	SP	AdpType=Prep	21	case	_	_
 16	que	que	SCONJ	CS	_	21	mark	_	_
 17	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
-18	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes	19	det	_	_
+18	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	19	det	_	_
 19	partido	partido	NOUN	NCMS000	Gender=Masc|Number=Sing	21	nsubj	_	_
 20	é	ser	AUX	VSIP3S0	Mood=Ind|Number=Sing|Person=3|Tense=Pres	21	cop	_	_
 21	pésimo	pésimo	ADJ	AQ0MS	_	14	acl	_	_
@@ -4586,7 +4586,7 @@
 31	que	que	PRON	PR0CN000	Gender=Neut|PronType=Rel	32	nsubj	_	_
 32	expresou	expresar	VERB	VMIS3S0	Mood=Ind|Number=Sing|Person=3|Tense=Past	28	acl	_	_
 33	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	35	det	_	_
-34	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes	35	det	_	_
+34	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	35	det	_	_
 35	pesar	pesar	NOUN	VMN0000	Gender=Masc|Number=Sing	32	obj	_	SpaceAfter=No
 36	"	"	PUNCT	Fe	_	6	punct	_	SpaceAfter=No
 37	.	.	PUNCT	Fp	_	6	punct	_	_
@@ -4722,7 +4722,7 @@
 11	que	que	PRON	PR0FS000	Gender=Fem|PronType=Rel	16	nmod	_	_
 12	é	ser	AUX	VSIP3S0	Mood=Ind|Number=Sing|Person=3|Tense=Pres	16	cop	_	_
 13	a	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
-14	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes	16	det	_	_
+14	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	16	det	_	_
 15	maior	maior	ADJ	AQ0CS	_	16	amod	_	_
 16	preocupación	preocupación	NOUN	NCFS000	Gender=Fem|Number=Sing	6	obl	_	SpaceAfter=No
 17	:	:	PUNCT	Fd	_	19	punct	_	_
@@ -4751,7 +4751,7 @@
 10	como	como	SCONJ	CS	_	11	mark	_	_
 11	gravaron	gravar	VERB	VMIS3P0	Mood=Ind|Number=Plur|Person=3|Tense=Past	9	ccomp	_	_
 12	a	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
-13	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes	14	det	_	_
+13	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	14	det	_	_
 14	versión	versión	NOUN	NCFS000	Gender=Fem|Number=Sing	11	obj	_	_
 15	de	de	ADP	SP	AdpType=Prep	17	case	_	_
 16	"	"	PUNCT	Fe	_	17	punct	_	SpaceAfter=No
@@ -4766,7 +4766,7 @@
 24	ordenador	ordenador	NOUN	NCMS000	Gender=Masc|Number=Sing	11	obl	_	_
 25	portátil	portátil	ADJ	AQ0CS	_	24	amod	_	_
 26	de	de	ADP	SP	AdpType=Prep	27	case	_	_
-27	uso	uso	NOUN	NCMS000	Gender=Masc|Number=Sing	24	obl	_	_
+27	uso	uso	NOUN	NCMS000	Gender=Masc|Number=Sing	24	nmod	_	_
 28	persoal	persoal	ADJ	AQ0CS	_	27	amod	_	SpaceAfter=No
 29	.	.	PUNCT	Fp	_	9	punct	_	_
 
@@ -4817,7 +4817,7 @@
 # parallel_id = pud/n01063051
 # text = As súas versións subliñan o atractivo dun bo desafío, xa sexa artístico ou doutro tipo: incomodidade, crecemento e unha conexión significativa.
 1	As	o	DET	DA0FP0	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	_	_
-2	súas	seu	DET	DP3FP0	Definite=Def|Gender=Fem|Number=Plur|Person=3|Poss=Yes	3	det	_	_
+2	súas	seu	DET	DP3FP0	Definite=Def|Gender=Fem|Number=Plur|Person=3|Poss=Yes|PronType=Prs	3	det	_	_
 3	versións	versión	NOUN	NCFP000	Gender=Fem|Number=Plur	4	nsubj	_	_
 4	subliñan	subliñar	VERB	VMIP3P0	Mood=Ind|Number=Plur|Person=3|Tense=Pres	0	root	_	_
 5	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
@@ -4937,7 +4937,7 @@
 12	ela	el	PRON	PP3FS000	Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	obl	_	_
 13	ou	ou	CCONJ	CC	_	16	cc	_	_
 14	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
-15	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes	16	det	_	_
+15	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	16	det	_	_
 16	comportamento	comportamento	NOUN	NCMS000	Gender=Masc|Number=Sing	12	conj	_	_
 17	con	con	ADP	SP	AdpType=Prep	19	case	_	_
 18	outras	outro	DET	DI0FP0	Definite=Ind|Gender=Fem|Number=Plur|PronType=Art	19	det	_	_
@@ -5011,7 +5011,7 @@
 1	Alice	alice	PROPN	NP00000	_	7	nsubj	_	SpaceAfter=No
 2	,	,	PUNCT	Fc	_	5	punct	_	_
 3	a	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
-4	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes	5	det	_	_
+4	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	5	det	_	_
 5	muller	muller	NOUN	NCFS000	Gender=Fem|Number=Sing	1	appos	_	SpaceAfter=No
 6	,	,	PUNCT	Fc	_	5	punct	_	_
 7	declarou	declarar	VERB	VMIS3S0	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	SpaceAfter=No
@@ -5025,7 +5025,7 @@
 15-16	da	_	_	_	_	_	_	_	_
 15	de	de	ADP	SP	AdpType=Prep	19	case	_	_
 16	a	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
-17	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes	19	det	_	_
+17	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	19	det	_	_
 18	propia	propio	DET	DI0FS0	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
 19	saúde	saúde	NOUN	NCFS000	Gender=Fem|Number=Sing	14	nmod	_	SpaceAfter=No
 20	"	"	PUNCT	Fe	_	12	punct	_	SpaceAfter=No
@@ -5042,7 +5042,7 @@
 5	exposición	exposición	NOUN	NCFS000	Gender=Fem|Number=Sing	2	nmod	_	_
 6	conta	contar	VERB	VMIP3S0	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
 7	a	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
-8	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes	10	det	_	_
+8	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	10	det	_	_
 9	propia	propio	DET	DI0FS0	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
 10	historia	historia	NOUN	NCFS000	Gender=Fem|Number=Sing	6	obj	_	SpaceAfter=No
 11	,	,	PUNCT	Fc	_	17	punct	_	_
@@ -5143,7 +5143,7 @@
 3	en	en	ADP	SP	AdpType=Prep	4	case	_	_
 4	falta	falta	NOUN	NCFS000	Gender=Fem|Number=Sing	1	obl	_	_
 5	a	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
-6	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes	7	det	_	_
+6	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	7	det	_	_
 7	capacidade	capacidade	NOUN	NCFS000	Gender=Fem|Number=Sing	1	obj	_	_
 8	de	de	ADP	SP	AdpType=Prep	9	case	_	_
 9	obter	obter	VERB	VMN0000	VerbForm=Inf	7	acl	_	_
@@ -5160,7 +5160,7 @@
 1	Christian	christian	PROPN	NP00000	_	12	nsubj	_	_
 2	Wolmar	wolmar	PROPN	NP00000	_	1	flat:name	_	SpaceAfter=No
 3	,	,	PUNCT	Fc	_	5	punct	_	_
-4	que	que	PRON	PR0CN000	Gender=Neut|PronType=Rel	5	obj	_	_
+4	que	que	PRON	PR0CN000	Gender=Neut|PronType=Rel	5	nsubj	_	_
 5	escribiu	escribir	VERB	VMIS3S0	Mood=Ind|Number=Sing|Person=3|Tense=Past	1	acl	_	_
 6	varios	varios	DET	DI0MP0	Definite=Ind|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
 7	libros	libro	NOUN	NCMP000	Gender=Masc|Number=Plur	5	obj	_	_
@@ -5200,7 +5200,7 @@
 15-16	coa	_	_	_	_	_	_	_	_
 15	con	con	ADP	SP	AdpType=Prep	18	case	_	_
 16	a	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
-17	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes	18	det	_	_
+17	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	18	det	_	_
 18	candidata	candidato	NOUN	NCFS000	Gender=Fem|Number=Sing	13	obl	_	_
 19	Sarah	sarah	PROPN	NP00000	_	18	appos	_	_
 20	Olney	olney	PROPN	NP00000	_	19	flat:name	_	SpaceAfter=No
@@ -5221,7 +5221,7 @@
 9	deputado	deputado	NOUN	NCMS000	Gender=Masc|Number=Sing	6	nmod	_	_
 10	lanzou	lanzar	VERB	VMIS3S0	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
 11	a	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
-12	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes	13	det	_	_
+12	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	13	det	_	_
 13	campaña	campaña	NOUN	NCFS000	Gender=Fem|Number=Sing	10	obj	_	_
 14	para	para	ADP	SP	AdpType=Prep	15	case	_	_
 15	ocupar	ocupar	VERB	VMN0000	VerbForm=Inf	10	xcomp	_	_
@@ -5278,7 +5278,7 @@
 10	moitos	moito	DET	DI0MP0	Definite=Ind|Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
 11	descoñecerían	descoñecer	VERB	VMIC3P0	Mood=Cnd,Ind|Number=Plur|Person=3	2	ccomp	_	_
 12	a	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
-13	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes	14	det	_	_
+13	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	14	det	_	_
 14	historia	historia	NOUN	NCFS000	Gender=Fem|Number=Sing	11	obj	_	SpaceAfter=No
 15	.	.	PUNCT	Fp	_	2	punct	_	_
 
@@ -5375,7 +5375,7 @@
 11-12	na	_	_	_	_	_	_	_	_
 11	en	en	ADP	SP	AdpType=Prep	14	case	_	_
 12	a	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
-13	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes	14	det	_	_
+13	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	14	det	_	_
 14	memoria	memoria	NOUN	NCFS000	Gender=Fem|Number=Sing	15	obl	_	_
 15	contén	conter	VERB	VMIP3S0	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
 16	unha	un	DET	DI0FS0	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
@@ -5420,7 +5420,7 @@
 5	tiñan	ter	AUX	VMII3P0	Mood=Ind|Number=Plur|Person=3|Tense=Imp	6	aux	_	_
 6	garantido	garantir	VERB	VMP00SM	Gender=Masc|Number=Sing|VerbForm=Part	1	ccomp	_	_
 7	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
-8	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes	10	det	_	_
+8	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	10	det	_	_
 9	divino	divino	ADJ	AQ0MS	_	10	amod	_	_
 10	dereito	dereito	NOUN	NCMS000	Gender=Masc|Number=Sing	6	obj	_	_
 11	a	a	ADP	SP	AdpType=Prep	14	case	_	_
@@ -5470,7 +5470,7 @@
 15	debemos	deber	VERB	VMIP1P0	Mood=Ind|Number=Plur|Person=1|Tense=Pres	5	conj	_	_
 16	igualar	igualar	VERB	VMN0000	VerbForm=Inf	15	xcomp	_	_
 17	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
-18	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes	19	det	_	_
+18	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	19	det	_	_
 19	empeño	empeño	NOUN	NCMS000	Gender=Masc|Number=Sing	16	obj	_	SpaceAfter=No
 20	.	.	PUNCT	Fp	_	5	punct	_	_
 
@@ -5794,7 +5794,7 @@
 30	de	de	ADP	SP	AdpType=Prep	29	fixed	_	_
 31	lado	lado	NOUN	NCMS000	Gender=Masc|Number=Sing	29	fixed	_	_
 32	as	o	DET	DA0FP0	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	34	det	_	_
-33	nosas	noso	DET	DP1FPP	Gender=Fem|Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes	34	det	_	_
+33	nosas	noso	DET	DP1FPP	Gender=Fem|Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	34	det	_	_
 34	diferenzas	diferenza	NOUN	NCFP000	Gender=Fem|Number=Plur	29	obj	_	SpaceAfter=No
 35	.	.	PUNCT	Fp	_	7	punct	_	_
 
@@ -5803,7 +5803,7 @@
 # text = Entre os seus títulos máis peculiares atópanse o de embaixador internacional da Asociación de Hospitais e de Saúde da Cidade de Nova York, e unha praza na Escola de Negocios de Harvard.
 1	Entre	entre	ADP	SP	AdpType=Prep	4	case	_	_
 2	os	o	DET	DA0MP0	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
-3	seus	seu	DET	DP3MP0	Definite=Def|Gender=Masc|Number=Plur|Person=3|Poss=Yes	4	det	_	_
+3	seus	seu	DET	DP3MP0	Definite=Def|Gender=Masc|Number=Plur|Person=3|Poss=Yes|PronType=Prs	4	det	_	_
 4	títulos	título	NOUN	NCMP000	Gender=Masc|Number=Plur	7	obl	_	_
 5	máis	máis	ADV	RG	_	6	advmod	_	_
 6	peculiares	peculiar	ADJ	AQ0CP	_	4	amod	_	_
@@ -5960,7 +5960,7 @@
 # parallel_id = pud/n01083013
 # text = A súa explicación é que non ofrece suficiente protección aos traballadores estadounidenses que poderían ver danados os seus traballos e niveis de vida.
 1	A	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
-2	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes	3	det	_	_
+2	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	det	_	_
 3	explicación	explicación	NOUN	NCFS000	Gender=Fem|Number=Sing	4	nsubj	_	_
 4	é	ser	VERB	VSIP3S0	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
 5	que	que	SCONJ	CS	_	7	mark	_	_
@@ -5978,7 +5978,7 @@
 16	ver	ver	VERB	VMN0000	VerbForm=Inf	12	acl	_	_
 17	danados	danar	VERB	VMP00PM	Gender=Masc|Number=Plur|VerbForm=Part	20	amod	_	_
 18	os	o	DET	DA0MP0	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	20	det	_	_
-19	seus	seu	DET	DP3MP0	Definite=Def|Gender=Masc|Number=Plur|Person=3|Poss=Yes	20	det	_	_
+19	seus	seu	DET	DP3MP0	Definite=Def|Gender=Masc|Number=Plur|Person=3|Poss=Yes|PronType=Prs	20	det	_	_
 20	traballos	traballo	NOUN	NCMP000	Gender=Masc|Number=Plur	16	obj	_	_
 21	e	e	CCONJ	CC	_	22	cc	_	_
 22	niveis	nivel	NOUN	NCMP000	Gender=Masc|Number=Plur	20	conj	_	_
@@ -6067,7 +6067,7 @@
 29-30	á	_	_	_	_	_	_	_	_
 29	a	a	ADP	SP	AdpType=Prep	32	case	_	_
 30	a	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	32	det	_	_
-31	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes	32	det	_	_
+31	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	32	det	_	_
 32	conta	conta	NOUN	NCFS000	Gender=Fem|Number=Sing	24	obl	_	SpaceAfter=No
 33	.	.	PUNCT	Fp	_	11	punct	_	_
 
@@ -6087,7 +6087,7 @@
 10-11	ao	_	_	_	_	_	_	_	_
 10	a	a	ADP	SP	AdpType=Prep	13	case	_	_
 11	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
-12	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes	13	det	_	_
+12	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	13	det	_	_
 13	diñeiro	diñeiro	NOUN	NCMS000	Gender=Masc|Number=Sing	8	obl	_	_
 14	sempre	sempre	ADV	RG	_	8	advmod	_	_
 15	que	que	SCONJ	CS	_	17	mark	_	_
@@ -6569,7 +6569,7 @@
 # parallel_id = pud/n01091017
 # text = O seu director de políticas de natureza, Jeff Knott, declarou: "Sorprenderíame que se introducise unha prohibición ou unha licenza en base a isto".
 1	O	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
-2	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes	3	det	_	_
+2	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	det	_	_
 3	director	director	NOUN	NCMS000	Gender=Masc|Number=Sing	12	nsubj	_	_
 4	de	de	ADP	SP	AdpType=Prep	5	case	_	_
 5	políticas	política	NOUN	NCFP000	Gender=Fem|Number=Plur	3	nmod	_	_
@@ -6692,12 +6692,12 @@
 25-26	aos	_	_	_	_	_	_	_	_
 25	a	a	ADP	SP	AdpType=Prep	27	case	_	_
 26	os	o	DET	DA0MP0	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	27	det	_	_
-27	outros	outro	PRON	PI0MP0	Gender=Masc|Number=Plur|PronType=Prs	24	obl	_	_
+27	outros	outro	PRON	PI0MP0	Gender=Masc|Number=Plur|PronType=Prs	24	nmod	_	_
 28	acerca	acercar	ADP	SP	ExtPos=ADP	32	case	_	_
 29-30	dos	_	_	_	_	_	_	_	_
 29	de	de	ADP	SP	AdpType=Prep	28	fixed	_	_
 30	os	o	DET	DA0MP0	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	32	det	_	_
-31	seus	seu	DET	DP3MP0	Definite=Def|Gender=Masc|Number=Plur|Person=3|Poss=Yes	32	det	_	_
+31	seus	seu	DET	DP3MP0	Definite=Def|Gender=Masc|Number=Plur|Person=3|Poss=Yes|PronType=Prs	32	det	_	_
 32	plans	plan	NOUN	NCMP000	Gender=Masc|Number=Plur	22	obl	_	_
 33	e	e	CCONJ	CC	_	34	cc	_	_
 34	ambicións	ambición	NOUN	NCFP000	Gender=Fem|Number=Plur	32	conj	_	SpaceAfter=No
@@ -6880,7 +6880,7 @@
 4-5	na	_	_	_	_	_	_	_	_
 4	en	en	ADP	SP	AdpType=Prep	7	case	_	_
 5	a	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
-6	nosa	noso	DET	DP1FSP	Gender=Fem|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes	7	det	_	_
+6	nosa	noso	DET	DP1FSP	Gender=Fem|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	7	det	_	_
 7	época	época	NOUN	NCFS000	Gender=Fem|Number=Sing	3	obl	_	SpaceAfter=No
 8	,	,	PUNCT	Fc	_	16	punct	_	_
 9	e	e	CCONJ	CC	_	16	cc	_	_
@@ -6896,10 +6896,10 @@
 19-20	da	_	_	_	_	_	_	_	_
 19	de	de	ADP	SP	AdpType=Prep	17	fixed	_	_
 20	a	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	_
-21	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes	22	det	_	_
+21	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	22	det	_	_
 22	desaprobación	desaprobación	NOUN	NCFS000	Gender=Fem|Number=Sing	16	obl	_	_
 23	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	25	det	_	_
-24	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes	25	det	_	_
+24	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	25	det	_	_
 25	rexeitamento	rexeitamento	NOUN	NCMS000	Gender=Masc|Number=Sing	16	obj	_	_
 26	cara	cara	NOUN	NCFS000	ExtPos=ADP|Gender=Fem|Number=Sing	28	case	_	_
 27	a	a	ADP	SP	AdpType=Prep	26	fixed	_	_
@@ -7041,7 +7041,7 @@
 12	Internet	internet	NOUN	NCMS000	Gender=Masc|Number=Sing	2	obl	_	SpaceAfter=No
 13	,	,	PUNCT	Fc	_	2	punct	_	_
 14	a	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
-15	miña	meu	DET	DP1FSS	Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes	16	det	_	_
+15	miña	meu	DET	DP1FSS	Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	16	det	_	_
 16	lista	lista	NOUN	NCFS000	Gender=Fem|Number=Sing	17	nsubj	_	_
 17-18	fíxose	_	_	_	_	_	_	_	_
 17	fixo	facer	VERB	VMIS3S0	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
@@ -7071,7 +7071,7 @@
 # parallel_id = pud/n01097098
 # text = A miña seguinte parada foi Bellingham, moi preto da fronteira canadense.
 1	A	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
-2	miña	meu	DET	DP1FSS	Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes	4	det	_	_
+2	miña	meu	DET	DP1FSS	Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	4	det	_	_
 3	seguinte	seguinte	ADJ	AQ0CS	_	4	amod	_	_
 4	parada	parada	NOUN	NCFS000	Gender=Fem|Number=Sing	6	nsubj	_	_
 5	foi	ser	AUX	VSIS3S0	Mood=Ind|Number=Sing|Person=3|Tense=Past	6	cop	_	_
@@ -7225,7 +7225,7 @@
 # sent_id = n01101003
 # parallel_id = pud/n01101003
 # text = Esta é potencialmente a intervención de maior alcance realizada por Pequín desde a cesión de Hong Kong por parte do Reino Unido en 1997.
-1	Esta	este	PRON	PD0FS0	_	5	nsubj	_	_
+1	Esta	este	PRON	PD0FS0	Gender=Fem|Number=Sing|PronType=Dem	5	nsubj	_	_
 2	é	ser	AUX	VSIP3S0	Mood=Ind|Number=Sing|Person=3|Tense=Pres	5	cop	_	_
 3	potencialmente	potencial	ADV	RG	_	5	advmod	_	_
 4	a	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
@@ -7317,7 +7317,7 @@
 3	considera	considerar	VERB	VMIP3S0	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
 4	que	que	SCONJ	CS	_	9	mark	_	_
 5	a	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
-6	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes	7	det	_	_
+6	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	7	det	_	_
 7	intervención	intervención	NOUN	NCFS000	Gender=Fem|Number=Sing	9	nsubj	_	_
 8	é	ser	AUX	VSIP3S0	Mood=Ind|Number=Sing|Person=3|Tense=Pres	9	cop	_	_
 9	necesaria	necesario	ADJ	AQ0FS	_	3	ccomp	_	_
@@ -7391,13 +7391,13 @@
 # parallel_id = pud/n01103013
 # text = O seu soño é terminar aquí a súa carreira profesional.
 1	O	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
-2	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes	3	det	_	_
+2	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	det	_	_
 3	soño	soño	NOUN	NCMS000	Gender=Masc|Number=Sing	0	root	_	_
 4	é	ser	AUX	VSIP3S0	Mood=Ind|Number=Sing|Person=3|Tense=Pres	3	cop	_	_
 5	terminar	terminar	VERB	VMN0000	VerbForm=Inf	3	csubj	_	_
 6	aquí	aquí	ADV	RG	_	5	advmod	_	_
 7	a	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
-8	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes	9	det	_	_
+8	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	9	det	_	_
 9	carreira	carreira	NOUN	NCFS000	Gender=Fem|Number=Sing	5	obj	_	_
 10	profesional	profesional	ADJ	AQ0CS	_	9	amod	_	SpaceAfter=No
 11	.	.	PUNCT	Fp	_	3	punct	_	_
@@ -7422,7 +7422,7 @@
 14	facer	facer	VERB	VMN0000	VerbForm=Inf	19	csubj	_	_
 15	o	o	PRON	PP3MSA00	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	obj	_	_
 16	tres	3	NUM	Z	NumType=Card	17	nummod	_	_
-17	veces	vez	NOUN	NCFP000	Gender=Fem|Number=Plur	15	obl	_	_
+17	veces	vez	NOUN	NCFP000	Gender=Fem|Number=Plur	15	nmod	_	_
 18	seguidas	seguir	VERB	VMP00PF	Gender=Fem|Number=Plur|VerbForm=Part	17	acl	_	_
 19	indica	indicar	VERB	VMIP3S0	Mood=Ind|Number=Sing|Person=3|Tense=Pres	2	conj	_	_
 20	unha	un	DET	DI0FS0	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	21	det	_	_
@@ -7592,7 +7592,7 @@
 31	custou	custar	VERB	VMIS3S0	Mood=Ind|Number=Sing|Person=3|Tense=Past	16	conj	_	_
 32	lle	lle	PRON	PP3CSD00	Case=Dat|Gender=Com|Number=Sing|Person=3|PronType=Prs	31	iobj	_	_
 33	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	35	det	_	_
-34	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes	35	det	_	_
+34	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	35	det	_	_
 35	traballo	traballo	NOUN	NCMS000	Gender=Masc|Number=Sing	31	obj	_	_
 36	a	a	ADP	SP	AdpType=Prep	37	case	_	_
 37	Martin	martin	PROPN	NP00000	_	31	iobj	_	_
@@ -7707,7 +7707,7 @@
 5	a	a	ADP	SP	AdpType=Prep	6	case	_	_
 6	reducir	reducir	VERB	VMN0000	VerbForm=Inf	4	xcomp	_	_
 7	os	o	DET	DA0MP0	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	det	_	_
-8	seus	seu	DET	DP3MP0	Definite=Def|Gender=Masc|Number=Plur|Person=3|Poss=Yes	9	det	_	_
+8	seus	seu	DET	DP3MP0	Definite=Def|Gender=Masc|Number=Plur|Person=3|Poss=Yes|PronType=Prs	9	det	_	_
 9	beneficios	beneficio	NOUN	NCMP000	Gender=Masc|Number=Plur	6	obj	_	_
 10	en	en	ADP	SP	AdpType=Prep	11	case	_	_
 11	xullo	xullo	NOUN	NCMS000	Gender=Masc|Number=Sing	6	obl	_	SpaceAfter=No
@@ -7727,7 +7727,7 @@
 23-24	no	_	_	_	_	_	_	_	_
 23	en	en	ADP	SP	AdpType=Prep	26	case	_	_
 24	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	26	det	_	_
-25	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes	26	det	_	_
+25	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	26	det	_	_
 26	lugar	lugar	NOUN	NCMS000	Gender=Masc|Number=Sing	27	obl	_	_
 27	conseguiron	conseguir	VERB	VMIS3P0	Mood=Ind|Number=Plur|Person=3|Tense=Past	3	conj	_	_
 28	manter	manter	VERB	VMN0000	VerbForm=Inf	27	xcomp	_	_
@@ -7782,7 +7782,7 @@
 6-7	á	_	_	_	_	_	_	_	_
 6	a	a	ADP	SP	AdpType=Prep	9	case	_	_
 7	a	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
-8	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes	9	det	_	_
+8	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	9	det	_	_
 9	capacidade	capacidade	NOUN	NCFS000	Gender=Fem|Number=Sing	5	nmod	_	_
 10	de	de	ADP	SP	AdpType=Prep	11	case	_	_
 11	gasto	gasto	NOUN	NCMS000	Gender=Masc|Number=Sing	9	nmod	_	SpaceAfter=No
@@ -7825,7 +7825,7 @@
 18-19	do	_	_	_	_	_	_	_	_
 18	de	de	ADP	SP	AdpType=Prep	21	case	_	_
 19	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
-20	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes	21	det	_	_
+20	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	21	det	_	_
 21	uso	uso	NOUN	NCMS000	Gender=Masc|Number=Sing	17	nmod	_	SpaceAfter=No
 22	.	.	PUNCT	Fp	_	3	punct	_	_
 
@@ -7858,7 +7858,7 @@
 23-24	polas	_	_	_	_	_	_	_	_
 23	por	por	ADP	SP	AdpType=Prep	26	case	_	_
 24	as	o	DET	DA0FP0	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	26	det	_	_
-25	súas	seu	DET	DP3FP0	Definite=Def|Gender=Fem|Number=Plur|Person=3|Poss=Yes	26	det	_	_
+25	súas	seu	DET	DP3FP0	Definite=Def|Gender=Fem|Number=Plur|Person=3|Poss=Yes|PronType=Prs	26	det	_	_
 26	tarifas	tarifa	NOUN	NCFP000	Gender=Fem|Number=Plur	19	obl	_	_
 27	Simple	simple	PROPN	NP00000	_	26	appos	_	_
 28	e	e	CCONJ	CC	_	29	cc	_	_
@@ -7982,7 +7982,7 @@
 10	a	a	ADP	SP	AdpType=Prep	11	case	_	_
 11	depositar	depositar	VERB	VMN0000	VerbForm=Inf	7	xcomp	_	_
 12	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
-13	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes	14	det	_	_
+13	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	14	det	_	_
 14	diñeiro	diñeiro	NOUN	NCMS000	Gender=Masc|Number=Sing	11	obj	_	_
 15-16	nos	_	_	_	_	_	_	_	_
 15	en	en	ADP	SP	AdpType=Prep	17	case	_	_
@@ -8203,7 +8203,7 @@
 31-32	da	_	_	_	_	_	_	_	_
 31	de	de	ADP	SP	AdpType=Prep	35	case	_	_
 32	a	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	35	det	_	_
-33	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes	35	det	_	_
+33	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	35	det	_	_
 34	propia	propio	ADJ	AQ0FS	_	35	amod	_	_
 35	saúde	saúde	NOUN	NCFS000	Gender=Fem|Number=Sing	29	obl	_	SpaceAfter=No
 36	.	.	PUNCT	Fp	_	23	punct	_	_
@@ -8324,7 +8324,7 @@
 3	vén	vir	VERB	VMIP3S0	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
 4	toda	todo	DET	DI0FS0	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
 5	a	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
-6	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes	7	det	_	_
+6	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	7	det	_	_
 7	enerxía	enerxía	NOUN	NCFS000	Gender=Fem|Number=Sing	3	nsubj	_	SpaceAfter=No
 8	?	?	PUNCT	Fit	_	3	punct	_	_
 9	Ou	ou	CCONJ	CC	_	11	cc	_	_
@@ -8349,7 +8349,7 @@
 # parallel_id = pud/n01116021
 # text = O seu pescozo diríxese cara á fronte coas veas acentuadas en actitude de confrontación, as mans tremen.
 1	O	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
-2	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes	3	det	_	_
+2	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	det	_	_
 3	pescozo	pescozo	NOUN	NCMS000	Gender=Masc|Number=Sing	4	nsubj	_	_
 4-5	diríxese	_	_	_	_	_	_	_	_
 4	dirixe	dirixir	VERB	VMIP3S0	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
@@ -8588,7 +8588,7 @@
 7-8	na	_	_	_	_	_	_	_	_
 7	en	en	ADP	SP	AdpType=Prep	10	case	_	_
 8	a	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
-9	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes	10	det	_	_
+9	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	10	det	_	_
 10	maioría	maioría	NOUN	NCFS000	Gender=Fem|Number=Sing	11	obl	_	_
 11	ten	ter	VERB	VMIP3S0	Mood=Ind|Number=Sing|Person=3|Tense=Pres	3	acl	_	_
 12	pouca	pouco	DET	DI0FS0	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
@@ -8616,7 +8616,7 @@
 
 # sent_id = n01120010
 # parallel_id = pud/n01120010
-# text = A historia de Doss tamén ten unha natureza improbable que a fai todavía máis atraente.
+# text = A historia de Doss tamén ten unha natureza improbable que a fai aínda máis atraente.
 1	A	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
 2	historia	historia	NOUN	NCFS000	Gender=Fem|Number=Sing	6	nsubj	_	_
 3	de	de	ADP	SP	AdpType=Prep	4	case	_	_
@@ -8629,9 +8629,9 @@
 10	que	que	PRON	PR0CN000	Gender=Neut|PronType=Rel	12	nsubj	_	_
 11	a	o	PRON	PP3FSA00	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	12	obj	_	_
 12	fai	facer	VERB	VMIP3S0	Mood=Ind|Number=Sing|Person=3|Tense=Pres	8	acl	_	_
-13	todavía	todavía	NOUN	NCFS000	Gender=Fem|Number=Sing	12	obj	_	_
+13	aínda	aínda	ADV	RG	_	14	advmod	_	_
 14	máis	máis	ADV	RG	_	15	advmod	_	_
-15	atraente	atraente	ADJ	AQ0CS	_	13	amod	_	SpaceAfter=No
+15	atraente	atraente	ADJ	AQ0CS	_	12	xcomp	_	SpaceAfter=No
 16	.	.	PUNCT	Fp	_	6	punct	_	_
 
 # sent_id = n01120020
@@ -8852,7 +8852,7 @@
 12-13	coa	_	_	_	_	_	_	_	_
 12	con	con	ADP	SP	AdpType=Prep	16	case	_	_
 13	a	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
-14	nosa	noso	DET	DP1FSP	Gender=Fem|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes	16	det	_	_
+14	nosa	noso	DET	DP1FSP	Gender=Fem|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	16	det	_	_
 15	crecente	crecente	ADJ	AQ0CS	_	16	amod	_	_
 16	obsesión	obsesión	NOUN	NCFS000	Gender=Fem|Number=Sing	11	obl	_	_
 17	por	por	ADP	SP	AdpType=Prep	18	case	_	_
@@ -8949,7 +8949,7 @@
 3	final	final	NOUN	NCCS000	Gender=Com|Number=Sing	12	discourse	_	SpaceAfter=No
 4	,	,	PUNCT	Fc	_	3	punct	_	_
 5	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
-6	noso	noso	DET	DP1MSP	Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes	7	det	_	_
+6	noso	noso	DET	DP1MSP	Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	7	det	_	_
 7	rendemento	rendemento	NOUN	NCMS000	Gender=Masc|Number=Sing	12	nsubj	_	_
 8	como	como	ADP	SP	AdpType=Prep	9	case	_	_
 9	organización	organización	NOUN	NCFS000	Gender=Fem|Number=Sing	7	nmod	_	_
@@ -9189,7 +9189,7 @@
 18	,	,	PUNCT	Fc	_	24	punct	_	_
 19	e	e	CCONJ	CC	_	24	cc	_	_
 20	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
-21	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes	22	det	_	_
+21	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	22	det	_	_
 22	temperamento	temperamento	NOUN	NCMS000	Gender=Masc|Number=Sing	24	nsubj	_	_
 23	é	ser	AUX	VSIP3S0	Mood=Ind|Number=Sing|Person=3|Tense=Pres	24	cop	_	_
 24	tóxico	tóxico	ADJ	AQ0MS	_	14	conj	_	_
@@ -9248,7 +9248,7 @@
 18	,	,	PUNCT	Fc	_	24	punct	_	_
 19	e	e	CCONJ	CC	_	24	cc	_	_
 20	a	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	_
-21	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes	22	det	_	_
+21	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	22	det	_	_
 22	vantaxe	vantaxe	NOUN	NCFS000	Gender=Fem|Number=Sing	24	nsubj	_	_
 23	xeral	xeral	ADJ	AQ0CS	_	22	amod	_	_
 24	era	ser	VERB	VSII1S0	Mood=Ind|Number=Sing|Person=1|Tense=Imp	8	conj	_	_
@@ -9299,7 +9299,7 @@
 11-12	da	_	_	_	_	_	_	_	_
 11	de	de	ADP	SP	AdpType=Prep	15	case	_	_
 12	a	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
-13	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes	15	det	_	_
+13	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	15	det	_	_
 14	aclamada	aclamar	VERB	VMP00SF	Gender=Fem|Number=Sing|VerbForm=Part	15	amod	_	_
 15	serie	serie	NOUN	NCFS000	Gender=Fem|Number=Sing	9	nmod	_	SpaceAfter=No
 16	,	,	PUNCT	Fc	_	18	punct	_	_
@@ -9335,7 +9335,7 @@
 9	vai	ir	VERB	VMIP3S0	Mood=Ind|Number=Sing|Person=3|Tense=Pres	7	advcl	_	_
 10	comercializar	comercializar	VERB	VMN0000	VerbForm=Inf	9	xcomp	_	_
 11	a	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
-12	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes	13	det	_	_
+12	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	13	det	_	_
 13	motocicleta	motocicleta	NOUN	NCFS000	Gender=Fem|Number=Sing	10	obj	_	_
 14	eléctrica	eléctrico	ADJ	AQ0FS	_	13	amod	_	SpaceAfter=No
 15	.	.	PUNCT	Fp	_	7	punct	_	_
@@ -9662,7 +9662,7 @@
 6	episodios	episodio	NOUN	NCMP000	Gender=Masc|Number=Plur	2	obj	_	_
 7	cando	cando	SCONJ	CS	_	11	mark	_	_
 8	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
-9	meu	meu	DET	DP1MSS	Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes	10	det	_	_
+9	meu	meu	DET	DP1MSS	Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	10	det	_	_
 10	teléfono	teléfono	NOUN	NCMS000	Gender=Masc|Number=Sing	11	nsubj	_	_
 11	comezou	comezar	VERB	VMIS3S0	Mood=Ind|Number=Sing|Person=3|Tense=Past	2	advcl	_	_
 12	a	a	ADP	SP	AdpType=Prep	13	case	_	_
@@ -9705,7 +9705,7 @@
 4-5	dos	_	_	_	_	_	_	_	_
 4	de	de	ADP	SP	AdpType=Prep	8	case	_	_
 5	os	o	DET	DA0MP0	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
-6	meus	meu	DET	DP1MPS	Gender=Masc|Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes	8	det	_	_
+6	meus	meu	DET	DP1MPS	Gender=Masc|Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	8	det	_	_
 7	mellores	mellor	ADJ	AQ0CP	_	8	amod	_	_
 8	amigos	amigo	NOUN	NCMP000	Gender=Masc|Number=Plur	3	nmod	_	SpaceAfter=No
 9	,	,	PUNCT	Fc	_	19	punct	_	_
@@ -9746,7 +9746,7 @@
 # parallel_id = pud/n01139006
 # text = O noso traballo continuará nas cidades nas que iniciamos ou nas que estamos en proceso de construción, dixo Barratt.
 1	O	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
-2	noso	noso	DET	DP1MSP	Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes	3	det	_	_
+2	noso	noso	DET	DP1MSP	Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	3	det	_	_
 3	traballo	traballo	NOUN	NCMS000	Gender=Masc|Number=Sing	4	nsubj	_	_
 4	continuará	continuar	VERB	VMIF3S0	Mood=Ind|Number=Sing|Person=3|Tense=Fut	0	root	_	_
 5-6	nas	_	_	_	_	_	_	_	_
@@ -9907,7 +9907,7 @@
 23	para	para	ADP	SP	AdpType=Prep	24	case	_	_
 24	conectar	conectar	VERB	VMN0000	VerbForm=Inf	2	conj	_	_
 25	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	27	det	_	_
-26	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes	27	det	_	_
+26	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	27	det	_	_
 27	perfil	perfil	NOUN	NCMS000	Gender=Masc|Number=Sing	24	obj	_	_
 28	de	de	ADP	SP	AdpType=Prep	29	case	_	_
 29	Twitter	twitter	PROPN	NP00000	_	27	nmod	_	SpaceAfter=No
@@ -9935,7 +9935,7 @@
 16-17	nos	_	_	_	_	_	_	_	_
 16	en	en	ADP	SP	AdpType=Prep	19	case	_	_
 17	os	o	DET	DA0MP0	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	19	det	_	_
-18	seus	seu	DET	DP3MP0	Definite=Def|Gender=Masc|Number=Plur|Person=3|Poss=Yes	19	det	_	_
+18	seus	seu	DET	DP3MP0	Definite=Def|Gender=Masc|Number=Plur|Person=3|Poss=Yes|PronType=Prs	19	det	_	_
 19	produtos	produto	NOUN	NCMP000	Gender=Masc|Number=Plur	15	obl	_	_
 20	como	como	ADP	SP	AdpType=Prep	21	case	_	_
 21	algo	algo	PRON	PI0CN000	Gender=Neut|PronType=Ind	19	nmod	_	_
@@ -9952,7 +9952,7 @@
 # text = Pero a súa última iniciativa para chats no lugar de traballo é parte dunha tendencia máis ampla entre as empresas tecnolóxicas.
 1	Pero	pero	CCONJ	CC	_	14	discourse	_	_
 2	a	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
-3	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes	5	det	_	_
+3	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	5	det	_	_
 4	última	último	ADJ	AQ0FS	_	5	amod	_	_
 5	iniciativa	iniciativa	NOUN	NCFS000	Gender=Fem|Number=Sing	14	nsubj	_	_
 6	para	para	ADP	SP	AdpType=Prep	7	case	_	_
@@ -9989,7 +9989,7 @@
 7-8	do	_	_	_	_	_	_	_	_
 7	de	de	ADP	SP	AdpType=Prep	11	case	_	_
 8	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
-9	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes	11	det	_	_
+9	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	11	det	_	_
 10	mellor	mellor	ADJ	AQ0CS	_	11	amod	_	_
 11	tenis	tenis	NOUN	NCMP000	Gender=Masc|Number=Plur	4	obj	_	_
 12-13	ao	_	_	_	_	_	_	_	_
@@ -10147,7 +10147,7 @@
 6-7	no	_	_	_	_	_	_	_	_
 6	en	en	ADP	SP	AdpType=Prep	9	case	_	_
 7	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
-8	meu	meu	DET	DP1MSS	Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes	9	det	_	_
+8	meu	meu	DET	DP1MSS	Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	9	det	_	_
 9	alpendre	alpendre	NOUN	NCMS000	Gender=Masc|Number=Sing	1	obl	_	_
 10	e	e	CCONJ	CC	_	12	cc	_	_
 11	eu	eu	PRON	PP1CSN00	Case=Nom|Gender=Com|Number=Sing|Person=1|PronType=Prs	12	nsubj	_	_
@@ -10415,7 +10415,7 @@
 10	en	en	ADP	SP	AdpType=Prep	14	case	_	_
 11	todo	todo	DET	DI0MS0	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
 12	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
-13	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes	14	det	_	_
+13	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	14	det	_	_
 14	esplendor	esplendor	NOUN	NCMS000	Gender=Masc|Number=Sing	9	nmod	_	SpaceAfter=No
 15	,	,	PUNCT	Fc	_	20	punct	_	_
 16	novembro	novembro	NOUN	NCMS000	Gender=Masc|Number=Sing	20	nsubj	_	_
@@ -10622,7 +10622,7 @@
 12	a	a	ADP	SP	AdpType=Prep	13	case	_	_
 13	manter	manter	VERB	VMN0000	VerbForm=Inf	11	xcomp	_	_
 14	as	o	DET	DA0FP0	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	16	det	_	_
-15	súas	seu	DET	DP3FP0	Definite=Def|Gender=Fem|Number=Plur|Person=3|Poss=Yes	16	det	_	_
+15	súas	seu	DET	DP3FP0	Definite=Def|Gender=Fem|Number=Plur|Person=3|Poss=Yes|PronType=Prs	16	det	_	_
 16	memorias	memoria	NOUN	NCFP000	Gender=Fem|Number=Plur	13	obj	_	_
 17	entre	entre	ADP	SP	AdpType=Prep	19	case	_	_
 18	os	o	DET	DA0MP0	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	19	det	_	_
@@ -10938,7 +10938,7 @@
 23	Arqueménida	arqueménida	PROPN	NP00000	_	21	nmod	_	_
 24	e	e	CCONJ	CC	_	28	cc	_	_
 25	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	27	det	_	_
-26	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes	27	det	_	_
+26	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	27	det	_	_
 27	país	país	NOUN	NCMS000	Gender=Masc|Number=Sing	28	nsubj	_	_
 28-29	converteuse	_	_	_	_	_	_	_	_
 28	converteu	converter	VERB	VMIS3S0	Mood=Ind|Number=Sing|Person=3|Tense=Past	19	conj	_	_
@@ -11100,7 +11100,7 @@
 # parallel_id = pud/w01007070
 # text = A súa policía inclúe unha unidade especial que opera embarcacións de patrulla e vixilancia.
 1	A	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
-2	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes	3	det	_	_
+2	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	det	_	_
 3	policía	policía	NOUN	NCFS000	Gender=Fem|Number=Sing	4	nsubj	_	_
 4	inclúe	incluír	VERB	VMIP3S0	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
 5	unha	un	DET	DI0FS0	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
@@ -11381,7 +11381,7 @@
 # parallel_id = pud/w01010047
 # text = O seu primeiro rei foi Mojmír I, que gobernou de 830 a 846.
 1	O	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
-2	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes	4	det	_	_
+2	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	4	det	_	_
 3	primeiro	primeiro	ADJ	AQ0MS	_	4	amod	_	_
 4	rei	rei	NOUN	NCMS000	Gender=Masc|Number=Sing	0	root	_	_
 5	foi	ser	AUX	VSIS3S0	Mood=Ind|Number=Sing|Person=3|Tense=Past	4	cop	_	_
@@ -11412,7 +11412,7 @@
 11-12	co	_	_	_	_	_	_	_	_
 11	con	con	ADP	SP	AdpType=Prep	14	case	_	_
 12	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
-13	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes	14	det	_	_
+13	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	14	det	_	_
 14	sobriño	sobriño	NOUN	NCMS000	Gender=Masc|Number=Sing	7	obl	_	_
 15	Rastiv	rastiv	PROPN	NP00000	_	14	appos	_	SpaceAfter=No
 16	,	,	PUNCT	Fc	_	19	punct	_	_
@@ -11617,7 +11617,7 @@
 26-27	no	_	_	_	_	_	_	_	_
 26	en	en	ADP	SP	AdpType=Prep	29	case	_	_
 27	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	29	det	_	_
-28	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes	29	det	_	_
+28	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	29	det	_	_
 29	conxunto	conxunto	NOUN	NCMS000	Gender=Masc|Number=Sing	23	obl	_	SpaceAfter=No
 30	.	.	PUNCT	Fp	_	5	punct	_	_
 
@@ -11768,8 +11768,8 @@
 6	Camerún	Camerún	PROPN	NP00000	_	4	nmod	_	_
 7-8	coa	_	_	_	_	_	_	_	_
 7	con	con	ADP	SP	_	9	case	_	_
-8	a	o	DET	DA0FS0	_	9	det	_	_
-9	súa	seu	PRON	PP3FS0	Gender=Fem|Number=Sing|PronType=Prs	2	obl	_	_
+8	a	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	súa	seu	PRON	PP3FS0	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	2	obl	_	_
 10	e	e	CCONJ	CC	_	11	cc	_	_
 11	mellorou	mellorar	VERB	VMIS3S0	Mood=Ind|Number=Sing|Person=3|Tense=Past	2	conj	_	_
 12	a	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
@@ -11958,7 +11958,7 @@
 16-17	pola	_	_	_	_	_	_	_	_
 16	por	por	ADP	SP	AdpType=Prep	19	case	_	_
 17	a	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
-18	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes	19	det	_	_
+18	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	19	det	_	_
 19	proximidade	proximidade	NOUN	NCFS000	Gender=Fem|Number=Sing	15	obl	_	_
 20-21	ao	_	_	_	_	_	_	_	_
 20	a	a	ADP	SP	AdpType=Prep	22	case	_	_
@@ -12122,7 +12122,7 @@
 20	(	(	PUNCT	Fpa	_	24	punct	_	SpaceAfter=No
 21	"	"	PUNCT	Fe	_	24	punct	_	SpaceAfter=No
 22	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	24	det	_	_
-23	noso	noso	DET	DP1MSP	Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes	24	det	_	_
+23	noso	noso	DET	DP1MSP	Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	24	det	_	_
 24	mar	mar	NOUN	NCMS000	Gender=Masc|Number=Sing	18	appos	_	SpaceAfter=No
 25	"	"	PUNCT	Fe	_	24	punct	_	SpaceAfter=No
 26	)	)	PUNCT	Fpt	_	24	punct	_	SpaceAfter=No
@@ -12407,7 +12407,7 @@
 31-32	do	_	_	_	_	_	_	_	_
 31	de	de	ADP	SP	AdpType=Prep	34	case	_	_
 32	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	34	det	_	_
-33	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes	34	det	_	_
+33	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	34	det	_	_
 34	cargo	cargo	NOUN	NCMS000	Gender=Masc|Number=Sing	30	obl	_	SpaceAfter=No
 35	.	.	PUNCT	Fp	_	9	punct	_	_
 
@@ -12474,7 +12474,7 @@
 20	mentres	mentres	SCONJ	CS	ExtPos=SCONJ	35	mark	_	_
 21	que	que	SCONJ	CS	_	20	fixed	_	_
 22	a	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	24	det	_	_
-23	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes	24	det	_	_
+23	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	24	det	_	_
 24	parte	parte	NOUN	NCCS000	Gender=Com|Number=Sing	35	nsubj	_	_
 25	norte	norte	NOUN	NCMS000	Gender=Masc|Number=Sing	24	nmod	_	SpaceAfter=No
 26	,	,	PUNCT	Fc	_	29	punct	_	_
@@ -12542,7 +12542,7 @@
 13-14	da	_	_	_	_	_	_	_	_
 13	de	de	ADP	SP	AdpType=Prep	17	case	_	_
 14	a	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
-15	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes	17	det	_	_
+15	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	17	det	_	_
 16	prominente	prominente	ADJ	AQ0CS	_	17	amod	_	_
 17	topografía	topografía	NOUN	NCFS000	Gender=Fem|Number=Sing	12	nmod	_	_
 18	non	non	ADV	RN	Polarity=Neg	20	advmod	_	_
@@ -12700,7 +12700,7 @@
 13-14	dos	_	_	_	_	_	_	_	_
 13	de	de	ADP	SP	AdpType=Prep	16	case	_	_
 14	os	o	DET	DA0MP0	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	16	det	_	_
-15	seus	seu	DET	DP3MP0	Definite=Def|Gender=Masc|Number=Plur|Person=3|Poss=Yes	16	det	_	_
+15	seus	seu	DET	DP3MP0	Definite=Def|Gender=Masc|Number=Plur|Person=3|Poss=Yes|PronType=Prs	16	det	_	_
 16	tratamentos	tratamento	NOUN	NCMP000	Gender=Masc|Number=Plur	12	nmod	_	_
 17	médicos	médico	ADJ	AQ0MP	_	16	amod	_	SpaceAfter=No
 18	.	.	PUNCT	Fp	_	8	punct	_	_
@@ -12955,7 +12955,7 @@
 9-10	ao	_	_	_	_	_	_	_	_
 9	a	a	ADP	SP	AdpType=Prep	8	fixed	_	_
 10	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
-11	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes	13	det	_	_
+11	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	13	det	_	_
 12	alto	alto	ADJ	AQ0MS	_	13	amod	_	_
 13	contido	contido	NOUN	NCMS000	Gender=Masc|Number=Sing	3	obl	_	_
 14	de	de	ADP	SP	AdpType=Prep	15	case	_	_
@@ -12966,7 +12966,7 @@
 18	o	o	PRON	PA0MS0	Gender=Masc|Number=Sing|PronType=Prs	17	fixed	_	_
 19	que	que	SCONJ	CS	_	17	fixed	_	_
 20	moitas	moito	DET	DI0FP0	Definite=Ind|Gender=Fem|Number=Plur|PronType=Art	21	det	_	_
-21	veces	vez	NOUN	NCFP000	Gender=Fem|Number=Plur	23	obj	_	_
+21	veces	vez	NOUN	NCFP000	Gender=Fem|Number=Plur	23	obl	_	_
 22	non	non	ADV	RN	Polarity=Neg	23	advmod	_	_
 23	alcanza	alcanzar	VERB	VMIP3S0	Mood=Ind|Number=Sing|Person=3|Tense=Pres	3	advcl	_	_
 24	a	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	25	det	_	_
@@ -13527,7 +13527,7 @@
 13-14	no	_	_	_	_	_	_	_	_
 13	en	en	ADP	SP	AdpType=Prep	17	case	_	_
 14	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
-15	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes	17	det	_	_
+15	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	17	det	_	_
 16	peor	peor	ADJ	AQ0CS	_	17	amod	_	_
 17	momento	momento	NOUN	NCMS000	Gender=Masc|Number=Sing	19	obl	_	_
 18	non	non	ADV	RN	Polarity=Neg	19	advmod	_	_
@@ -13554,7 +13554,7 @@
 6	Ano	ano	NOUN	NCMS000	Gender=Masc|Number=Sing	3	obj	_	_
 7-8	do	_	_	_	_	_	_	_	_
 7	de	de	ADP	NP00000	_	9	case	_	_
-8	o	o	DET	NP00000	_	9	det	_	_
+8	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
 9	Río	río	NOUN	NCMS000	Gender=Masc|Number=Sing	6	nmod	_	SpaceAfter=No
 10	"	"	PUNCT	Fe	_	6	punct	_	_
 11-12	pola	_	_	_	_	_	_	_	_
@@ -13697,7 +13697,7 @@
 9-10	á	_	_	_	_	_	_	_	_
 9	a	a	ADP	SP	AdpType=Prep	12	case	_	_
 10	a	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
-11	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes	12	det	_	_
+11	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	12	det	_	_
 12	vez	vez	NOUN	NCFS000	Gender=Fem|Number=Sing	15	obl	_	_
 13	poden	poder	AUX	VMIP3P0	Mood=Ind|Number=Plur|Person=3|Tense=Pres	15	aux	_	_
 14	ser	ser	AUX	VSN0000	VerbForm=Inf	15	aux	_	_
@@ -14127,7 +14127,7 @@
 19-20	co	_	_	_	_	_	_	_	_
 19	con	con	ADP	SP	AdpType=Prep	22	case	_	_
 20	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
-21	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes	22	det	_	_
+21	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	22	det	_	_
 22	desenvolvemento	desenvolvemento	NOUN	NCMS000	Gender=Masc|Number=Sing	13	obl	_	SpaceAfter=No
 23	.	.	PUNCT	Fp	_	13	punct	_	_
 
@@ -14201,7 +14201,7 @@
 2	tamén	tamén	ADV	RG	_	3	advmod	_	_
 3	aproveitou	aproveitar	VERB	VMIS3S0	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
 4	os	o	DET	DA0MP0	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
-5	seus	seu	DET	DP3MP0	Definite=Def|Gender=Masc|Number=Plur|Person=3|Poss=Yes	6	det	_	_
+5	seus	seu	DET	DP3MP0	Definite=Def|Gender=Masc|Number=Plur|Person=3|Poss=Yes|PronType=Prs	6	det	_	_
 6	contactos	contacto	NOUN	NCMP000	Gender=Masc|Number=Plur	3	obj	_	_
 7	persoais	persoal	ADJ	AQ0CP	_	6	amod	_	_
 8	con	con	ADP	SP	AdpType=Prep	10	case	_	_
@@ -14274,7 +14274,7 @@
 12	química	químico	ADJ	AQ0FS	_	11	amod	_	_
 13	e	e	CCONJ	CC	_	16	cc	_	_
 14	os	o	DET	DA0MP0	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	16	det	_	_
-15	seus	seu	DET	DP3MP0	Definite=Def|Gender=Masc|Number=Plur|Person=3|Poss=Yes	16	det	_	_
+15	seus	seu	DET	DP3MP0	Definite=Def|Gender=Masc|Number=Plur|Person=3|Poss=Yes|PronType=Prs	16	det	_	_
 16	grupos	grupo	NOUN	NCMP000	Gender=Masc|Number=Plur	11	conj	_	_
 17	de	de	ADP	SP	AdpType=Prep	18	case	_	_
 18	presión	presión	NOUN	NCFS000	Gender=Fem|Number=Sing	16	nmod	_	SpaceAfter=No
@@ -14459,7 +14459,7 @@
 15	Khaan	khaan	PROPN	NP00000	_	14	flat:name	_	_
 16	declarou	declarar	VERB	VMIS3S0	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
 17	a	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
-18	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes	19	det	_	_
+18	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	19	det	_	_
 19	independencia	independencia	NOUN	NCFS000	Gender=Fem|Number=Sing	16	obj	_	SpaceAfter=No
 20	.	.	PUNCT	Fp	_	16	punct	_	_
 
@@ -14484,7 +14484,7 @@
 15-16	do	_	_	_	_	_	_	_	_
 15	de	de	ADP	SP	AdpType=Prep	18	case	_	_
 16	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
-17	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes	18	det	_	_
+17	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	18	det	_	_
 18	territorio	territorio	NOUN	NCMS000	Gender=Masc|Number=Sing	11	obl	_	SpaceAfter=No
 19	.	.	PUNCT	Fp	_	11	punct	_	_
 
@@ -14571,7 +14571,7 @@
 44	,	,	PUNCT	Fc	_	40	punct	_	_
 45	perdera	perder	VERB	VMIM3S0	Mood=Ind|Number=Sing|Person=3|Tense=Pqp	7	conj	_	_
 46	a	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	48	det	_	_
-47	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes	48	det	_	_
+47	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	48	det	_	_
 48	validez	validez	NOUN	NCFS000	Gender=Fem|Number=Sing	45	obj	_	SpaceAfter=No
 49	.	.	PUNCT	Fp	_	3	punct	_	_
 
@@ -14608,7 +14608,7 @@
 3-4	da	_	_	_	_	_	_	_	_
 3	de	de	ADP	SP	AdpType=Prep	1	fixed	_	_
 4	a	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
-5	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes	6	det	_	_
+5	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	det	_	_
 6	présa	présa	NOUN	NCFS000	Gender=Fem|Number=Sing	13	obl	_	_
 7	por	por	ADP	SP	AdpType=Prep	8	case	_	_
 8	conquistar	conquistar	VERB	VMN0000	VerbForm=Inf	6	acl	_	_
@@ -14827,7 +14827,7 @@
 17-18	da	_	_	_	_	_	_	_	_
 17	de	de	ADP	SP	AdpType=Prep	20	case	_	_
 18	a	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_
-19	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes	20	det	_	_
+19	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	20	det	_	_
 20	conversión	conversión	NOUN	NCFS000	Gender=Fem|Number=Sing	15	nmod	_	SpaceAfter=No
 21	.	.	PUNCT	Fp	_	9	punct	_	_
 
@@ -15087,7 +15087,7 @@
 10-11	coas	_	_	_	_	_	_	_	_
 10	con	con	ADP	SP	_	13	case	_	_
 11	as	o	DET	DA0FP0	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	13	det	_	_
-12	súas	seu	DET	DP3FP0	Definite=Def|Gender=Fem|Number=Plur|Person=3|Poss=Yes	13	det	_	_
+12	súas	seu	DET	DP3FP0	Definite=Def|Gender=Fem|Number=Plur|Person=3|Poss=Yes|PronType=Prs	13	det	_	_
 13	capacidades	capacidade	NOUN	NCFP000	Gender=Fem|Number=Plur	6	obl	_	_
 14	e	e	CCONJ	CC	_	15	cc	_	_
 15	destrezas	destreza	NOUN	NCFP000	Gender=Fem|Number=Plur	13	conj	_	_
@@ -15205,7 +15205,7 @@
 7	para	para	ADP	SP	AdpType=Prep	8	case	_	_
 8	desprazar	desprazar	VERB	VMN0000	VerbForm=Inf	5	acl	_	_
 9	as	o	DET	DA0FP0	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	11	det	_	_
-10	súas	seu	DET	DP3FP0	Definite=Def|Gender=Fem|Number=Plur|Person=3|Poss=Yes	11	det	_	_
+10	súas	seu	DET	DP3FP0	Definite=Def|Gender=Fem|Number=Plur|Person=3|Poss=Yes|PronType=Prs	11	det	_	_
 11	fronteiras	fronteira	NOUN	NCFP000	Gender=Fem|Number=Plur	8	obj	_	_
 12	máis	máis	ADV	RG	_	15	advmod	_	_
 13-14	ao	_	_	_	_	_	_	_	_
@@ -15273,7 +15273,7 @@
 3	Tiberio	tiberio	PROPN	NP00000	_	4	nsubj	_	_
 4	lamentou	lamentar	VERB	VMIS3S0	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
 5	a	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
-6	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes	7	det	_	_
+6	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	7	det	_	_
 7	partida	partida	NOUN	NCFS000	Gender=Fem|Number=Sing	4	obj	_	_
 8	e	e	CCONJ	CC	_	9	cc	_	_
 9	pediu	pedir	VERB	VMIS3S0	Mood=Ind|Number=Sing|Person=3|Tense=Past	4	conj	_	_
@@ -15288,7 +15288,7 @@
 18	denegou	denegar	VERB	VMIS3S0	Mood=Ind|Number=Sing|Person=3|Tense=Past	4	conj	_	_
 19	todas	todo	DET	DI0FP0	Definite=Ind|Gender=Fem|Number=Plur|PronType=Art	22	det	_	_
 20	as	o	DET	DA0FP0	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	22	det	_	_
-21	súas	seu	DET	DP3FP0	Definite=Def|Gender=Fem|Number=Plur|Person=3|Poss=Yes	22	det	_	_
+21	súas	seu	DET	DP3FP0	Definite=Def|Gender=Fem|Number=Plur|Person=3|Poss=Yes|PronType=Prs	22	det	_	_
 22	peticións	petición	NOUN	NCFP000	Gender=Fem|Number=Plur	18	obj	_	SpaceAfter=No
 23	.	.	PUNCT	Fp	_	4	punct	_	_
 
@@ -15308,7 +15308,7 @@
 11	el	el	PRON	PP3MS000	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	obl	_	_
 12	e	e	CCONJ	CC	_	19	cc	_	_
 13	as	o	DET	DA0FP0	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	15	det	_	_
-14	súas	seu	DET	DP3FP0	Definite=Def|Gender=Fem|Number=Plur|Person=3|Poss=Yes	15	det	_	_
+14	súas	seu	DET	DP3FP0	Definite=Def|Gender=Fem|Number=Plur|Person=3|Poss=Yes|PronType=Prs	15	det	_	_
 15	ordes	orde	NOUN	NCFP000	Gender=Fem|Number=Plur	19	nsubj	_	_
 16	directas	directo	ADJ	AQ0FP	_	15	amod	_	_
 17	eran	ser	AUX	VSII3P0	Mood=Ind|Number=Plur|Person=3|Tense=Imp	19	cop	_	_
@@ -15336,7 +15336,7 @@
 39	en	en	ADP	SP	AdpType=Prep	40	case	_	_
 40	aprobar	aprobar	VERB	VMN0000	VerbForm=Inf	31	obl	_	_
 41	as	o	DET	DA0FP0	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	43	det	_	_
-42	súas	seu	DET	DP3FP0	Definite=Def|Gender=Fem|Number=Plur|Person=3|Poss=Yes	43	det	_	_
+42	súas	seu	DET	DP3FP0	Definite=Def|Gender=Fem|Number=Plur|Person=3|Poss=Yes|PronType=Prs	43	det	_	_
 43	leis	lei	NOUN	NCMP000	Gender=Masc|Number=Plur	40	obj	_	SpaceAfter=No
 44	.	.	PUNCT	Fp	_	2	punct	_	_
 
@@ -15647,7 +15647,7 @@
 # parallel_id = pud/w01066006
 # text = O seu animal do zodíaco é o mono e o seu tradicionalmente significativo ano do sexaxésimo aniversario foi 1992.
 1	O	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
-2	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes	3	det	_	_
+2	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	det	_	_
 3	animal	animal	NOUN	NCMS000	Gender=Masc|Number=Sing	9	nsubj	_	_
 4-5	do	_	_	_	_	_	_	_	_
 4	de	de	ADP	SP	AdpType=Prep	6	case	_	_
@@ -15658,7 +15658,7 @@
 9	mono	mono	NOUN	NCMS000	Gender=Masc|Number=Sing	0	root	_	_
 10	e	e	CCONJ	CC	_	21	cc	_	_
 11	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
-12	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes	15	det	_	_
+12	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	15	det	_	_
 13	tradicionalmente	tradicional	ADV	RG	_	14	advmod	_	_
 14	significativo	significativo	ADJ	AQ0MS	_	15	amod	_	_
 15	ano	ano	NOUN	NCMS000	Gender=Masc|Number=Sing	21	nsubj	_	_
@@ -15802,9 +15802,9 @@
 4	anos	ano	NOUN	NCMP000	Gender=Masc|Number=Plur	2	obj	_	SpaceAfter=No
 5	,	,	PUNCT	Fc	_	8	punct	_	_
 6	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
-7	que	que	PRON	PR0CN000	Gender=Neut|PronType=Rel	8	obj	_	_
+7	que	que	PRON	PR0CN000	Gender=Neut|PronType=Rel	8	nsubj	_	_
 8	resulta	resultar	VERB	VMIP3S0	Mood=Ind|Number=Sing|Person=3|Tense=Pres	2	advcl	_	_
-9	evidente	evidente	ADJ	AQ0CS	_	8	obj	_	_
+9	evidente	evidente	ADJ	AQ0CS	_	8	xcomp	_	_
 10	dado	dar	VERB	VMP00SM	Gender=Masc|Number=Sing|VerbForm=Part	8	advcl	_	_
 11	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
 12	estado	estado	NOUN	NCMS000	Gender=Masc|Number=Sing	10	obl	_	_
@@ -15814,7 +15814,7 @@
 16-17	das	_	_	_	_	_	_	_	_
 16	de	de	ADP	SP	AdpType=Prep	19	case	_	_
 17	as	o	DET	DA0FP0	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	19	det	_	_
-18	súas	seu	DET	DP3FP0	Definite=Def|Gender=Fem|Number=Plur|Person=3|Poss=Yes	19	det	_	_
+18	súas	seu	DET	DP3FP0	Definite=Def|Gender=Fem|Number=Plur|Person=3|Poss=Yes|PronType=Prs	19	det	_	_
 19	construcións	construción	NOUN	NCFP000	Gender=Fem|Number=Plur	15	nmod	_	SpaceAfter=No
 20	.	.	PUNCT	Fp	_	2	punct	_	_
 
@@ -15940,7 +15940,7 @@
 3-4	das	_	_	_	_	_	_	_	_
 3	de	de	ADP	SP	_	1	fixed	_	_
 4	as	o	DET	DA0FP0	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
-5	súas	seu	DET	DP3FP0	Definite=Def|Gender=Fem|Number=Plur|Person=3|Poss=Yes	7	det	_	_
+5	súas	seu	DET	DP3FP0	Definite=Def|Gender=Fem|Number=Plur|Person=3|Poss=Yes|PronType=Prs	7	det	_	_
 6	duras	duro	ADJ	AQ0FP	_	7	amod	_	_
 7	accións	acción	NOUN	NCFP000	Gender=Fem|Number=Plur	10	obl	_	SpaceAfter=No
 8	,	,	PUNCT	Fc	_	7	punct	_	_
@@ -16005,7 +16005,7 @@
 # parallel_id = pud/w01069094
 # text = A súa loita contra o Imperio Otomán no mar Mediterráneo supuxo serias limitacións na forza militar que podía empregar contra os rebeldes nos Países Baixos.
 1	A	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
-2	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes	3	det	_	_
+2	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	det	_	_
 3	loita	loita	NOUN	NCFS000	Gender=Fem|Number=Sing	12	nsubj	_	_
 4	contra	contra	ADP	SP	AdpType=Prep	6	case	_	_
 5	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
@@ -16164,7 +16164,7 @@
 # parallel_id = pud/w01071036
 # text = A súa importancia reside en dous feitos.
 1	A	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
-2	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes	3	det	_	_
+2	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	det	_	_
 3	importancia	importancia	NOUN	NCFS000	Gender=Fem|Number=Sing	4	nsubj	_	_
 4	reside	residir	VERB	VMIP3S0	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
 5	en	en	ADP	SP	AdpType=Prep	7	case	_	_
@@ -16341,7 +16341,7 @@
 15	cando	cando	SCONJ	CS	_	16	mark	_	_
 16	tiveron	ter	VERB	VMIS3P0	Mood=Ind|Number=Plur|Person=3|Tense=Past	22	advcl	_	_
 17	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
-18	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes	20	det	_	_
+18	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	20	det	_	_
 19	primeiro	primeiro	NUM	Z	NumType=Ord	20	nummod	_	_
 20	fillo	fillo	NOUN	NCMS000	Gender=Masc|Number=Sing	16	obj	_	SpaceAfter=No
 21	,	,	PUNCT	Fc	_	16	punct	_	_
@@ -16364,7 +16364,7 @@
 # text = Durante a súa estancia alí, Kipling tamén coñeceu e namorou de Florence Garrand, quen embarcaba con Trix en Southsea, lugar ao que esta última regresara.
 1	Durante	durante	ADP	SP	AdpType=Prep	4	case	_	_
 2	a	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
-3	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes	4	det	_	_
+3	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	4	det	_	_
 4	estancia	estancia	NOUN	NCFS000	Gender=Fem|Number=Sing	9	obl	_	_
 5	alí	alí	ADV	RG	_	4	advmod	_	SpaceAfter=No
 6	,	,	PUNCT	Fc	_	4	punct	_	_
@@ -16763,7 +16763,7 @@
 # parallel_id = pud/w01076039
 # text = A súa garantía de liberdades prometeu diluír as tensións entre comunidades e facer do imperio un lugar máis harmonioso.
 1	A	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
-2	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes	3	det	_	_
+2	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	det	_	_
 3	garantía	garantía	NOUN	NCFS000	Gender=Fem|Number=Sing	6	nsubj	_	_
 4	de	de	ADP	SP	AdpType=Prep	5	case	_	_
 5	liberdades	liberdade	NOUN	NCFP000	Gender=Fem|Number=Plur	3	nmod	_	_
@@ -16804,7 +16804,7 @@
 14-15	dos	_	_	_	_	_	_	_	_
 14	de	de	ADP	SP	AdpType=Prep	16	case	_	_
 15	os	o	DET	DA0MP0	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	16	det	_	_
-16	otománs	otomán	NOUN	NCMP000	Gender=Masc|Number=Plur	11	obl	_	_
+16	otománs	otomán	NOUN	NCMP000	Gender=Masc|Number=Plur	11	nmod	_	_
 17-18	na	_	_	_	_	_	_	_	_
 17	en	en	ADP	SP	AdpType=Prep	19	case	_	_
 18	a	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
@@ -16889,7 +16889,7 @@
 6	española	español	ADJ	AQ0FS	_	5	amod	_	_
 7	advertiu	advertir	VERB	VMIS3S0	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
 8	os	o	DET	DA0MP0	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
-9	seus	seu	DET	DP3MP0	Definite=Def|Gender=Masc|Number=Plur|Person=3|Poss=Yes	10	det	_	_
+9	seus	seu	DET	DP3MP0	Definite=Def|Gender=Masc|Number=Plur|Person=3|Poss=Yes|PronType=Prs	10	det	_	_
 10	membros	membro	NOUN	NCMP000	Gender=Masc|Number=Plur	7	obj	_	_
 11	que	que	SCONJ	CS	_	13	mark	_	_
 12	non	non	ADV	RN	Polarity=Neg	13	advmod	_	_
@@ -16948,7 +16948,7 @@
 1	España	España	PROPN	NP00000	_	2	nsubj	_	_
 2	expulsara	expulsar	VERB	VMIM1S0	Mood=Ind|Number=Sing|Person=1|Tense=Pqp	0	root	_	_
 3	a	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
-4	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes	5	det	_	_
+4	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	5	det	_	_
 5	poboación	poboación	NOUN	NCFS000	Gender=Fem|Number=Sing	2	obj	_	_
 6	sefardita	sefardita	ADJ	AQ0FS0	Gender=Fem|Number=Sing	5	amod	_	_
 7	en	en	ADP	SP	AdpType=Prep	8	case	_	_
@@ -17004,7 +17004,7 @@
 2	avanzou	avanzar	VERB	VMIS3S0	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
 3	contra	contra	ADP	SP	AdpType=Prep	6	case	_	_
 4	os	o	DET	DA0MP0	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
-5	seus	seu	DET	DP3MP0	Definite=Def|Gender=Masc|Number=Plur|Person=3|Poss=Yes	6	det	_	_
+5	seus	seu	DET	DP3MP0	Definite=Def|Gender=Masc|Number=Plur|Person=3|Poss=Yes|PronType=Prs	6	det	_	_
 6	inimigos	inimigo	NOUN	NCMP000	Gender=Masc|Number=Plur	2	obl	_	_
 7-8	do	_	_	_	_	_	_	_	_
 7	de	de	ADP	SP	AdpType=Prep	9	case	_	_
@@ -17017,7 +17017,7 @@
 # text = Derrotou os seus inimigos en Tesalia e no ano 352 xa tiña o control total desta rexión.
 1	Derrotou	derrotar	VERB	VMIS3S0	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
 2	os	o	DET	DA0MP0	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
-3	seus	seu	DET	DP3MP0	Definite=Def|Gender=Masc|Number=Plur|Person=3|Poss=Yes	4	det	_	_
+3	seus	seu	DET	DP3MP0	Definite=Def|Gender=Masc|Number=Plur|Person=3|Poss=Yes|PronType=Prs	4	det	_	_
 4	inimigos	inimigo	NOUN	NCMP000	Gender=Masc|Number=Plur	1	obj	_	_
 5	en	en	ADP	SP	AdpType=Prep	6	case	_	_
 6	Tesalia	tesalia	PROPN	NP00000	_	1	obl	_	_
@@ -17169,7 +17169,7 @@
 19	en	en	ADP	SP	AdpType=Prep	20	case	_	_
 20	realidade	realidade	NOUN	NCFS000	Gender=Fem|Number=Sing	14	acl	_	_
 21	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
-22	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes	23	det	_	_
+22	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	23	det	_	_
 23	país	país	NOUN	NCMS000	Gender=Masc|Number=Sing	20	nsubj	_	SpaceAfter=No
 24	.	.	PUNCT	Fp	_	10	punct	_	_
 
@@ -17369,7 +17369,7 @@
 9	España	España	PROPN	NP00000	_	10	nsubj	_	_
 10	cedía	ceder	VERB	VMII3S0	Mood=Ind|Number=Sing|Person=3|Tense=Imp	0	root	_	_
 11	as	o	DET	DA0FP0	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	13	det	_	_
-12	súas	seu	DET	DP3FP0	Definite=Def|Gender=Fem|Number=Plur|Person=3|Poss=Yes	13	det	_	_
+12	súas	seu	DET	DP3FP0	Definite=Def|Gender=Fem|Number=Plur|Person=3|Poss=Yes|PronType=Prs	13	det	_	_
 13	colonias	colonia	NOUN	NCFP000	Gender=Fem|Number=Plur	10	obj	_	_
 14	de	de	ADP	SP	AdpType=Prep	15	case	_	_
 15	Porto	porto	PROPN	NP00000	_	13	nmod	_	_
@@ -17500,7 +17500,7 @@
 24-25	co	_	_	_	_	_	_	_	_
 24	con	con	ADP	SP	AdpType=Prep	22	fixed	_	_
 25	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	27	det	_	_
-26	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes	27	det	_	_
+26	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	27	det	_	_
 27	papel	papel	NOUN	NCMS000	Gender=Masc|Number=Sing	15	obl	_	_
 28-29	na	_	_	_	_	_	_	_	_
 28	en	en	ADP	SP	AdpType=Prep	30	case	_	_
@@ -17601,7 +17601,7 @@
 26-27	do	_	_	_	_	_	_	_	_
 26	de	de	ADP	SP	AdpType=Prep	30	case	_	_
 27	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	30	det	_	_
-28	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes	30	det	_	_
+28	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	30	det	_	_
 29	novo	novo	ADJ	AQ0MS	_	30	amod	_	_
 30	alfabeto	alfabeto	NOUN	NCMS000	Gender=Masc|Number=Sing	25	nmod	_	SpaceAfter=No
 31	.	.	PUNCT	Fp	_	21	punct	_	_
@@ -17728,7 +17728,7 @@
 9	se	se	PRON	PP3CN000	Gender=Com|Person=3|PronType=Prs	8	expl	_	_
 10	como	como	ADP	SP	_	12	case	_	_
 11	un	un	DET	DI0MS0	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
-12	poder	poder	NOUN	NCMS000	Gender=Masc|Number=Sing	9	obl	_	_
+12	poder	poder	NOUN	NCMS000	Gender=Masc|Number=Sing	9	nmod	_	_
 13	local	local	ADJ	AQ0MS	Gender=Masc|Number=Sing	12	amod	_	_
 14-15	no	_	_	_	_	_	_	_	_
 14	en	en	ADP	SP	AdpType=Prep	16	case	_	_
@@ -17799,7 +17799,7 @@
 18	a	a	ADP	SP	AdpType=Prep	19	case	_	_
 19	presentar	presentar	VERB	VMN0000	VerbForm=Inf	13	xcomp	_	_
 20	os	o	DET	DA0MP0	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	22	det	_	_
-21	seus	seu	DET	DP3MP0	Definite=Def|Gender=Masc|Number=Plur|Person=3|Poss=Yes	22	det	_	_
+21	seus	seu	DET	DP3MP0	Definite=Def|Gender=Masc|Number=Plur|Person=3|Poss=Yes|PronType=Prs	22	det	_	_
 22	coches	coche	NOUN	NCMP000	Gender=Masc|Number=Plur	19	obj	_	_
 23	de	de	ADP	SP	AdpType=Prep	24	case	_	_
 24	tamaño	tamaño	NOUN	NCMS000	Gender=Masc|Number=Sing	22	nmod	_	_
@@ -17899,7 +17899,7 @@
 19-20	da	_	_	_	_	_	_	_	_
 19	de	de	ADP	SP	AdpType=Prep	22	case	_	_
 20	a	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	_
-21	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes	22	det	_	_
+21	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	22	det	_	_
 22	morte	morte	NOUN	NCFS000	Gender=Fem|Number=Sing	15	obl	_	_
 23-24	co	_	_	_	_	_	_	_	_
 23	con	con	ADP	SP	AdpType=Prep	25	case	_	_
@@ -17947,7 +17947,7 @@
 25-26	doutra	_	_	_	_	_	_	_	_
 25	de	de	ADP	SP	AdpType=Prep	27	case	_	_
 26	outra	outro	DET	DI0FS0	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	27	det	_	_
-27	maneira	maneira	NOUN	NCFS000	Gender=Fem|Number=Sing	24	obl	_	SpaceAfter=No
+27	maneira	maneira	NOUN	NCFS000	Gender=Fem|Number=Sing	23	nmod	_	SpaceAfter=No
 28	.	.	PUNCT	Fp	_	12	punct	_	_
 
 # sent_id = w01095093
@@ -17979,7 +17979,7 @@
 20-21	polos	_	_	_	_	_	_	_	_
 20	por	por	ADP	SP	AdpType=Prep	23	case	_	_
 21	os	o	DET	DA0MP0	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	23	det	_	_
-22	seus	seu	DET	DP3MP0	Definite=Def|Gender=Masc|Number=Plur|Person=3|Poss=Yes	23	det	_	_
+22	seus	seu	DET	DP3MP0	Definite=Def|Gender=Masc|Number=Plur|Person=3|Poss=Yes|PronType=Prs	23	det	_	_
 23	nomes	nome	NOUN	NCMP000	Gender=Masc|Number=Plur	15	obl	_	_
 24	de	de	ADP	SP	AdpType=Prep	25	case	_	_
 25	pía	pía	NOUN	NCFS000	Gender=Fem|Number=Sing	23	nmod	_	SpaceAfter=No
@@ -18022,7 +18022,7 @@
 25-26	na	_	_	_	_	_	_	_	_
 25	en	en	ADP	SP	AdpType=Prep	28	case	_	_
 26	a	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	28	det	_	_
-27	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes	28	det	_	_
+27	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	28	det	_	_
 28	maioría	maioría	NOUN	NCFS000	Gender=Fem|Number=Sing	23	appos	_	_
 29	chineses	chinés	NOUN	NCMP000	_	28	nmod	_	_
 30	(	(	PUNCT	Fpa	_	31	punct	_	SpaceAfter=No
@@ -18145,7 +18145,7 @@
 22-23	do	_	_	_	_	_	_	_	_
 22	de	de	ADP	SP	AdpType=Prep	28	case	_	_
 23	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	28	det	_	_
-24	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes	28	det	_	_
+24	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	28	det	_	_
 25	primeiro	primeiro	NUM	Z	NumType=Ord	28	amod	_	_
 26	e	e	CCONJ	CC	_	27	cc	_	_
 27	épico	épico	ADJ	AQ0MS	_	25	conj	_	_
@@ -18480,7 +18480,7 @@
 13	ningún	ningún	PRON	PI0MS0	Gender=Masc|Number=Sing|PronType=Ind	14	nsubj	_	_
 14	espertou	espertar	VERB	VMIS3S0	Mood=Ind|Number=Sing|Person=3|Tense=Past	1	conj	_	_
 15	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
-16	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes	17	det	_	_
+16	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	17	det	_	_
 17	interese	interese	NOUN	NCMS000	Gender=Masc|Number=Sing	14	obj	_	SpaceAfter=No
 18	.	.	PUNCT	Fp	_	1	punct	_	_
 
@@ -18504,7 +18504,7 @@
 14-15	da	_	_	_	_	_	_	_	_
 14	de	de	ADP	SP	AdpType=Prep	16	case	_	_
 15	a	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
-16	Milice	milice	NOUN	NCFS000	Gender=Fem|Number=Sing	13	obl	_	_
+16	Milice	milice	NOUN	NCFS000	Gender=Fem|Number=Sing	13	nmod	_	_
 17	francesa	francés	ADJ	AQ0FS	_	16	amod	_	_
 18	que	que	PRON	PR0CN000	Gender=Neut|PronType=Rel	19	nsubj	_	_
 19	perseguiron	perseguir	VERB	VMIS3P0	Mood=Ind|Number=Plur|Person=3|Tense=Past	13	acl	_	_
@@ -18550,7 +18550,7 @@
 22	oficiais	oficial	ADJ	AQ0CP	_	21	amod	_	_
 23	sen	sen	ADP	SP	AdpType=Prep	26	case	_	_
 24	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	26	det	_	_
-25	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes	26	det	_	_
+25	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	26	det	_	_
 26	consentimento	consentimento	NOUN	NCMS000	Gender=Masc|Number=Sing	20	obl	_	_
 27	previo	previo	ADJ	AQ0MS	_	26	amod	_	SpaceAfter=No
 28	.	.	PUNCT	Fp	_	3	punct	_	_
@@ -18576,7 +18576,7 @@
 15-16	da	_	_	_	_	_	_	_	_
 15	de	de	ADP	SP	AdpType=Prep	18	case	_	_
 16	a	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
-17	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes	18	det	_	_
+17	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	18	det	_	_
 18	adicción	adicción	NOUN	NCFS000	Gender=Fem|Number=Sing	14	nmod	_	_
 19-20	á	_	_	_	_	_	_	_	_
 19	a	a	ADP	SP	AdpType=Prep	21	case	_	_
@@ -18586,7 +18586,7 @@
 23	así	así	ADV	RG	ExtPos=CCONJ	27	cc	_	_
 24	como	como	SCONJ	CS	_	23	fixed	_	_
 25	a	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	27	det	_	_
-26	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes	27	det	_	_
+26	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	27	det	_	_
 27	deterioración	deterioración	NOUN	NCFS000	Gender=Fem|Number=Sing	5	conj	_	_
 28	e	e	CCONJ	CC	_	29	cc	_	_
 29	morte	morte	NOUN	NCFS000	Gender=Fem|Number=Sing	27	conj	_	_
@@ -18744,7 +18744,7 @@
 37	aeroplano	aeroplano	NOUN	NCMS000	Gender=Masc|Number=Sing	35	obj	_	_
 38	cara	cara	ADP	SP	ExtPos=ADP	40	case	_	_
 39	a	a	ADP	SP	_	38	fixed	_	_
-40	pista	pista	NOUN	NCFS000	Gender=Fem|Number=Sing	35	obj	_	_
+40	pista	pista	NOUN	NCFS000	Gender=Fem|Number=Sing	35	obl	_	_
 41	durante	durante	ADP	SP	_	43	case	_	_
 42	unha	un	DET	DI0FS0	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	43	det	_	_
 43	aterraxe	aterraxe	NOUN	NCFS000	Gender=Fem|Number=Sing	35	obl	_	_
@@ -18907,7 +18907,7 @@
 7	Hitchcock	hitchcock	PROPN	NP00000	_	5	nmod	_	_
 8	reduciu	reducir	VERB	VMIS3S0	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
 9	a	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
-10	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes	11	det	_	_
+10	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	11	det	_	_
 11	produción	produción	NOUN	NCFS000	Gender=Fem|Number=Sing	8	obj	_	_
 12-13	nas	_	_	_	_	_	_	_	_
 12	en	en	ADP	SP	AdpType=Prep	16	case	_	_
@@ -18918,7 +18918,7 @@
 17-18	da	_	_	_	_	_	_	_	_
 17	de	de	ADP	SP	AdpType=Prep	20	case	_	_
 18	a	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_
-19	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes	20	det	_	_
+19	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	20	det	_	_
 20	vida	vida	NOUN	NCFS000	Gender=Fem|Number=Sing	16	nmod	_	SpaceAfter=No
 21	.	.	PUNCT	Fp	_	8	punct	_	_
 
@@ -18945,7 +18945,7 @@
 16-17	coas	_	_	_	_	_	_	_	_
 16	con	con	ADP	SP	AdpType=Prep	19	case	_	_
 17	as	o	DET	DA0FP0	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	19	det	_	_
-18	súas	seu	DET	DP3FP0	Definite=Def|Gender=Fem|Number=Plur|Person=3|Poss=Yes	19	det	_	_
+18	súas	seu	DET	DP3FP0	Definite=Def|Gender=Fem|Number=Plur|Person=3|Poss=Yes|PronType=Prs	19	det	_	_
 19	nais	nai	NOUN	NCFP000	Gender=Fem|Number=Plur	15	nmod	_	SpaceAfter=No
 20	.	.	PUNCT	Fp	_	5	punct	_	_
 
@@ -18963,7 +18963,7 @@
 8-9	do	_	_	_	_	_	_	_	_
 8	de	de	ADP	SP	AdpType=Prep	11	case	_	_
 9	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
-10	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes	11	det	_	_
+10	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	11	det	_	_
 11	tempo	tempo	NOUN	NCMS000	Gender=Masc|Number=Sing	7	nmod	_	SpaceAfter=No
 12	,	,	PUNCT	Fc	_	13	punct	_	_
 13	tales	tal	PRON	PI0CP0	Number=Plur|PronType=Ind	7	appos	_	_
@@ -18985,7 +18985,7 @@
 29	presentasen	presentar	VERB	VMSI3P0	Mood=Sub|Number=Plur|Person=3|Tense=Imp	27	acl	_	_
 30	fielmente	fiel	ADV	RG	_	29	advmod	_	_
 31	os	o	DET	DA0MP0	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	33	det	_	_
-32	seus	seu	DET	DP3MP0	Definite=Def|Gender=Masc|Number=Plur|Person=3|Poss=Yes	33	det	_	_
+32	seus	seu	DET	DP3MP0	Definite=Def|Gender=Masc|Number=Plur|Person=3|Poss=Yes|PronType=Prs	33	det	_	_
 33	filmes	filme	NOUN	NCMP000	Gender=Masc|Number=Plur	29	obj	_	SpaceAfter=No
 34	.	.	PUNCT	Fp	_	2	punct	_	_
 
@@ -19140,7 +19140,7 @@
 1	Winstone	winstone	PROPN	NP00000	_	2	nsubj	_	_
 2	coñeceu	coñecer	VERB	VMIS3S0	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
 3	a	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
-4	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes	5	det	_	_
+4	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	5	det	_	_
 5	muller	muller	NOUN	NCFS000	Gender=Fem|Number=Sing	2	obj	_	SpaceAfter=No
 6	,	,	PUNCT	Fc	_	7	punct	_	_
 7	Elaine	elaine	PROPN	NP00000	_	5	appos	_	SpaceAfter=No
@@ -19276,7 +19276,7 @@
 2	todo	todo	PRON	PI0MS0	Gender=Masc|Number=Sing|PronType=Ind	1	fixed	_	SpaceAfter=No
 3	,	,	PUNCT	Fc	_	1	punct	_	_
 4	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
-5	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes	6	det	_	_
+5	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	det	_	_
 6	rival	rival	NOUN	NCMS000	_	10	nsubj	_	_
 7	Prabowo	prabowo	PROPN	NP00000	_	6	appos	_	_
 8	Subianto	subianto	PROPN	NP00000	_	7	flat:name	_	_
@@ -19340,7 +19340,7 @@
 # parallel_id = pud/w01114053
 # text = A súa biografía oficial tamén afirma que Kim compuxo seis óperas e que lle gusta montar musicais complexos.
 1	A	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
-2	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes	3	det	_	_
+2	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	det	_	_
 3	biografía	biografía	NOUN	NCFS000	Gender=Fem|Number=Sing	6	nsubj	_	_
 4	oficial	oficial	ADJ	AQ0CS	_	3	amod	_	_
 5	tamén	tamén	ADV	RG	_	6	advmod	_	_
@@ -19444,7 +19444,7 @@
 7	que	que	PRON	PR0CN000	Gender=Neut|PronType=Rel	8	obj	_	_
 8	encontrara	encontrar	VERB	VMIM1S0	Mood=Ind|Number=Sing|Person=1|Tense=Pqp	4	acl	_	_
 9	a	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
-10	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes	11	det	_	_
+10	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	11	det	_	_
 11	irmá	irmán	NOUN	NCFS000	Gender=Fem|Number=Sing	8	nsubj	_	_
 12-13	no	_	_	_	_	_	_	_	_
 12	en	en	ADP	SP	AdpType=Prep	14	case	_	_
@@ -19571,7 +19571,7 @@
 # parallel_id = pud/w01117029
 # text = O seu último libro de non ficción trata sobre Margarida Douglas, a condesa de Lennox.
 1	O	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
-2	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes	4	det	_	_
+2	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	4	det	_	_
 3	último	último	ADJ	AQ0MS	_	4	amod	_	_
 4	libro	libro	NOUN	NCMS000	Gender=Masc|Number=Sing	8	nsubj	_	_
 5	de	de	ADP	SP	AdpType=Prep	7	case	_	_
@@ -19660,7 +19660,7 @@
 2	vez	vez	NOUN	NCFS000	Gender=Fem|Number=Sing	1	fixed	_	_
 3	completada	completar	VERB	VMP00SF	Gender=Fem|Number=Sing|VerbForm=Part	9	advcl	_	_
 4	a	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
-5	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes	6	det	_	_
+5	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	det	_	_
 6	aparencia	aparencia	NOUN	NCFS000	Gender=Fem|Number=Sing	3	nsubj	_	SpaceAfter=No
 7	,	,	PUNCT	Fc	_	3	punct	_	_
 8	Jasmine	jasmine	PROPN	NP00000	_	9	nsubj	_	_
@@ -19739,7 +19739,7 @@
 10-11	da	_	_	_	_	_	_	_	_
 10	de	de	ADP	SP	AdpType=Prep	13	case	_	_
 11	a	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
-12	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes	13	det	_	_
+12	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	13	det	_	_
 13	resistencia	resistencia	NOUN	NCFS000	Gender=Fem|Number=Sing	8	nmod	_	_
 14-15	no	_	_	_	_	_	_	_	_
 14	en	en	ADP	SP	AdpType=Prep	16	case	_	_
@@ -19751,7 +19751,7 @@
 20-21	do	_	_	_	_	_	_	_	_
 20	de	de	ADP	SP	AdpType=Prep	23	case	_	_
 21	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
-22	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes	23	det	_	_
+22	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	23	det	_	_
 23	traballo	traballo	NOUN	NCMS000	Gender=Masc|Number=Sing	13	conj	_	_
 24	humanitario	humanitario	ADJ	AQ0MS	_	23	amod	_	_
 25	ata	ata	ADP	SP	AdpType=Prep	26	case	_	_
@@ -19827,12 +19827,12 @@
 6-7	da	_	_	_	_	_	_	_	_
 6	de	de	ADP	SP	AdpType=Prep	9	case	_	_
 7	a	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
-8	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes	9	det	_	_
+8	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	9	det	_	_
 9	carreira	carreira	NOUN	NCFS000	Gender=Fem|Number=Sing	5	nmod	_	_
 10-11	no	_	_	_	_	_	_	_	_
 10	en	en	ADP	SP	AdpType=Prep	13	case	_	_
 11	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
-12	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes	13	det	_	_
+12	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	13	det	_	_
 13	país	país	NOUN	NCMS000	Gender=Masc|Number=Sing	9	nmod	_	SpaceAfter=No
 14	,	,	PUNCT	Fc	_	15	punct	_	_
 15	Australia	australia	PROPN	NP00000	_	13	appos	_	SpaceAfter=No
@@ -19868,7 +19868,7 @@
 2	de	de	ADP	SP	AdpType=Prep	1	fixed	_	_
 3	que	que	SCONJ	CS	_	1	fixed	_	_
 4	os	o	DET	DA0MP0	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
-5	seus	seu	DET	DP3MP0	Definite=Def|Gender=Masc|Number=Plur|Person=3|Poss=Yes	6	det	_	_
+5	seus	seu	DET	DP3MP0	Definite=Def|Gender=Masc|Number=Plur|Person=3|Poss=Yes|PronType=Prs	6	det	_	_
 6	avances	avance	NOUN	NCMP000	Gender=Masc|Number=Plur	8	nsubj	_	_
 7	se	se	PRON	PP3CN000	Gender=Com|Person=3|PronType=Prs	8	expl	_	_
 8	detivesen	deter	VERB	VMIM3P0	Mood=Ind|Number=Plur|Person=3|Tense=Pqp	25	advcl	_	_
@@ -19976,7 +19976,7 @@
 19	decidiu	decidir	VERB	VMIS3S0	Mood=Ind|Number=Sing|Person=3|Tense=Past	1	advcl	_	_
 20	que	que	SCONJ	CS	_	25	mark	_	_
 21	a	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	23	det	_	_
-22	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes	23	det	_	_
+22	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	23	det	_	_
 23	candidatura	candidatura	NOUN	NCFS000	Gender=Fem|Number=Sing	25	nsubj	_	_
 24	era	ser	AUX	VSII1S0	Mood=Ind|Number=Sing|Person=1|Tense=Imp	25	cop	_	_
 25	nula	nulo	ADJ	AQ0FS	_	19	ccomp	_	_
@@ -20033,7 +20033,7 @@
 9	,	,	PUNCT	Fc	_	15	punct	_	_
 10	mais	mais	CCONJ	CC	_	15	cc	_	_
 11	os	o	DET	DA0MP0	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
-12	seus	seu	DET	DP3MP0	Definite=Def|Gender=Masc|Number=Plur|Person=3|Poss=Yes	13	det	_	_
+12	seus	seu	DET	DP3MP0	Definite=Def|Gender=Masc|Number=Plur|Person=3|Poss=Yes|PronType=Prs	13	det	_	_
 13	irmáns	irmán	NOUN	NCMP000	Gender=Masc|Number=Plur	15	nsubj	_	_
 14	non	non	ADV	RN	Polarity=Neg	15	advmod	_	_
 15	compartían	compartir	VERB	VMII3P0	Mood=Ind|Number=Plur|Person=3|Tense=Imp	4	conj	_	_
@@ -20068,7 +20068,7 @@
 4	se	se	PRON	PP3CN000	Gender=Com|Person=3|PronType=Prs	3	expl	_	_
 5	que	que	SCONJ	CS	_	22	mark	_	_
 6	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
-7	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes	8	det	_	_
+7	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	8	det	_	_
 8	irmán	irmán	NOUN	NCMS000	Gender=Masc|Number=Sing	22	nsubj	_	SpaceAfter=No
 9	,	,	PUNCT	Fc	_	11	punct	_	_
 10	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
@@ -20104,7 +20104,7 @@
 # parallel_id = pud/w01127071
 # text = O seu álbum Wild West, de 1981, foi un dos seus maiores éxitos de vendas.
 1	O	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
-2	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes	3	det	_	_
+2	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	det	_	_
 3	álbum	álbum	NOUN	NCMS000	Gender=Masc|Number=Sing	11	nsubj	_	_
 4	Wild	wild	PROPN	NP00000	_	3	appos	_	_
 5	West	west	PROPN	NP00000	_	4	flat:name	_	SpaceAfter=No
@@ -20117,7 +20117,7 @@
 12-13	dos	_	_	_	_	_	_	_	_
 12	de	de	ADP	SP	AdpType=Prep	16	case	_	_
 13	os	o	DET	DA0MP0	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	16	det	_	_
-14	seus	seu	DET	DP3MP0	Definite=Def|Gender=Masc|Number=Plur|Person=3|Poss=Yes	16	det	_	_
+14	seus	seu	DET	DP3MP0	Definite=Def|Gender=Masc|Number=Plur|Person=3|Poss=Yes|PronType=Prs	16	det	_	_
 15	maiores	maior	ADJ	AQ0CP	_	16	amod	_	_
 16	éxitos	éxito	NOUN	NCMP000	Gender=Masc|Number=Plur	11	nmod	_	_
 17	de	de	ADP	SP	AdpType=Prep	18	case	_	_
@@ -20144,7 +20144,7 @@
 15-16	dos	_	_	_	_	_	_	_	_
 15	de	de	ADP	SP	AdpType=Prep	18	case	_	_
 16	os	o	DET	DA0MP0	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	18	det	_	_
-17	seus	seu	DET	DP3MP0	Definite=Def|Gender=Masc|Number=Plur|Person=3|Poss=Yes	18	det	_	_
+17	seus	seu	DET	DP3MP0	Definite=Def|Gender=Masc|Number=Plur|Person=3|Poss=Yes|PronType=Prs	18	det	_	_
 18	investidores	investidor	NOUN	NCMP000	Gender=Masc|Number=Plur	14	nmod	_	_
 19-20	deixárana	_	_	_	_	_	_	_	_
 19	deixaran	deixar	VERB	VMIM3P0	Mood=Ind|Number=Plur|Person=3|Tense=Pqp	0	root	_	_
@@ -20234,7 +20234,7 @@
 7-8	do	_	_	_	_	_	_	_	_
 7	de	de	ADP	SP	AdpType=Prep	10	case	_	_
 8	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
-9	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes	10	det	_	_
+9	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	10	det	_	_
 10	pai	pai	NOUN	NCMS000	Gender=Masc|Number=Sing	6	nmod	_	_
 11	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
 12	día	día	NOUN	NCMS000	Gender=Masc|Number=Sing	3	obl	_	_
@@ -20350,7 +20350,7 @@
 13-14	co	_	_	_	_	_	_	_	_
 13	con	con	ADP	SP	AdpType=Prep	16	case	_	_
 14	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
-15	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes	16	det	_	_
+15	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	16	det	_	_
 16	compañeiro	compañeiro	NOUN	NCMS000	Gender=Masc|Number=Sing	11	obl	_	_
 17-18	dos	_	_	_	_	_	_	_	_
 17	de	de	ADP	SP	AdpType=Prep	19	case	_	_
@@ -20420,7 +20420,7 @@
 18-19	das	_	_	_	_	_	_	_	_
 18	de	de	ADP	SP	AdpType=Prep	21	case	_	_
 19	as	o	DET	DA0FP0	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	21	det	_	_
-20	súas	seu	DET	DP3FP0	Definite=Def|Gender=Fem|Number=Plur|Person=3|Poss=Yes	21	det	_	_
+20	súas	seu	DET	DP3FP0	Definite=Def|Gender=Fem|Number=Plur|Person=3|Poss=Yes|PronType=Prs	21	det	_	_
 21	cancións	canción	NOUN	NCFP000	Gender=Fem|Number=Plur	17	nmod	_	_
 22	con	con	ADP	SP	AdpType=Prep	23	case	_	_
 23	The	the	PROPN	NP00000	_	17	nmod	_	_
@@ -20488,7 +20488,7 @@
 6	Abakumov	abakumov	PROPN	NP00000	_	4	obj	_	_
 7	a	a	ADP	SP	AdpType=Prep	8	case	_	_
 8	formar	formar	VERB	VMN0000	VerbForm=Inf	4	xcomp	_	_
-9	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes	11	det	_	_
+9	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	11	det	_	_
 10	propia	propio	DET	DI0FS0	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
 11	rede	rede	NOUN	NCFS000	Gender=Fem|Number=Sing	8	obj	_	_
 12	dentro	dentro	ADV	RG	_	15	advmod	_	_
@@ -20715,7 +20715,7 @@
 4-5	da	_	_	_	_	_	_	_	_
 4	de	de	ADP	SP	AdpType=Prep	7	case	_	_
 5	a	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
-6	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes	7	det	_	_
+6	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	7	det	_	_
 7	avoa	avó	NOUN	NCFS000	Gender=Fem|Number=Sing	3	nmod	_	SpaceAfter=No
 8	,	,	PUNCT	Fc	_	12	punct	_	_
 9	Mishima	mishima	PROPN	NP00000	_	12	nsubj	_	_
@@ -20745,7 +20745,7 @@
 12	non	non	ADV	RN	Polarity=Neg	13	advmod	_	_
 13	interrompeu	interromper	VERB	VMIS3S0	Mood=Ind|Number=Sing|Person=3|Tense=Past	5	conj	_	_
 14	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
-15	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes	16	det	_	_
+15	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	16	det	_	_
 16	réxime	réxime	NOUN	NCMS000	Gender=Masc|Number=Sing	13	obj	_	_
 17	de	de	ADP	SP	AdpType=Prep	18	case	_	_
 18	exercicios	exercicio	NOUN	NCMP000	Gender=Masc|Number=Plur	16	nmod	_	_
@@ -20763,7 +20763,7 @@
 29-30	da	_	_	_	_	_	_	_	_
 29	de	de	ADP	SP	AdpType=Prep	32	case	_	_
 30	a	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	32	det	_	_
-31	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes	32	det	_	_
+31	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	32	det	_	_
 32	vida	vida	NOUN	NCFS000	Gender=Fem|Number=Sing	28	nmod	_	SpaceAfter=No
 33	.	.	PUNCT	Fp	_	5	punct	_	_
 
@@ -20786,7 +20786,7 @@
 13-14	da	_	_	_	_	_	_	_	_
 13	de	de	ADP	SP	AdpType=Prep	16	case	_	_
 14	a	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
-15	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes	16	det	_	_
+15	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	16	det	_	_
 16	vida	vida	NOUN	NCFS000	Gender=Fem|Number=Sing	12	nmod	_	SpaceAfter=No
 17	.	.	PUNCT	Fp	_	2	punct	_	_
 
@@ -20979,7 +20979,7 @@
 8-9	á	_	_	_	_	_	_	_	_
 8	a	a	ADP	SP	AdpType=Prep	11	case	_	_
 9	a	o	DET	DA0FP0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
-10	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes	11	det	_	_
+10	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	11	det	_	_
 11	esposa	esposo	NOUN	NCFS000	Gender=Fem|Number=Sing	6	obl	_	SpaceAfter=No
 12	,	,	PUNCT	Fc	_	13	punct	_	_
 13	Norma	norma	PROPN	NP00000	_	11	appos	_	_
@@ -21203,12 +21203,12 @@
 20	entender	entender	VERB	VMN0000	VerbForm=Inf	16	xcomp	_	_
 21	como	como	SCONJ	CS	_	26	mark	_	_
 22	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	24	det	_	_
-23	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes	24	det	_	_
+23	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	24	det	_	_
 24	laboratorio	laboratorio	NOUN	NCMS000	Gender=Masc|Number=Sing	26	nsubj	_	_
 25	podería	poder	AUX	VMIC3S0	Mood=Cnd,Ind|Number=Sing|Person=3	26	aux	_	_
 26	facer	facer	VERB	VMN0000	VerbForm=Inf	20	ccomp	_	_
 27	as	o	DET	DA0FP0	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	30	det	_	_
-28	súas	seu	DET	DP3FP0	Definite=Def|Gender=Fem|Number=Plur|Person=3|Poss=Yes	30	det	_	_
+28	súas	seu	DET	DP3FP0	Definite=Def|Gender=Fem|Number=Plur|Person=3|Poss=Yes|PronType=Prs	30	det	_	_
 29	propias	propio	DET	DI0FP0	Definite=Ind|Gender=Fem|Number=Plur|PronType=Art	30	det	_	_
 30	mostras	mostra	NOUN	NCFP000	Gender=Fem|Number=Plur	26	obj	_	_
 31	de	de	ADP	SP	AdpType=Prep	32	case	_	_
@@ -21288,7 +21288,7 @@
 11-12	cos	_	_	_	_	_	_	_	_
 11	con	con	ADP	SP	AdpType=Prep	14	case	_	_
 12	os	o	DET	DA0MP0	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	14	det	_	_
-13	seus	seu	DET	DP3MP0	Definite=Def|Gender=Masc|Number=Plur|Person=3|Poss=Yes	14	det	_	_
+13	seus	seu	DET	DP3MP0	Definite=Def|Gender=Masc|Number=Plur|Person=3|Poss=Yes|PronType=Prs	14	det	_	_
 14	coñecementos	coñecemento	NOUN	NCMP000	Gender=Masc|Number=Plur	10	obl	_	_
 15	e	e	CCONJ	CC	_	18	cc	_	_
 16	un	un	DET	DI0MS0	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
@@ -21398,7 +21398,7 @@
 # text = Cando a súa filla Cecilia casou con Ricardo Plantagenet, o terceiro duque de York, e tivo varios fillos, incluíndo a Eduardo IV e Ricardo III, Xoana pasou a ser a avoa de dous reis ingleses de York.
 1	Cando	cando	ADV	RG	_	6	advmod	_	_
 2	a	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
-3	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes	4	det	_	_
+3	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	4	det	_	_
 4	filla	fillo	NOUN	NCFS000	Gender=Fem|Number=Sing	6	nsubj	_	_
 5	Cecilia	cecilia	PROPN	NP00000	_	4	appos	_	_
 6	casou	casar	VERB	VMIS3S0	Mood=Ind|Number=Sing|Person=3|Tense=Past	31	advcl	_	_
@@ -21460,7 +21460,7 @@
 5	e	e	CCONJ	CC	_	6	cc	_	_
 6	meteron	meter	VERB	VMIS3P0	Mood=Ind|Number=Plur|Person=3|Tense=Past	1	conj	_	_
 7	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
-8	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes	9	det	_	_
+8	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	9	det	_	_
 9	seguidor	seguidor	NOUN	NCMS000	Gender=Masc|Number=Sing	6	obj	_	_
 10-11	na	_	_	_	_	_	_	_	_
 10	en	en	ADP	SP	AdpType=Prep	12	case	_	_
@@ -21699,7 +21699,7 @@
 11-12	do	_	_	_	_	_	_	_	_
 11	de	de	ADP	SP	AdpType=Prep	14	case	_	_
 12	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
-13	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes	14	det	_	_
+13	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	14	det	_	_
 14	marxismo	marxismo	NOUN	NCMS000	Gender=Masc|Number=Sing	9	nmod	_	_
 15	e	e	CCONJ	CC	_	16	cc	_	_
 16	salienta	salientar	VERB	VMIP3S0	Mood=Ind|Number=Sing|Person=3|Tense=Pres	3	conj	_	_
@@ -21736,7 +21736,7 @@
 15-16	do	_	_	_	_	_	_	_	_
 15	de	de	ADP	SP	AdpType=Prep	19	case	_	_
 16	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
-17	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes	19	det	_	_
+17	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	19	det	_	_
 18	futuro	futuro	ADJ	AQ0MS	_	19	amod	_	_
 19	propósito	propósito	NOUN	NCMS000	Gender=Masc|Number=Sing	14	nmod	_	SpaceAfter=No
 20	.	.	PUNCT	Fp	_	11	punct	_	_
@@ -21824,7 +21824,7 @@
 9	información	información	NOUN	NCFS000	Gender=Fem|Number=Sing	7	obj	_	_
 10	sobre	sobre	ADP	SP	AdpType=Prep	14	case	_	_
 11	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
-12	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes	14	det	_	_
+12	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	14	det	_	_
 13	terceiro	terceiro	NUM	Z	NumType=Ord	14	nummod	_	_
 14	álbum	álbum	NOUN	NCMS000	Gender=Masc|Number=Sing	9	nmod	_	_
 15	de	de	ADP	SP	AdpType=Prep	16	case	_	_
@@ -21927,7 +21927,7 @@
 13-14	nas	_	_	_	_	_	_	_	_
 13	en	en	ADP	SP	AdpType=Prep	16	case	_	_
 14	as	o	DET	DA0FP0	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	16	det	_	_
-15	súas	seu	DET	DP3FP0	Definite=Def|Gender=Fem|Number=Plur|Person=3|Poss=Yes	16	det	_	_
+15	súas	seu	DET	DP3FP0	Definite=Def|Gender=Fem|Number=Plur|Person=3|Poss=Yes|PronType=Prs	16	det	_	_
 16	películas	película	NOUN	NCFP000	Gender=Fem|Number=Plur	11	obl	_	_
 17	"	"	PUNCT	Fe	_	18	punct	_	SpaceAfter=No
 18	Hitchhiker's	Hitchhiker's	X	_	Foreign=Yes	16	appos	_	_
@@ -22002,7 +22002,7 @@
 1-2	No	_	_	_	_	_	_	_	_
 1	En	en	ADP	SP	AdpType=Prep	4	case	_	_
 2	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
-3	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes	4	det	_	_
+3	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	4	det	_	_
 4	lugar	lugar	NOUN	NCMS000	Gender=Masc|Number=Sing	6	obl	_	SpaceAfter=No
 5	,	,	PUNCT	Fc	_	6	punct	_	_
 6	decidiron	decidir	VERB	VMIS3P0	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	_
@@ -22039,7 +22039,7 @@
 12	Macedonia	macedonia	PROPN	NP00000	_	10	nmod	_	_
 13	e	e	CCONJ	CC	_	16	cc	_	_
 14	a	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
-15	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes	16	det	_	_
+15	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	16	det	_	_
 16	conexión	conexión	NOUN	NCFS000	Gender=Fem|Number=Sing	10	conj	_	_
 17	territorial	territorial	ADJ	AQ0CS	_	16	amod	_	_
 18	con	con	ADP	SP	AdpType=Prep	19	case	_	_
@@ -22058,7 +22058,7 @@
 30	que	que	SCONJ	CS	_	31	mark	_	_
 31	mudar	mudar	VERB	VMN0000	VerbForm=Inf	24	ccomp	_	_
 32	a	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	34	det	_	_
-33	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes	34	det	_	_
+33	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	34	det	_	_
 34	decisión	decisión	NOUN	NCFS000	Gender=Fem|Number=Sing	31	obj	_	SpaceAfter=No
 35	.	.	PUNCT	Fp	_	24	punct	_	_
 
@@ -22092,7 +22092,7 @@
 24-25	da	_	_	_	_	_	_	_	_
 24	de	de	ADP	SP	AdpType=Prep	27	case	_	_
 25	a	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	27	det	_	_
-26	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes	27	det	_	_
+26	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	27	det	_	_
 27	constitución	constitución	NOUN	NCFS000	Gender=Fem|Number=Sing	23	obl	_	_
 28	étnica	étnico	ADJ	AQ0FS	_	27	amod	_	SpaceAfter=No
 29	,	,	PUNCT	Fc	_	31	punct	_	_
@@ -22117,7 +22117,7 @@
 47-48	ás	_	_	_	_	_	_	_	_
 47	a	a	ADP	SP	AdpType=Prep	50	case	_	_
 48	as	o	DET	DA0FP0	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	50	det	_	_
-49	súas	seu	DET	DP3FP0	Definite=Def|Gender=Fem|Number=Plur|Person=3|Poss=Yes	50	det	_	_
+49	súas	seu	DET	DP3FP0	Definite=Def|Gender=Fem|Number=Plur|Person=3|Poss=Yes|PronType=Prs	50	det	_	_
 50	rexións	rexión	NOUN	NCFP000	Gender=Fem|Number=Plur	42	obl	_	_
 51	centrais	central	ADJ	AQ0CP	_	50	amod	_	SpaceAfter=No
 52	.	.	PUNCT	Fp	_	14	punct	_	_
@@ -22451,7 +22451,7 @@
 25	que	que	SCONJ	CS	_	26	mark	_	_
 26	retirar	retirar	VERB	VMN0000	VerbForm=Inf	3	parataxis	_	_
 27	as	o	DET	DA0FP0	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	29	det	_	_
-28	súas	seu	DET	DP3FP0	Definite=Def|Gender=Fem|Number=Plur|Person=3|Poss=Yes	29	det	_	_
+28	súas	seu	DET	DP3FP0	Definite=Def|Gender=Fem|Number=Plur|Person=3|Poss=Yes|PronType=Prs	29	det	_	_
 29	tropas	tropa	NOUN	NCFP000	Gender=Fem|Number=Plur	26	obj	_	_
 30-31	dos	_	_	_	_	_	_	_	_
 30	de	de	ADP	SP	AdpType=Prep	32	case	_	_
@@ -22600,7 +22600,7 @@
 12	inmobiliaria	inmobiliario	ADJ	AQ0FS	_	11	amod	_	_
 13	sobre	sobre	ADP	SP	AdpType=Prep	17	case	_	_
 14	os	o	DET	DA0MP0	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	17	det	_	_
-15	seus	seu	DET	DP3MP0	Definite=Def|Gender=Masc|Number=Plur|Person=3|Poss=Yes	17	det	_	_
+15	seus	seu	DET	DP3MP0	Definite=Def|Gender=Masc|Number=Plur|Person=3|Poss=Yes|PronType=Prs	17	det	_	_
 16	dubidosos	dubidoso	ADJ	AQ0MP	_	17	amod	_	_
 17	fluxos	fluxo	NOUN	NCMP000	Gender=Masc|Number=Plur	8	obl	_	_
 18	de	de	ADP	SP	AdpType=Prep	19	case	_	_
@@ -22903,7 +22903,7 @@
 2-3	co	_	_	_	_	_	_	_	_
 2	con	con	ADP	SP	AdpType=Prep	5	case	_	_
 3	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
-4	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes	5	det	_	_
+4	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	5	det	_	_
 5	espertador	espertador	NOUN	NCMS000	Gender=Masc|Number=Sing	1	obl	_	SpaceAfter=No
 6	?	?	PUNCT	Fit	_	1	punct	_	_
 
@@ -22977,7 +22977,7 @@
 6-7	á	_	_	_	_	_	_	_	_
 6	a	a	ADP	SP	AdpType=Prep	9	case	_	_
 7	a	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
-8	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes	9	det	_	_
+8	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	9	det	_	_
 9	maneira	maneira	NOUN	NCFS000	Gender=Fem|Number=Sing	3	obl	_	_
 10	incomparablemente	incomparable	ADV	RG	_	11	advmod	_	_
 11	estúpida	estúpido	ADJ	AQ0FS	_	9	amod	_	SpaceAfter=No
@@ -23181,7 +23181,7 @@
 28	2001	2001	NUM	Z	NumType=Card	26	nmod	_	SpaceAfter=No
 29	,	,	PUNCT	Fc	_	33	punct	_	_
 30	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	33	det	_	_
-31	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes	33	det	_	_
+31	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	33	det	_	_
 32	último	último	ADJ	AQ0MS	_	33	amod	_	_
 33	día	día	NOUN	NCMS000	Gender=Masc|Number=Sing	24	appos	_	_
 34-35	na	_	_	_	_	_	_	_	_
@@ -23234,7 +23234,7 @@
 18-19	polas	_	_	_	_	_	_	_	_
 18	por	por	ADP	SP	AdpType=Prep	21	case	_	_
 19	as	o	DET	DA0FP0	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	21	det	_	_
-20	súas	seu	DET	DP3FP0	Definite=Def|Gender=Fem|Number=Plur|Person=3|Poss=Yes	21	det	_	_
+20	súas	seu	DET	DP3FP0	Definite=Def|Gender=Fem|Number=Plur|Person=3|Poss=Yes|PronType=Prs	21	det	_	_
 21	siglas	sigla	NOUN	NCFP000	Gender=Fem|Number=Plur	16	nmod	_	_
 22	en	en	ADP	SP	AdpType=Prep	23	case	_	_
 23	inglés	inglés	NOUN	NCMS000	Gender=Masc|Number=Sing	21	nmod	_	SpaceAfter=No
@@ -23510,7 +23510,7 @@
 3	,	,	PUNCT	Fc	_	9	punct	_	_
 4	se	se	SCONJ	CS	_	9	mark	_	_
 5	a	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
-6	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes	7	det	_	_
+6	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	7	det	_	_
 7	adversaria	adversario	NOUN	NCFS000	Gender=Fem|Number=Sing	9	nsubj	_	_
 8	demócrata	demócrata	ADJ	AQ0CS	_	7	amod	_	_
 9	resultase	resultar	VERB	VMSI3S0	Mood=Sub|Number=Sing|Person=3|Tense=Imp	1	advcl	_	_
@@ -23595,7 +23595,7 @@
 15-16	da	_	_	_	_	_	_	_	_
 15	de	de	ADP	SP	AdpType=Prep	18	case	_	_
 16	a	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
-17	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes	18	det	_	_
+17	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	18	det	_	_
 18	historia	historia	NOUN	NCFS000	Gender=Fem|Number=Sing	13	nmod	_	SpaceAfter=No
 19	.	.	PUNCT	Fp	_	10	punct	_	_
 
@@ -23759,7 +23759,7 @@
 1-2	Na	_	_	_	_	_	_	_	_
 1	En	en	ADP	SP	AdpType=Prep	4	case	_	_
 2	a	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
-3	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes	4	det	_	_
+3	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	4	det	_	_
 4	mensaxe	mensaxe	NOUN	NCFS000	Gender=Fem|Number=Sing	11	obl	_	SpaceAfter=No
 5	,	,	PUNCT	Fc	_	4	punct	_	_
 6	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
@@ -23853,7 +23853,7 @@
 10-11	nas	_	_	_	_	_	_	_	_
 10	en	en	ADP	SP	AdpType=Prep	13	case	_	_
 11	as	o	DET	DA0FP0	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	13	det	_	_
-12	súas	seu	DET	DP3FP0	Definite=Def|Gender=Fem|Number=Plur|Person=3|Poss=Yes	13	det	_	_
+12	súas	seu	DET	DP3FP0	Definite=Def|Gender=Fem|Number=Plur|Person=3|Poss=Yes|PronType=Prs	13	det	_	_
 13	mesas	mesa	NOUN	NCFP000	Gender=Fem|Number=Plur	7	obl	_	SpaceAfter=No
 14	?	?	PUNCT	Fit	_	2	punct	_	_
 
@@ -23870,7 +23870,7 @@
 8	se	se	PRON	PP3CN000	Gender=Com|Person=3|PronType=Prs	9	expl	_	_
 9	incluísen	incluír	VERB	VMSI3P0	Mood=Sub|Number=Plur|Person=3|Tense=Imp	5	ccomp	_	_
 10	as	o	DET	DA0FP0	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	12	det	_	_
-11	súas	seu	DET	DP3FP0	Definite=Def|Gender=Fem|Number=Plur|Person=3|Poss=Yes	12	det	_	_
+11	súas	seu	DET	DP3FP0	Definite=Def|Gender=Fem|Number=Plur|Person=3|Poss=Yes|PronType=Prs	12	det	_	_
 12	observacións	observación	NOUN	NCFP000	Gender=Fem|Number=Plur	9	nsubj	_	_
 13	sobre	sobre	ADP	SP	AdpType=Prep	15	case	_	_
 14	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
@@ -24177,7 +24177,7 @@
 26-27	do	_	_	_	_	_	_	_	_
 26	de	de	ADP	SP	AdpType=Prep	29	case	_	_
 27	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	29	det	_	_
-28	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes	29	det	_	_
+28	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	29	det	_	_
 29	pai	pai	NOUN	NCMS000	Gender=Masc|Number=Sing	25	nmod	_	SpaceAfter=No
 30	,	,	PUNCT	Fc	_	31	punct	_	_
 31	militante	militante	NOUN	NCMS000	Gender=Masc|Number=Sing	29	appos	_	_
@@ -24335,7 +24335,7 @@
 8-9	no	_	_	_	_	_	_	_	_
 8	en	en	ADP	SP	AdpType=Prep	11	case	_	_
 9	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
-10	teu	teu	DET	DP2MSS	Gender=Masc|Number=Sing|Number[psor]=Sing|Poss=Yes	11	det	_	_
+10	teu	teu	DET	DP2MSS	Gender=Masc|Number=Sing|Number[psor]=Sing|Poss=Yes|PronType=Prs	11	det	_	_
 11	móbil	móbil	NOUN	NCMS000	Gender=Masc|Number=Sing	7	obl	_	_
 12	ou	ou	CCONJ	CC	_	13	cc	_	_
 13	presentar	presentar	VERB	VMN0000	VerbForm=Inf	7	conj	_	_
@@ -24447,7 +24447,7 @@
 16	nos	nos	PRON	PP1CP000	Gender=Com|Number=Plur|Person=1|PronType=Prs	15	iobj	_	_
 17	que	que	SCONJ	CS	_	21	mark	_	_
 18	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
-19	noso	noso	DET	DP1MSP	Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes	20	det	_	_
+19	noso	noso	DET	DP1MSP	Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	20	det	_	_
 20	diésel	diésel	NOUN	NCMS000	Gender=Masc|Number=Sing	21	nsubj	_	_
 21	custa	custar	VERB	VMIP3S0	Mood=Ind|Number=Sing|Person=3|Tense=Pres	15	ccomp	_	_
 22	1,335	1,335	NUM	Z	NumType=Card	23	nummod	_	_
@@ -24641,7 +24641,7 @@
 11	Zuckerberg	zuckerberg	PROPN	NP00000	_	10	flat:name	_	_
 12	e	e	CCONJ	CC	_	15	cc	_	_
 13	a	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
-14	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes	15	det	_	_
+14	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	15	det	_	_
 15	muller	muller	NOUN	NCFS000	Gender=Fem|Number=Sing	10	conj	_	_
 16-17	na	_	_	_	_	_	_	_	_
 16	en	en	ADP	SP	AdpType=Prep	18	case	_	_
@@ -24923,7 +24923,7 @@
 # parallel_id = pud/n05002015
 # text = A súa xestión, con todo, non estivo exenta de críticas.
 1	A	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
-2	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes	3	det	_	_
+2	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	det	_	_
 3	xestión	xestión	NOUN	NCFS000	Gender=Fem|Number=Sing	10	nsubj	_	SpaceAfter=No
 4	,	,	PUNCT	Fc	_	5	punct	_	_
 5	con	con	ADP	SP	AdpType=Prep|ExtPos=ADV	10	advmod	_	_
@@ -25121,7 +25121,7 @@
 5	as	o	DET	DA0FP0	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
 6	partes	parte	NOUN	NCFP000	Gender=Fem|Number=Plur	3	obl	_	_
 7	en	en	ADP	SP	AdpType=Prep	8	case	_	_
-8	que	que	PRON	PI0CN000	_	6	nmod	_	SpaceAfter=No
+8	que	que	PRON	PR0CN000	Gender=Neut|PronType=Rel	6	nmod	_	SpaceAfter=No
 9	,	,	PUNCT	Fc	_	11	punct	_	_
 10	en	en	ADP	SP	AdpType=Prep	11	case	_	_
 11	dereitos	dereito	NOUN	NCMP000	Gender=Masc|Number=Plur	3	obl	_	_
@@ -25285,7 +25285,7 @@
 7	bágoas	bágoa	NOUN	NCFP000	Gender=Fem|Number=Plur	5	nmod	_	_
 8	nubra	nubrar	VERB	VMIP3S0	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
 9	as	o	DET	DA0FP0	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	11	det	_	_
-10	súas	seu	DET	DP3FP0	Definite=Def|Gender=Fem|Number=Plur|Person=3|Poss=Yes	11	det	_	_
+10	súas	seu	DET	DP3FP0	Definite=Def|Gender=Fem|Number=Plur|Person=3|Poss=Yes|PronType=Prs	11	det	_	_
 11	pupilas	pupila	NOUN	NCFP000	Gender=Fem|Number=Plur	8	obj	_	_
 12	mentres	mentres	SCONJ	CS	_	18	mark	_	_
 13	a	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
@@ -25296,12 +25296,12 @@
 17	tempo	tempo	NOUN	NCMS000	Gender=Masc|Number=Sing	14	nmod	_	_
 18	desenterra	desenterrar	VERB	VMIP3S0	Mood=Ind|Number=Sing|Person=3|Tense=Pres	8	advcl	_	_
 19	a	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	_	_
-20	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes	21	det	_	_
+20	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	21	det	_	_
 21	colleita	colleita	NOUN	NCFS000	Gender=Fem|Number=Sing	18	obj	_	_
 22	e	e	CCONJ	CC	_	23	cc	_	_
 23	entrega	entregar	VERB	VMIP3S0	Mood=Ind|Number=Sing|Person=3|Tense=Pres	18	conj	_	_
 24	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	26	det	_	_
-25	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes	26	det	_	_
+25	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	26	det	_	_
 26	misterio	misterio	NOUN	NCMS000	Gender=Masc|Number=Sing	23	obj	_	_
 27-28	ás	_	_	_	_	_	_	_	_
 27	a	a	ADP	SP	AdpType=Prep	29	case	_	_
@@ -25716,7 +25716,7 @@
 6	Obermarsberg	obermarsberg	PROPN	NP00000	_	3	nmod	_	_
 7	ten	ter	VERB	VMIP3S0	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
 8	a	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
-9	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes	10	det	_	_
+9	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	10	det	_	_
 10	orixe	orixe	NOUN	NCFS000	Gender=Fem|Number=Sing	7	obj	_	_
 11-12	no	_	_	_	_	_	_	_	_
 11	en	en	ADP	SP	AdpType=Prep	13	case	_	_
@@ -25932,7 +25932,7 @@
 16-17	do	_	_	_	_	_	_	_	_
 16	de	de	ADP	SP	AdpType=Prep	19	case	_	_
 17	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
-18	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes	19	det	_	_
+18	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	19	det	_	_
 19	goberno	goberno	NOUN	NCMS000	Gender=Masc|Number=Sing	15	nmod	_	_
 20	de	de	ADP	SP	AdpType=Prep	21	case	_	_
 21	liberar	liberar	VERB	VMN0000	VerbForm=Inf	15	acl	_	_
@@ -25996,7 +25996,7 @@
 13	de	de	ADP	SP	AdpType=Prep	14	case	_	_
 14	manter	manter	VERB	VMN0000	VerbForm=Inf	12	acl	_	_
 15	a	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
-16	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes	17	det	_	_
+16	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	17	det	_	_
 17	frota	frota	NOUN	NCFS000	Gender=Fem|Number=Sing	14	obj	_	_
 18	de	de	ADP	SP	AdpType=Prep	19	case	_	_
 19	guerra	guerra	NOUN	NCFS000	Gender=Fem|Number=Sing	17	nmod	_	_
@@ -26013,7 +26013,7 @@
 1-2	No	_	_	_	_	_	_	_	_
 1	En	en	ADP	SP	AdpType=Prep	4	case	_	_
 2	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
-3	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes	4	det	_	_
+3	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	4	det	_	_
 4	ámbito	ámbito	NOUN	NCMS000	Gender=Masc|Number=Sing	5	obl	_	_
 5	pertence	pertencer	VERB	VMIP3S0	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
 6-7	ás	_	_	_	_	_	_	_	_
@@ -26122,7 +26122,7 @@
 1	Ademais	ademais	ADV	RG	_	11	discourse	_	SpaceAfter=No
 2	,	,	PUNCT	Fc	_	11	punct	_	_
 3	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
-4	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes	5	det	_	_
+4	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	5	det	_	_
 5	proceso	proceso	NOUN	NCMS000	Gender=Masc|Number=Sing	11	nsubj	_	_
 6	de	de	ADP	SP	AdpType=Prep	7	case	_	_
 7	dourar	dourar	VERB	VMN0000	VerbForm=Inf	5	acl	_	_
@@ -26217,7 +26217,7 @@
 6	especiais	especial	ADJ	AQ0CP	_	5	amod	_	_
 7	durante	durante	ADP	SP	AdpType=Prep	10	case	_	_
 8	a	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
-9	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes	10	det	_	_
+9	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	10	det	_	_
 10	fuga	fuga	NOUN	NCFS000	Gender=Fem|Number=Sing	4	obl	_	_
 11	e	e	CCONJ	CC	_	13	cc	_	_
 12	foi	ser	AUX	VSIS3S0	Mood=Ind|Number=Sing|Person=3|Tense=Past	13	aux:pass	_	_
@@ -26226,7 +26226,7 @@
 15	veces	vez	NOUN	NCFP000	Gender=Fem|Number=Plur	13	obl	_	_
 16	durante	durante	ADP	SP	AdpType=Prep	19	case	_	_
 17	as	o	DET	DA0FP0	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	19	det	_	_
-18	súas	seu	DET	DP3FP0	Definite=Def|Gender=Fem|Number=Plur|Person=3|Poss=Yes	19	det	_	_
+18	súas	seu	DET	DP3FP0	Definite=Def|Gender=Fem|Number=Plur|Person=3|Poss=Yes|PronType=Prs	19	det	_	_
 19	estadías	estadía	NOUN	NCFP000	Gender=Fem|Number=Plur	13	obl	_	SpaceAfter=No
 20	.	.	PUNCT	Fp	_	4	punct	_	_
 
@@ -26371,7 +26371,7 @@
 18	,	,	PUNCT	Fc	_	11	punct	_	_
 19	gañaron	gañar	VERB	VMIS3P0	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	_
 20	a	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	_
-21	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes	22	det	_	_
+21	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	22	det	_	_
 22	independencia	independencia	NOUN	NCFS000	Gender=Fem|Number=Sing	19	obj	_	SpaceAfter=No
 23	.	.	PUNCT	Fp	_	19	punct	_	_
 
@@ -26382,7 +26382,7 @@
 2-3	dos	_	_	_	_	_	_	_	_
 2	de	de	ADP	SP	AdpType=Prep	6	case	_	_
 3	os	o	DET	DA0MP0	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
-4	seus	seu	DET	DP3MP0	Definite=Def|Gender=Masc|Number=Plur|Person=3|Poss=Yes	6	det	_	_
+4	seus	seu	DET	DP3MP0	Definite=Def|Gender=Masc|Number=Plur|Person=3|Poss=Yes|PronType=Prs	6	det	_	_
 5	últimos	último	ADJ	AQ0MP	_	6	amod	_	_
 6	medios	medio	NOUN	NCMP000	Gender=Masc|Number=Plur	1	nmod	_	_
 7	de	de	ADP	SP	AdpType=Prep	8	case	_	_
@@ -26420,7 +26420,7 @@
 15	en	en	ADP	SP	AdpType=Prep	16	case	_	_
 16	tratar	tratar	VERB	VMN0000	VerbForm=Inf	14	acl	_	_
 17	as	o	DET	DA0FP0	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	20	det	_	_
-18	súas	seu	DET	DP3FP0	Definite=Def|Gender=Fem|Number=Plur|Person=3|Poss=Yes	20	det	_	_
+18	súas	seu	DET	DP3FP0	Definite=Def|Gender=Fem|Number=Plur|Person=3|Poss=Yes|PronType=Prs	20	det	_	_
 19	dúas	2	NUM	Z	NumType=Card	20	nummod	_	_
 20	monarquías	monarquía	NOUN	NCFP000	Gender=Fem|Number=Plur	16	obj	_	_
 21	por	por	ADP	SP	AdpType=Prep|ExtPos=ADV	16	advmod	_	_
@@ -26535,7 +26535,7 @@
 14-15	coa	_	_	_	_	_	_	_	_
 14	con	con	ADP	SP	AdpType=Prep	17	case	_	_
 15	a	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
-16	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes	17	det	_	_
+16	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	17	det	_	_
 17	moza	mozo	NOUN	NCFS000	Gender=Fem|Number=Sing	12	obl	_	_
 18	a	a	ADP	SP	AdpType=Prep	19	case	_	_
 19	Merdingen	merdingen	PROPN	NP00000	_	12	obl	_	SpaceAfter=No
@@ -26587,7 +26587,7 @@
 25	de	de	ADP	SP	AdpType=Prep	26	case	_	_
 26	gañar	gañar	VERB	VMN0000	VerbForm=Inf	24	acl	_	_
 27	a	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	30	det	_	_
-28	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes	30	det	_	_
+28	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	30	det	_	_
 29	segunda	segundo	NUM	Z	NumType=Ord	30	nummod	_	_
 30	medalla	medalla	NOUN	NCFS000	Gender=Fem|Number=Sing	26	obj	_	_
 31	de	de	ADP	SP	AdpType=Prep	32	case	_	_
@@ -26742,7 +26742,7 @@
 20-21	da	_	_	_	_	_	_	_	_
 20	de	de	ADP	SP	AdpType=Prep	23	case	_	_
 21	a	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	23	det	_	_
-22	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes	23	det	_	_
+22	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	23	det	_	_
 23	prensa	prensa	NOUN	NCFS000	Gender=Fem|Number=Sing	18	nmod	_	_
 24	en	en	ADP	SP	AdpType=Prep	25	case	_	_
 25	relación	relación	NOUN	NCFS000	Gender=Fem|Number=Sing	23	nmod	_	_
@@ -26810,7 +26810,7 @@
 10-11	da	_	_	_	_	_	_	_	_
 10	de	de	ADP	SP	AdpType=Prep	13	case	_	_
 11	a	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
-12	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes	13	det	_	_
+12	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	13	det	_	_
 13	cidade	cidade	NOUN	NCFS000	Gender=Fem|Number=Sing	9	nmod	_	_
 14	fortificada	fortificado	ADJ	AQ0FS	_	13	amod	_	SpaceAfter=No
 15	.	.	PUNCT	Fp	_	7	punct	_	_
@@ -27109,7 +27109,7 @@
 31-32	dos	_	_	_	_	_	_	_	_
 31	de	de	ADP	SP	AdpType=Prep	34	case	_	_
 32	os	o	DET	DA0MP0	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	34	det	_	_
-33	seus	seu	DET	DP3MP0	Definite=Def|Gender=Masc|Number=Plur|Person=3|Poss=Yes	34	det	_	_
+33	seus	seu	DET	DP3MP0	Definite=Def|Gender=Masc|Number=Plur|Person=3|Poss=Yes|PronType=Prs	34	det	_	_
 34	veciños	veciño	NOUN	NCMP000	Gender=Masc|Number=Plur	29	obl	_	_
 35-36	polo	_	_	_	_	_	_	_	_
 35	por	por	ADP	SP	AdpType=Prep	37	case	_	_
@@ -27126,7 +27126,7 @@
 # text = A partir aproximadamente do século VIII a. C., comezaron a xurdir cidades estado; pequenos territorios autogobernados cos seus propios sistemas políticos.
 1	A	a	ADP	SP	AdpType=Prep|ExtPos=ADP	6	case	_	_
 2	partir	partir	VERB	VMN0000	VerbForm=Inf	1	fixed	_	_
-3	aproximadamente	aproximadamente	ADV	RG	_	6	advmod	_	_
+3	aproximadamente	aproximadamente	ADV	RG	_	1	fixed	_	_
 4-5	do	_	_	_	_	_	_	_	_
 4	de	de	ADP	SP	AdpType=Prep	1	fixed	_	_
 5	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
@@ -27147,7 +27147,7 @@
 20-21	cos	_	_	_	_	_	_	_	_
 20	con	con	ADP	SP	AdpType=Prep	24	case	_	_
 21	os	o	DET	DA0MP0	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	24	det	_	_
-22	seus	seu	DET	DP3MP0	Definite=Def|Gender=Masc|Number=Plur|Person=3|Poss=Yes	24	det	_	_
+22	seus	seu	DET	DP3MP0	Definite=Def|Gender=Masc|Number=Plur|Person=3|Poss=Yes|PronType=Prs	24	det	_	_
 23	propios	propio	DET	DI0MP0	Definite=Ind|Gender=Masc|Number=Plur|PronType=Art	24	det	_	_
 24	sistemas	sistema	NOUN	NCMP000	Gender=Masc|Number=Plur	18	nmod	_	_
 25	políticos	político	ADJ	AQ0MP	_	24	amod	_	SpaceAfter=No
@@ -27178,7 +27178,7 @@
 17-18	na	_	_	_	_	_	_	_	_
 17	en	en	ADP	SP	AdpType=Prep	20	case	_	_
 18	a	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_
-19	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes	20	det	_	_
+19	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	20	det	_	_
 20	lingua	lingua	NOUN	NCFS000	Gender=Fem|Number=Sing	13	nmod	_	_
 21	nativa	nativo	ADJ	AQ0FS	_	20	amod	_	SpaceAfter=No
 22	.	.	PUNCT	Fp	_	12	punct	_	_
@@ -27252,7 +27252,7 @@
 11-12	da	_	_	_	_	_	_	_	_
 11	de	de	ADP	SP	AdpType=Prep	14	case	_	_
 12	a	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
-13	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes	14	det	_	_
+13	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	14	det	_	_
 14	carreira	carreira	NOUN	NCFS000	Gender=Fem|Number=Sing	10	nmod	_	_
 15	como	como	ADP	SP	_	16	case	_	_
 16	radical	radical	NOUN	NCMS000	Gender=Masc|Number=Sing	14	nmod	_	_
@@ -27385,7 +27385,7 @@
 1-2	Á	_	_	_	_	_	_	_	_
 1	A	a	ADP	SP	AdpType=Prep	4	case	_	_
 2	A	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
-3	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes	4	det	_	_
+3	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	4	det	_	_
 4	volta	volta	NOUN	NCFS000	Gender=Fem|Number=Sing	6	obl	_	SpaceAfter=No
 5	,	,	PUNCT	Fc	_	4	punct	_	_
 6	contemplaron	contemplar	VERB	VMIS3P0	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	_
@@ -27452,7 +27452,7 @@
 30	en	en	ADP	SP	AdpType=Prep|ExtPos=ADV	28	advmod	_	_
 31	balde	balde	NOUN	NCMS000	Gender=Masc|Number=Sing	30	fixed	_	_
 32	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	34	det	_	_
-33	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes	34	det	_	_
+33	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	34	det	_	_
 34	apoio	apoio	NOUN	NCMS000	Gender=Masc|Number=Sing	28	obj	_	SpaceAfter=No
 35	.	.	PUNCT	Fp	_	20	punct	_	_
 
@@ -27467,7 +27467,7 @@
 5	Georges	georges	PROPN	NP00000	_	10	nsubj	_	_
 6	e	e	CCONJ	CC	_	9	cc	_	_
 7	a	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
-8	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes	9	det	_	_
+8	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	9	det	_	_
 9	esposa	esposo	NOUN	NCFS000	Gender=Fem|Number=Sing	5	conj	_	_
 10	retornaron	retornar	VERB	VMIS3P0	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	_
 11	a	a	ADP	SP	_	12	case	_	_
@@ -27550,7 +27550,7 @@
 26-27	pola	_	_	_	_	_	_	_	_
 26	por	por	ADP	SP	AdpType=Prep	29	case	_	_
 27	a	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	29	det	_	_
-28	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes	29	det	_	_
+28	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	29	det	_	_
 29	terra	terra	NOUN	NCFS000	Gender=Fem|Number=Sing	25	obl	_	SpaceAfter=No
 30	.	.	PUNCT	Fp	_	5	punct	_	_
 
@@ -28065,7 +28065,7 @@
 17	,	,	PUNCT	Fc	_	24	punct	_	_
 18	mais	mais	CCONJ	CC	_	24	cc	_	_
 19	as	o	DET	DA0FP0	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	21	det	_	_
-20	súas	seu	DET	DP3FP0	Definite=Def|Gender=Fem|Number=Plur|Person=3|Poss=Yes	21	det	_	_
+20	súas	seu	DET	DP3FP0	Definite=Def|Gender=Fem|Number=Plur|Person=3|Poss=Yes|PronType=Prs	21	det	_	_
 21	esperanzas	esperanza	NOUN	NCFP000	Gender=Fem|Number=Plur	24	nsubj	_	_
 22	pronto	pronto	ADV	RG	_	24	advmod	_	_
 23	se	se	PRON	PP3CN000	Gender=Com|Person=3|PronType=Prs	24	expl	_	_
@@ -28123,7 +28123,7 @@
 21	protestante	protestante	ADJ	AQ0CS	_	20	amod	_	_
 22	toda	todo	DET	DI0FS0	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	25	det	_	_
 23	a	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	25	det	_	_
-24	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes	25	det	_	_
+24	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	25	det	_	_
 25	vida	vida	NOUN	NCFS000	Gender=Fem|Number=Sing	17	obl	_	SpaceAfter=No
 26	.	.	PUNCT	Fp	_	9	punct	_	_
 
@@ -28275,7 +28275,7 @@
 1-2	Nas	_	_	_	_	_	_	_	_
 1	En	en	ADP	SP	AdpType=Prep	5	case	_	_
 2	as	o	DET	DA0FP0	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
-3	súas	seu	DET	DP3FP0	Definite=Def|Gender=Fem|Number=Plur|Person=3|Poss=Yes	5	det	_	_
+3	súas	seu	DET	DP3FP0	Definite=Def|Gender=Fem|Number=Plur|Person=3|Poss=Yes|PronType=Prs	5	det	_	_
 4	varias	varios	DET	DI0FP0	Definite=Ind|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
 5	colaboracións	colaboración	NOUN	NCFP000	Gender=Fem|Number=Plur	8	obl	_	SpaceAfter=No
 6	,	,	PUNCT	Fc	_	5	punct	_	_
@@ -28480,7 +28480,7 @@
 1-2	No	_	_	_	_	_	_	_	_
 1	En	en	ADP	SP	AdpType=Prep	4	case	_	_
 2	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
-3	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes	4	det	_	_
+3	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	4	det	_	_
 4	mandato	mandato	NOUN	NCMS000	Gender=Masc|Number=Sing	5	obl	_	_
 5-6	aprobouse	_	_	_	_	_	_	_	_
 5	aprobou	aprobar	VERB	VMIS3S0	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
@@ -28583,7 +28583,7 @@
 31	Este	este	NOUN	NCMS000	Gender=Masc|Number=Sing	28	nmod	_	_
 32	até	até	ADP	SP	_	34	case	_	_
 33	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	34	det	_	_
-34	punto	punto	NOUN	NCMS000	Gender=Masc|Number=Sing	19	obj	_	_
+34	punto	punto	NOUN	NCMS000	Gender=Masc|Number=Sing	19	obl	_	_
 35	de	de	ADP	SP	AdpType=Prep	36	case	_	_
 36	referencia	referencia	NOUN	NCFS000	Gender=Fem|Number=Sing	34	nmod	_	_
 37-38	do	_	_	_	_	_	_	_	_
@@ -28659,7 +28659,7 @@
 13	para	para	ADP	SP	AdpType=Prep	14	case	_	_
 14	acadar	acadar	VERB	VMN0000	VerbForm=Inf	10	xcomp	_	_
 15	a	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
-16	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes	17	det	_	_
+16	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	17	det	_	_
 17	independencia	independencia	NOUN	NCFS000	Gender=Fem|Number=Sing	14	obj	_	SpaceAfter=No
 18	.	.	PUNCT	Fp	_	4	punct	_	_
 
@@ -28690,7 +28690,7 @@
 22	vez	vez	NOUN	NCFS000	Gender=Fem|Number=Sing	23	obl	_	_
 23	máis	máis	ADV	RG	_	20	advmod	_	_
 24	as	o	DET	DA0FP0	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	26	det	_	_
-25	súas	seu	DET	DP3FP0	Definite=Def|Gender=Fem|Number=Plur|Person=3|Poss=Yes	26	det	_	_
+25	súas	seu	DET	DP3FP0	Definite=Def|Gender=Fem|Number=Plur|Person=3|Poss=Yes|PronType=Prs	26	det	_	_
 26	terras	terra	NOUN	NCFP000	Gender=Fem|Number=Plur	20	obj	_	SpaceAfter=No
 27	.	.	PUNCT	Fp	_	3	punct	_	_
 
@@ -28808,7 +28808,7 @@
 17	español	español	NOUN	NCMS000	Gender=Masc|Number=Sing	15	nmod	_	SpaceAfter=No
 18	,	,	PUNCT	Fc	_	21	punct	_	_
 19	as	o	DET	DA0FP0	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	21	det	_	_
-20	súas	seu	DET	DP3FP0	Definite=Def|Gender=Fem|Number=Plur|Person=3|Poss=Yes	21	det	_	_
+20	súas	seu	DET	DP3FP0	Definite=Def|Gender=Fem|Number=Plur|Person=3|Poss=Yes|PronType=Prs	21	det	_	_
 21	vicisitudes	vicisitude	NOUN	NCFP000	Gender=Fem|Number=Plur	12	conj	_	_
 22	históricas	histórico	ADJ	AQ0FP	_	21	amod	_	_
 23	e	e	CCONJ	CC	_	25	cc	_	_
@@ -28857,7 +28857,7 @@
 31	antes	antes	ADV	RG	_	22	advmod	_	_
 32	que	que	SCONJ	CS	_	35	mark	_	_
 33	a	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	35	det	_	_
-34	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes	35	det	_	_
+34	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	35	det	_	_
 35	tía	tío	NOUN	NCFS000	Gender=Fem|Number=Sing	31	obl	_	_
 36	Isabel	isabel	PROPN	NP00000	_	35	appos	_	_
 37	de	de	ADP	SP	AdpType=Prep	38	case	_	_
@@ -28888,7 +28888,7 @@
 17	decidiu	decidir	VERB	VMIS3S0	Mood=Ind|Number=Sing|Person=3|Tense=Past	7	conj	_	_
 18	executar	executar	VERB	VMN0000	VerbForm=Inf	17	xcomp	_	_
 19	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
-20	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes	21	det	_	_
+20	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	21	det	_	_
 21	plan	plan	NOUN	NCMS000	Gender=Masc|Number=Sing	18	obj	_	SpaceAfter=No
 22	:	:	PUNCT	Fd	_	23	punct	_	_
 23	invadir	invadir	VERB	VMN0000	VerbForm=Inf	17	parataxis	_	_
@@ -28956,7 +28956,7 @@
 13-14	coa	_	_	_	_	_	_	_	_
 13	con	con	ADP	SP	AdpType=Prep	16	case	_	_
 14	a	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
-15	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes	16	det	_	_
+15	súa	seu	DET	DP3FS0	Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	16	det	_	_
 16	produtora	produtor	NOUN	NCFS000	Gender=Fem|Number=Sing	12	obl	_	SpaceAfter=No
 17	,	,	PUNCT	Fc	_	18	punct	_	_
 18	The	the	PROPN	NP00000	_	16	appos	_	_
@@ -29045,7 +29045,7 @@
 7	xa	xa	ADV	RG	_	8	advmod	_	_
 8	rematara	rematar	VERB	VMIM1S0	Mood=Ind|Number=Sing|Person=1|Tense=Pqp	1	acl	_	_
 9	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
-10	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes	11	det	_	_
+10	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	11	det	_	_
 11	mandato	mandato	NOUN	NCMS000	Gender=Masc|Number=Sing	8	obj	_	SpaceAfter=No
 12	,	,	PUNCT	Fc	_	8	punct	_	_
 13	informou	informar	VERB	VMIS3S0	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
@@ -29068,7 +29068,7 @@
 3	,	,	PUNCT	Fc	_	1	punct	_	_
 4	ocupaba	ocupar	VERB	VMII3S0	Mood=Ind|Number=Sing|Person=3|Tense=Imp	0	root	_	_
 5	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
-6	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes	7	det	_	_
+6	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	7	det	_	_
 7	posto	posto	NOUN	NCMS000	Gender=Masc|Number=Sing	4	obj	_	_
 8-9	na	_	_	_	_	_	_	_	_
 8	en	en	ADP	SP	AdpType=Prep	10	case	_	_
@@ -29113,7 +29113,7 @@
 21	de	de	ADP	SP	AdpType=Prep	22	case	_	_
 22	retirar	retirar	VERB	VMN0000	VerbForm=Inf	20	acl	_	_
 23	as	o	DET	DA0FP0	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	25	det	_	_
-24	súas	seu	DET	DP3FP0	Definite=Def|Gender=Fem|Number=Plur|Person=3|Poss=Yes	25	det	_	_
+24	súas	seu	DET	DP3FP0	Definite=Def|Gender=Fem|Number=Plur|Person=3|Poss=Yes|PronType=Prs	25	det	_	_
 25	tropas	tropa	NOUN	NCFP000	Gender=Fem|Number=Plur	22	obj	_	_
 26	ou	ou	CCONJ	CC	_	27	cc	_	_
 27	converter	converter	VERB	VMN0000	VerbForm=Inf	22	conj	_	SpaceAfter=No
@@ -29143,7 +29143,7 @@
 49-50	dos	_	_	_	_	_	_	_	_
 49	de	de	ADP	SP	AdpType=Prep	52	case	_	_
 50	os	o	DET	DA0MP0	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	52	det	_	_
-51	seus	seu	DET	DP3MP0	Definite=Def|Gender=Masc|Number=Plur|Person=3|Poss=Yes	52	det	_	_
+51	seus	seu	DET	DP3MP0	Definite=Def|Gender=Masc|Number=Plur|Person=3|Poss=Yes|PronType=Prs	52	det	_	_
 52	inimigos	inimigo	NOUN	NCMP000	Gender=Masc|Number=Plur	48	nmod	_	_
 53	políticos	político	ADJ	AQ0MP	_	52	amod	_	SpaceAfter=No
 54	.	.	PUNCT	Fp	_	34	punct	_	_
@@ -29152,7 +29152,7 @@
 # parallel_id = pud/w05010027
 # text = O 1 de xaneiro de 49 a. C., Marco Antonio leu unha carta de César en que o procónsul se declaraba amigo da paz.
 1	O	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
-2	1	1	NUM	Z	NumType=Card	14	obl	_	_
+2	1	1	NUM	Z	NumType=Card	14	nmod	_	_
 3	de	de	ADP	SP	AdpType=Prep	4	case	_	_
 4	xaneiro	xaneiro	NOUN	NCMS000	Gender=Masc|Number=Sing	2	nmod	_	_
 5	de	de	ADP	SP	AdpType=Prep	6	case	_	_
